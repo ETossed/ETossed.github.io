@@ -7,7 +7,6 @@ const rankingBoxes = document.querySelectorAll(".ranking-box");
 
 function modeChange() {
     if (document.body.style.backgroundColor == "rgb(250, 250, 250)") {
-        content.style.color = "#FAFAFA";
         document.documentElement.style.setProperty("--mouseover-color", "#FAFAFA");
         document.body.style.backgroundColor = "#424242";
 
@@ -28,13 +27,13 @@ function modeChange() {
         document.body.style.backgroundColor = "#FAFAFA";
 
         playerBoxes.forEach(element => {
-            element.style.backgroundColor = "#FAFAFA";
+            element.style.backgroundColor = "#E0E0E0";
             element.style.color = "#212121";
             element.style.outlineWidth = "2px";
         });
 
         rankingBoxes.forEach(element => {
-            element.style.backgroundColor = "#FAFAFA";
+            element.style.backgroundColor = "#F5F5F5";
             element.style.outlineWidth = "2px";
         });
 
