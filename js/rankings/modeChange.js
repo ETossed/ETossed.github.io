@@ -24,7 +24,6 @@ function modeChange() {
 
     }
     else {
-        content.style.color = "#424242";
         document.documentElement.style.setProperty("--mouseover-color", "#424242");
         document.body.style.backgroundColor = "#FAFAFA";
 
