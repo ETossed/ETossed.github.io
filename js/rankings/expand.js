@@ -18,4 +18,4 @@ function resetBox (id) {
     return;
 }
 
-let insanelyLongArray = ["", "<br>this array is long as fuck", "this array is long as fuck", "this array is long as fuck", "this array is long as fuck", "this array is long as fuck", "this array is long as fuck", "this array is long as fuck", "this array is long as fuck", "this array is long as fuck", "this array is long as fuck"];
+let insanelyLongArray = ["", "this array is long as fuck", "this array is long as fuck", "this array is long as fuck", "this array is long as fuck", "this array is long as fuck", "this array is long as fuck", "this array is long as fuck", "this array is long as fuck", "this array is long as fuck", "this array is long as fuck"];

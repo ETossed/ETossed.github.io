@@ -40,11 +40,41 @@
     outline-color: #616161;
 }
 
+/* Sponsor stuff */
+.image-box {
+    padding-left:25px;
+    position: relative;
+    width: 60px;
+    height: 60px;
+}
+
+.image-box2 {
+    padding-right:5px;
+    position: relative;
+    width: 60px;
+    height: 60px;
+}
+
+.sponsor-img {
+    max-height: 100%;
+    max-width: 100%;
+    width: auto;
+    height: auto;
+    position: absolute;
+    top: 10px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+
 .player-details {
     justify-content: center;
     justify-items: center;
-    margin-left: 10px;
+    margin-left: 5px;
 }
+
+/* Name stuff */
 
 .gamertag {
     font-size: 2.25em;
@@ -55,4 +85,3 @@
     font-weight: 400;
     color: #9E9E9E
 }
-
