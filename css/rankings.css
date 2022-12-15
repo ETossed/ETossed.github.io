@@ -15,14 +15,16 @@
     align-items: flex-start;
     align-content: flex-start;
     
-    text-align: left;
-    color: white;
-    
     background-color: #212121;
+    text-align: left;
+    color: #FFFFFF;
     width: 50%;
-
     padding: .5%;
     margin-bottom: .5%;
+
+    outline-style: solid;
+    outline-width: 0px;
+    outline-color: #BDBDBD;
 }
 
 .ranking-box {
@@ -32,6 +34,10 @@
     width: 85px;
     padding-top: 10px;
     padding-bottom: 10px;
+
+    outline-style: solid;
+    outline-width: 0px;
+    outline-color: #616161;
 }
 
 .player-details {
@@ -42,7 +48,7 @@
 
 .gamertag {
     font-size: 2.25em;
-    font-weight: 700;
+    font-weight: 900;
 }
 
 .real-name {

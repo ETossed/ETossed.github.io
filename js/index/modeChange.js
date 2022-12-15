@@ -1,6 +1,6 @@
-let etossed = document.getElementById("name");
-let content = document.getElementById('content');
-let modeSwitch = document.getElementById("modeswitch");
+const etossed = document.getElementById("name");
+const content = document.getElementById('content');
+const modeSwitch = document.getElementById("modeswitch");
 
 function modeChange() {
     if (etossed.style.color == "rgb(33, 33, 33)") {
