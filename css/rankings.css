@@ -1,10 +1,29 @@
-.player-container {
+.layout-container {
     display: flex;
     flex-direction: column;
     flex-wrap: nowrap;
     justify-content: flex-start;
     align-items: center;
     align-content: center;
+}
+
+.player-container {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: flex-start;
+    align-content: center;
+    background-color: #212121;
+    width: 50%;
+
+    text-align: left;
+    color: #FFFFFF;
+
+    outline-style: solid;
+    outline-width: 0px;
+    outline-color: #BDBDBD;
+    margin: 5px;
 }
 
 .u-player {
@@ -15,16 +34,8 @@
     align-items: flex-start;
     align-content: flex-start;
     
-    background-color: #212121;
-    text-align: left;
-    color: #FFFFFF;
-    width: 50%;
-    padding: .5%;
-    margin-bottom: .5%;
-
-    outline-style: solid;
-    outline-width: 0px;
-    outline-color: #BDBDBD;
+    padding: 5px;
+    margin-bottom: 0;
 }
 
 .ranking-box {
@@ -95,4 +106,42 @@
 .real-name {
     font-weight: 400;
     color: #9E9E9E
+}
+
+/* Tables */
+
+.results {
+    width: 100%;
+}
+
+.result-table {
+    border: 0px;
+    border-collapse: separate;
+    border-spacing: 0 5px;
+
+    width: 100%;
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-top: -5px; /* this is dumb but works */
+
+    text-align: left;
+    font-size: 1.25em;
+}
+
+.result-table tr{
+    background-color: #323232;
+    height: 45px;
+
+    outline-style: solid;
+    outline-width: 0px;
+    outline-color: #616161;
+}
+
+.result-table td:nth-child(odd) {
+    text-align: center;
+    /* column-width: 20px; */
+}
+
+.place {
+    color: #EF5350;
 }
