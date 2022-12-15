@@ -41,21 +41,21 @@
 }
 
 /* Sponsor stuff */
-.image-box {
+.sponsor-box {
     padding-left:25px;
     position: relative;
     width: 60px;
     height: 60px;
 }
 
-.image-box2 {
+.sponsor-box2 {
     padding-right:5px;
     position: relative;
     width: 60px;
     height: 60px;
 }
 
-.sponsor-img {
+.s-img { /* Also for stock icons */
     max-height: 100%;
     max-width: 100%;
     width: auto;
@@ -67,6 +67,24 @@
     right: 0;
     margin: auto;
 }
+
+/* Stock icon */
+
+.stock-box { /* Also used for flag */
+    position: relative;
+    width: 40px;
+    height: 40px;
+}
+
+.stock-top {
+    top:25px;
+}
+
+.stock-neg-margin {
+    margin-left:-10px;
+}
+
+/* Player details */
 
 .player-details {
     justify-content: center;
