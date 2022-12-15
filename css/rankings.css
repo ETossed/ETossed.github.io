@@ -1,0 +1,52 @@
+.player-container {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-items: center;
+    align-content: center;
+}
+
+.u-player {
+    display: inline-flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-items: flex-start;
+    align-content: flex-start;
+    
+    text-align: left;
+    color: white;
+    
+    background-color: #212121;
+    width: 50%;
+
+    padding: .5%;
+    margin-bottom: .5%;
+}
+
+.ranking-box {
+    background-color: #323232;
+    text-align:center;
+    font-size:2.5em;
+    width: 85px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.player-details {
+    justify-content: center;
+    justify-items: center;
+    margin-left: 10px;
+}
+
+.gamertag {
+    font-size: 2.25em;
+    font-weight: 700;
+}
+
+.real-name {
+    font-weight: 400;
+    color: #9E9E9E
+}
+
