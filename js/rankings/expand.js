@@ -325,7 +325,7 @@ let leffen = `
     </tr>
     <tr>
         <td>m</td>
-        <td>Battle of BC 4<span class="place">1st</span></td>
+        <td>Battle of BC 4 <span class="place">1st</span></td>
     </tr>
     <tr>
         <td>m</td>
@@ -365,7 +365,7 @@ let plup = `
     </tr>
     <tr>
         <td>m</td>
-        <td>Riptide 2022<span class="place">2nd</span></td>
+        <td>Riptide 2022 <span class="place">2nd</span></td>
     </tr>
     <tr>
         <td>m</td>
