@@ -1,6 +1,5 @@
 // WORK IN PROGRESS
 
-const content = document.getElementById('content');
 const modeSwitch = document.getElementById("modeswitch");
 
 const playerBoxes = document.querySelectorAll(".u-player");
