@@ -39,7 +39,7 @@
 }
 
 .ranking-box {
-    background-color: #323232;
+    background-color: #424242;
     text-align:center;
     font-size:2.5em;
     width: 85px;
@@ -129,7 +129,7 @@
 }
 
 .result-table tr{
-    background-color: #323232;
+    background-color: #424242;
     height: 45px;
 
     outline-style: solid;
