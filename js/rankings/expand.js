@@ -137,11 +137,11 @@ let mango = `
     </tr>
     <tr>
         <td>m</td>
-        <td>Get On My Level 2022 <span class="place">5th</span></td>
+        <td>Scuffed World Tour <span class="place">3rd</span></td>
     </tr>
     <tr>
         <td>m</td>
-        <td>Shine 2022 <span class="place">5th</span></td>
+        <td>Get On My Level 2022 <span class="place">5th</span></td>
     </tr>
     <tr>
         <td>r</td>
@@ -209,6 +209,10 @@ let aMSa = `
     </tr>
     <tr>
         <td>m</td>
+        <td>Scuffed World Tour <span class="place">1st</span></td>
+    </tr>
+    <tr>
+        <td>m</td>
         <td>Double Down 2022 <span class="place">2nd</span></td>
     </tr>
     <tr>
@@ -218,10 +222,6 @@ let aMSa = `
     <tr>
         <td>m</td>
         <td>Pound 2022 <span class="place">3rd</span></td>
-    </tr>
-    <tr>
-        <td>m</td>
-        <td>Smash Summit 14 <span class="place">3rd</span></td>
     </tr>
     <tr>
         <td>r</td>
@@ -257,11 +257,11 @@ let hungrybox = `
     </tr>
     <tr>
         <td>m</td>
-        <td>Shine 2022 <span class="place">3rd</span></td>
+        <td>Scuffed World Tour <span class="place">2nd</span></td>
     </tr>
     <tr>
         <td>m</td>
-        <td>Apex 2022 <span class="place">3rd</span></td>
+        <td>Shine 2022 <span class="place">3rd</span></td>
     </tr>
     <tr>
         <td>r</td>
@@ -337,11 +337,11 @@ let leffen = `
     </tr>
     <tr>
         <td>m</td>
-        <td>Smash Summit 14 <span class="place">7th</span></td>
+        <td>Scuffed World Tour <span class="place">5th</span></td>
     </tr>
     <tr>
         <td>m</td>
-        <td>Smash Summit 13 <span class="place">9th</span></td>
+        <td>Smash Summit 14 <span class="place">7th</span></td>
     </tr>
     <tr>
         <td>r</td>
@@ -380,8 +380,8 @@ let plup = `
         <td>Smash Summit 14 <span class="place">9th</span></td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
+        <td>m</td>
+        <td>Scuffed World Tour <span class="place">9th</span></td>
     </tr>
     <tr>
         <td></td>
@@ -389,5 +389,5 @@ let plup = `
     </tr>
 </table>`
 
-let insanelyLongArray = ["", zain, mango, iBDW, aMSa, hungrybox, jmook, leffen, plup, "this array is long as fuck", "this array is long as fuck"];
+let insanelyLongArray = ["", zain, mango, aMSa, iBDW, hungrybox, jmook, leffen, plup, "this array is long as fuck", "this array is long as fuck"];
 
