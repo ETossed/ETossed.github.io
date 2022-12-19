@@ -6,15 +6,12 @@ const uBoxes = document.querySelectorAll(".u-player");
 playerBoxes.forEach(element => {
     let rName = 'r' + element.id;
     element.addEventListener('mouseover', function () {
-        if (("r" + element.id) != currentlyActive) {
-            if (currentMode) {
-                element.style.backgroundColor = "#323232";
-            }
-            else {
-                element.style.backgroundColor = "#BDBDBD"
-            }
+        if (currentMode) {
+            element.style.backgroundColor = "#323232";
         }
-        
+        else {
+            element.style.backgroundColor = "#BDBDBD"
+        }
     });
 
     element.addEventListener('mouseout', function () {
@@ -31,17 +28,10 @@ playerBoxes.forEach(element => {
             resetBox(currentlyActive);
             currentlyActive = rName;
             document.getElementById(rName).innerHTML = insanelyLongArray[element.id];
-            if (!currentMode) {
-                element.style.backgroundColor = "#E0E0E0"
-                let resultTables = document.querySelectorAll(".result-table tr");
-                resultTables.forEach(element => {
-                    element.style.backgroundColor = "#F5F5F5";
-                    element.style.outlineWidth = "2px";
-                })
-            }
-            else {
-                element.style.backgroundColor = "#212121";
-            }
+        }
+        else {
+            resetBox(rName);
+            currentlyActive = "r0";
         }
     });
 });

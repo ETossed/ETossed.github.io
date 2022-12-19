@@ -40,8 +40,8 @@
 
 .ranking-box {
     background-color: #424242;
-    text-align:center;
-    font-size:2.5em;
+    text-align: center;
+    font-size: 2.5em;
     width: 85px;
     padding-top: 10px;
     padding-bottom: 10px;
@@ -105,7 +105,7 @@
 
 .real-name {
     font-weight: 400;
-    color: #9E9E9E
+    color: #9E9E9E;
 }
 
 /* Tables */
@@ -139,7 +139,6 @@
 
 .result-table td:nth-child(odd) {
     text-align: center;
-    /* column-width: 20px; */
 }
 
 .place {
