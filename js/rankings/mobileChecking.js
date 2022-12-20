@@ -6,6 +6,7 @@ if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(naviga
     });
     blurbs.forEach(element => {
         element.style.width = "80%";
+        element.style.fontSize = ".75em";
     });
     gamertags.forEach(element => {
         element.style.fontWeight = "500";
