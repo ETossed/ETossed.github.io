@@ -8,6 +8,10 @@
     margin-bottom: -10px;
 }
 
+h1 {
+    color: var(--highlight-color);
+}
+
 .bh {
     margin: -10px;
 }
@@ -57,6 +61,7 @@
 }
 
 .ranking-box {
+    color: var(--highlight-color);
     background-color: #424242;
     text-align: center;
     font-size: 2.5em;
@@ -188,4 +193,10 @@ footer a {
 footer a:hover {
     color: #9E9E9E;
     color: #5a72fa
+}
+
+/* Random */
+
+.rc {
+    color: var(--highlight-color);
 }
