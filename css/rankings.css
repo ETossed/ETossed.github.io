@@ -139,6 +139,7 @@ h1 {
     margin-left: 10px;
     color: #FFFFFF;
     font-size: 1.25em;
+    font-weight: 500;
 }
 
 /* Tables */
@@ -193,6 +194,13 @@ footer a {
 footer a:hover {
     color: #9E9E9E;
     color: #5a72fa
+}
+
+/* Shapes for Tiers */
+
+.tier {
+    height: 10%;
+    width: 10%;
 }
 
 /* Random */

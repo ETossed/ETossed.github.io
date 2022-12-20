@@ -73,39 +73,39 @@ function resetBox (id) {
 let zain = `
 <table class="result-table">
     <tr>
-        <td>s</td>
+        <td>&#9733;</td>
         <td>Genesis 8 <span class="place">1st</span></td>
     </tr>
     <tr>
-        <td>s</td>
+        <td>&#9733;</td>
         <td>Ludwig Smash Invitaional <span class="place">1st</span></td>
     </tr>
     <tr>
-        <td>s</td>
+        <td>&#9733;</td>
         <td>The Big House 10 <span class="place">4th</span></td>
     </tr>
     <tr>
-        <td>m</td>
+        <td>&#9724;</td>
         <td>Shine 2022 <span class="place">1st</span></td>
     </tr>
     <tr>
-        <td>m</td>
+        <td>&#9724;</td>
         <td>Pound 2022 <span class="place">1st</span></td>
     </tr>
     <tr>
-        <td>m</td>
+        <td>&#9724;</td>
         <td>Apex 2022 <span class="place">2nd</span></td>
     </tr>
     <tr>
-        <td>m</td>
+        <td>&#9724;</td>
         <td>Battle of BC 4 <span class="place">3rd</span></td>
     </tr>
     <tr>
-        <td>m</td>
+        <td>&#9724;</td>
         <td>Get On My Level 2022 <span class="place">3rd</span></td>
     </tr>
     <tr>
-        <td>r</td>
+        <td>&#9650;</td>
         <td>Phantom 2022 <span class="place">2nd</span></td>
     </tr>
 </table>`
@@ -113,39 +113,39 @@ let zain = `
 let mango = `
 <table class="result-table">
     <tr>
-        <td>s</td>
+        <td>&#9733;</td>
         <td>The Big House 10 <span class="place">2nd</span></td>
     </tr>
     <tr>
-        <td>s</td>
+        <td>&#9733;</td>
         <td>Ludwig Smash Invitational <span class="place">7th</span></td>
     </tr>
     <tr>
-        <td>s</td>
+        <td>&#9733;</td>
         <td>Genesis 8 <span class="place">9th</span></td>
     </tr>
     <tr>
-        <td>m</td>
+        <td>&#9724;</td>
         <td>Super Smash Con 2022 <span class="place">1st</span></td>
     </tr>
     <tr>
-        <td>m</td>
+        <td>&#9724;</td>
         <td>Mainstage 2022 <span class="place">1st</span></td>
     </tr>
     <tr>
-        <td>m</td>
+        <td>&#9724;</td>
         <td>Smash Summit 14 <span class="place">1st</span></td>
     </tr>
     <tr>
-        <td>m</td>
+        <td>&#9724;</td>
         <td>Scuffed World Tour <span class="place">3rd</span></td>
     </tr>
     <tr>
-        <td>m</td>
+        <td>&#9724;</td>
         <td>Get On My Level 2022 <span class="place">5th</span></td>
     </tr>
     <tr>
-        <td>r</td>
+        <td>&#9650;</td>
         <td>Phantom 2022 <span class="place">3rd</span></td>
     </tr>
 </table>`
@@ -153,39 +153,39 @@ let mango = `
 let iBDW = `
 <table class="result-table">
     <tr>
-        <td>s</td>
+        <td>&#9733;</td>
         <td>Genesis 8 <span class="place">3rd</span></td>
     </tr>
     <tr>
-        <td>s</td>
+        <td>&#9733;</td>
         <td>The Big House 10 <span class="place">3rd</span></td>
     </tr>
     <tr>
-        <td>s</td>
+        <td>&#9733;</td>
         <td>Ludwig Smash Invitational <span class="place">9th</span></td>
     </tr>
     <tr>
-        <td>m</td>
+        <td>&#9724;</td>
         <td>Double Down 2022 <span class="place">1st</span></td>
     </tr>
     <tr>
-        <td>m</td>
+        <td>&#9724;</td>
         <td>Smash Summit 13 <span class="place">1st</span></td>
     </tr>
     <tr>
-        <td>m</td>
+        <td>&#9724;</td>
         <td>Mainstage 2022 <span class="place">2nd</span></td>
     </tr>
     <tr>
-        <td>m</td>
+        <td>&#9724;</td>
         <td>Smash Summit 14 <span class="place">2nd</span></td>
     </tr>
     <tr>
-        <td>m</td>
+        <td>&#9724;</td>
         <td>Apex 2022 <span class="place">4th</span></td>
     </tr>
     <tr>
-        <td>r</td>
+        <td>&#9650;</td>
         <td>Phantom 2022 <span class="place">1st</span></td>
     </tr>
 </table>`
@@ -193,39 +193,39 @@ let iBDW = `
 let aMSa = `
 <table class="result-table">
     <tr>
-        <td>s</td>
+        <td>&#9733;</td>
         <td>The Big House 10 <span class="place">1st</span></td>
     </tr>
     <tr>
-        <td>s</td>
+        <td>&#9733;</td>
         <td>Genesis 8 <span class="place">5th</span></td>
     </tr>
     <tr>
-        <td>s</td>
+        <td>&#9733;</td>
         <td>Ludwig Smash Invitational <span class="place">7th</span></td>
     </tr>
     <tr>
-        <td>m</td>
+        <td>&#9724;</td>
         <td>Apex 2022 <span class="place">1st</span></td>
     </tr>
     <tr>
-        <td>m</td>
+        <td>&#9724;</td>
         <td>Scuffed World Tour <span class="place">1st</span></td>
     </tr>
     <tr>
-        <td>m</td>
+        <td>&#9724;</td>
         <td>Double Down 2022 <span class="place">2nd</span></td>
     </tr>
     <tr>
-        <td>m</td>
+        <td>&#9724;</td>
         <td>Mainstage 2022 <span class="place">3rd</span></td>
     </tr>
     <tr>
-        <td>m</td>
+        <td>&#9724;</td>
         <td>Pound 2022 <span class="place">3rd</span></td>
     </tr>
     <tr>
-        <td>r</td>
+        <td>&#9650;</td>
         <td>The Off-Season <span class="place">1st</span></td>
     </tr>
 </table>`
@@ -233,39 +233,39 @@ let aMSa = `
 let hungrybox = `
 <table class="result-table">
     <tr>
-        <td>s</td>
+        <td>&#9733;</td>
         <td>Ludwig Smash Invitational <span class="place">2nd</span></td>
     </tr>
     <tr>
-        <td>s</td>
+        <td>&#9733;</td>
         <td>Genesis 8 <span class="place">5th</span></td>
     </tr>
     <tr>
-        <td>s</td>
+        <td>&#9733;</td>
         <td>The Big House 10 <span class="place">5th</span></td>
     </tr>
     <tr>
-        <td>m</td>
+        <td>&#9724;</td>
         <td>Get On My Level 2022 <span class="place">1st</span></td>
     </tr>
     <tr>
-        <td>m</td>
+        <td>&#9724;</td>
         <td>Riptide 2022 <span class="place">1st</span></td>
     </tr>
     <tr>
-        <td>m</td>
+        <td>&#9724;</td>
         <td>Super Smash Con 2022 <span class="place">2nd</span></td>
     </tr>
     <tr>
-        <td>m</td>
+        <td>&#9724;</td>
         <td>Scuffed World Tour <span class="place">2nd</span></td>
     </tr>
     <tr>
-        <td>m</td>
+        <td>&#9724;</td>
         <td>Shine 2022 <span class="place">3rd</span></td>
     </tr>
     <tr>
-        <td>r</td>
+        <td>&#9650;</td>
         <td>Wavedash 2022 <span class="place">1st</span></td>
     </tr>
 </table>`
@@ -273,39 +273,39 @@ let hungrybox = `
 let jmook = `
 <table class="result-table">
     <tr>
-        <td>s</td>
+        <td>&#9733;</td>
         <td>Genesis 8 <span class="place">2nd</span></td>
     </tr>
     <tr>
-        <td>s</td>
+        <td>&#9733;</td>
         <td>Ludwig Smash Invitational <span class="place">5th</span></td>
     </tr>
     <tr>
-        <td>s</td>
+        <td>&#9733;</td>
         <td>The Big House 10 <span class="place">7th</span></td>
     </tr>
     <tr>
-        <td>m</td>
+        <td>&#9724;</td>
         <td>Get On My Level 2022 <span class="place">2nd</span></td>
     </tr>
     <tr>
-        <td>m</td>
+        <td>&#9724;</td>
         <td>Shine 2022 <span class="place">2nd</span></td>
     </tr>
     <tr>
-        <td>m</td>
+        <td>&#9724;</td>
         <td>Riptide 2022 <span class="place">3rd</span></td>
     </tr>
     <tr>
-        <td>m</td>
+        <td>&#9724;</td>
         <td>Smash Summit 13 <span class="place">4th</span></td>
     </tr>
     <tr>
-        <td>m</td>
+        <td>&#9724;</td>
         <td>Battle of BC 4 <span class="place">5th</span></td>
     </tr>
     <tr>
-        <td>r</td>
+        <td>&#9650;</td>
         <td>The Off-Season <span class="place">2nd</span></td>
     </tr>
 </table>`
@@ -313,39 +313,39 @@ let jmook = `
 let leffen = `
 <table class="result-table">
     <tr>
-        <td>s</td>
+        <td>&#9733;</td>
         <td>Ludwig Smash Invitational <span class="place">3rd</span></td>
     </tr>
     <tr>
-        <td>s</td>
+        <td>&#9733;</td>
         <td>The Big House 10 <span class="place">17th</span></td>
     </tr>
     <tr>
-        <td>s</td>
+        <td>&#9733;</td>
         <td>Genesis 8 <span class="place">N/A</span></td>
     </tr>
     <tr>
-        <td>m</td>
+        <td>&#9724;</td>
         <td>Battle of BC 4 <span class="place">1st</span></td>
     </tr>
     <tr>
-        <td>m</td>
+        <td>&#9724;</td>
         <td>Mainstage 2022 <span class="place">5th</span></td>
     </tr>
     <tr>
-        <td>m</td>
+        <td>&#9724;</td>
         <td>Pound 2022 <span class="place">5th</span></td>
     </tr>
     <tr>
-        <td>m</td>
+        <td>&#9724;</td>
         <td>Scuffed World Tour <span class="place">5th</span></td>
     </tr>
     <tr>
-        <td>m</td>
+        <td>&#9724;</td>
         <td>Smash Summit 14 <span class="place">7th</span></td>
     </tr>
     <tr>
-        <td>r</td>
+        <td>&#9650;</td>
         <td>Dreamhack Rotterdam <span class="place">1st</span></td>
     </tr>
 </table>`
@@ -353,40 +353,280 @@ let leffen = `
 let plup = `
 <table class="result-table">
     <tr>
-        <td>s</td>
+        <td>&#9733;</td>
         <td>Genesis 8 <span class="place">13th</span></td>
     </tr>
     <tr>
-        <td>s</td>
+        <td>&#9733;</td>
         <td>The Big House 10 <span class="place">N/A</span></td>
     </tr>
     <tr>
-        <td>s</td>
+        <td>&#9733;</td>
         <td>Ludwig Smash Invitational <span class="place">N/A</span></td>
     </tr>
     <tr>
-        <td>m</td>
+        <td>&#9724;</td>
         <td>Riptide 2022 <span class="place">2nd</span></td>
     </tr>
     <tr>
-        <td>m</td>
+        <td>&#9724;</td>
         <td>Lost Tech City 2022 <span class="place">2nd</span></td>
     </tr>
     <tr>
-        <td>m</td>
+        <td>&#9724;</td>
         <td>Smash Summit 13 <span class="place">2nd</span></td>
     </tr>
     <tr>
-        <td>m</td>
+        <td>&#9724;</td>
         <td>Smash Summit 14 <span class="place">9th</span></td>
     </tr>
     <tr>
-        <td>m</td>
+        <td>&#9724;</td>
         <td>Scuffed World Tour <span class="place">9th</span></td>
     </tr>
     <tr>
-        <td>r</td>
+        <td>&#9650;</td>
         <td>CEO 2022 <span class="place">1st</span></td>
+    </tr>
+</table>`
+
+let slug = `
+<table class="result-table">
+    <tr>
+        <td>&#9733;</td>
+        <td>Ludwig Smash Invitational <span class="place">4th</span></td>
+    </tr>
+    <tr>
+        <td>&#9733;</td>
+        <td>Genesis 8 <span class="place">9th</span></td>
+    </tr>
+    <tr>
+        <td>&#9733;</td>
+        <td>The Big House 10 <span class="place">17th</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Double Down 2022 <span class="place">4th</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Mainstage 2022 <span class="place">4th</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Shine 2022 <span class="place">13th</span></td>
+    </tr>
+    <tr>
+        <td>&#9650;</td>
+        <td>The Function 2 <span class="place">3rd</span></td>
+    </tr>
+    <tr>
+        <td>&#9650;</td>
+        <td>THe Trail Invitational 2 <span class="place">9th</span></td>
+    </tr>
+    <tr>
+        <td>&#9650;</td>
+        <td>The Nightclub VIP <span class="place">9th</span></td>
+    </tr>
+</table>`
+
+let axe = `
+<table class="result-table">
+    <tr>
+        <td>&#9733;</td>
+        <td>Ludwig Smash Invitational <span class="place">9th</span></td>
+    </tr>
+    <tr>
+        <td>&#9733;</td>
+        <td>Genesis 8 <span class="place">13th</span></td>
+    </tr>
+    <tr>
+        <td>&#9733;</td>
+        <td>The Big House 10 <span class="place">13th</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Shine 2022 <span class="place">4th</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Scuffed World Tour <span class="place">4th</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Apex 2022 <span class="place">5th</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Smash Summit 14 <span class="place">7th</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Lost Tech City 2022 <span class="place">9th</span></td>
+    </tr>
+    <tr>
+        <td>&#9650;</td>
+        <td>The Off-Season <span class="place">3rd</span></td>
+    </tr>
+</table>`
+
+let llod = `
+<table class="result-table">
+    <tr>
+        <td>&#9733;</td>
+        <td>Genesis 8 <span class="place">7th</span></td>
+    </tr>
+    <tr>
+        <td>&#9733;</td>
+        <td>Ludwig Smash Invitational <span class="place">17th</span></td>
+    </tr>
+    <tr>
+        <td>&#9733;</td>
+        <td>The Big House 10 <span class="place">N/A</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Super Smash Con 2022 <span class="place">3rd</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Pound 2022 <span class="place">4th</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Smash Summit 13 <span class="place">5th</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Scuffed World Tour <span class="place">7th</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Riptide 2022 <span class="place">9th</span></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+    </tr>
+</table>`
+
+let kodorin = `
+<table class="result-table">
+    <tr>
+        <td>&#9733;</td>
+        <td>Genesis 8 <span class="place">9th</span></td>
+    </tr>
+    <tr>
+        <td>&#9733;</td>
+        <td>The Big House 10 <span class="place">9th</span></td>
+    </tr>
+    <tr>
+        <td>&#9733;</td>
+        <td>Ludwig Smash Invitational <span class="place">13th</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Pound 2022 <span class="place">5th</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Shine 2022 <span class="place">7th</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Mainstage 2022 <span class="place">7th</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Smash Summit 13 <span class="place">7th</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Lost Tech City 2022 <span class="place">9th</span></td>
+    </tr>
+    <tr>
+        <td>&#9650;</td>
+        <td>Saving Mr. Lombardi 3 <span class="place">1st</span></td>
+    </tr>
+</table>`
+
+let moky = `
+<table class="result-table">
+    <tr>
+        <td>&#9733;</td>
+        <td>The Big House 10 <span class="place">9th</span></td>
+    </tr>
+    <tr>
+        <td>&#9733;</td>
+        <td>Genesis 8 <span class="place">13th</span></td>
+    </tr>
+    <tr>
+        <td>&#9733;</td>
+        <td>Ludwig Smash Invitational <span class="place">17th</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Get On My Level 2022 <span class="place">7th</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Apex 2022 <span class="place">7th</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Mainstage 2022 <span class="place">7th</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Battle of BC 4 <span class="place">7th</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Riptide 2022 <span class="place">9th</span></td>
+    </tr>
+    <tr>
+        <td>&#9650;</td>
+        <td>The Function 2 <span class="place">2nd</span></td>
+    </tr>
+</table>`
+
+let fiction = `
+<table class="result-table">
+    <tr>
+        <td>&#9733;</td>
+        <td>The Big House 10 <span class="place">7th</span></td>
+    </tr>
+    <tr>
+        <td>&#9733;</td>
+        <td>Genesis 8 <span class="place">17th</span></td>
+    </tr>
+    <tr>
+        <td>&#9733;</td>
+        <td>Ludwig Smash Invitational <span class="place">17th</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Double Down 2022 <span class="place">3rd</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Pound 2022 <span class="place">7th</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Scuffed World Tour <span class="place">9th</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Mainstage 2022 <span class="place">33rd</span></td>
+    </tr>
+    <tr>
+        <td>&#9650;</td>
+        <td>We Need Some Space 3 <span class="place">1st</span></td>
+    </tr>
+    <tr>
+        <td>&#9650;</td>
+        <td>Saving Mr. Lombardi 3 <span class="place">3rd</span></td>
     </tr>
 </table>`
 
@@ -394,78 +634,74 @@ let nicki = `
 <table class="result-table">
     <tbody>
     <tr>
-        <td>r</td>
+        <td>&#9650;</td>
         <td>Pixelpokal x DreamHack <span class="place">1st</span></td>
     </tr>
     <tr>
-        <td>r</td>
+        <td>&#9650;</td>
         <td>RCADIA SMASH 3 <span class="place">1st</span></td>
     </tr>
     </tbody>
 </table>`
-
 let inngenn = `
 <table class="result-table">
     <tr>
-        <td>m</td>
+        <td>&#9724;</td>
         <td>Scuffed World Tour <span class="place">13th</span></td>
     </tr>
     <tr>
-        <td>r</td>
+        <td>&#9650;</td>
         <td>Battle GateWay 37 <span class="place">1st</span></td>
     </tr>
     <tr>
-        <td>r</td>
+        <td>&#9650;</td>
         <td>Battle GateWay 34 <span class="place">2nd</span></td>
     </tr>
 </table>`
-
 let akir = `
 <table class="result-table">
     <tr>
-        <td>r</td>
+        <td>&#9650;</td>
         <td>Fall GatorLAN <span class="place">3rd</span></td>
     </tr>
     <tr>
-        <td>r</td>
+        <td>&#9650;</td>
         <td>CEO 2022 <span class="place">7th</span></td>
     </tr>
 </table>`
-
 let alex = `
 <table class="result-table">
     <tr>
-        <td>m</td>
+        <td>&#9724;</td>
         <td>Double Down 2022 <span class="place">17th</span></td>
     </tr>
     <tr>
-        <td>r</td>
+        <td>&#9650;</td>
         <td>Comomo: Outta Thin Nair <span class="place">1st</span></td>
     </tr>
     <tr>
-        <td>r</td>
+        <td>&#9650;</td>
         <td>Sunshined 2 <span class="place">4th</span></td>
     </tr>
 </table>`
-
 let hundredgrand = `
 <table class="result-table">
     <tr>
-        <td>r</td>
+        <td>&#9650;</td>
         <td>Invincible VI <span class="place">1st</span></td>
     </tr>
     <tr>
-        <td>r</td>
+        <td>&#9650;</td>
         <td>4M: Mega Minnesota Melee Monthly <span class="place">4th</span></td>
     </tr>
     <tr>
-        <td>r</td>
+        <td>&#9650;</td>
         <td>Minnesota Monthly #5 <span class="place">7th</span></td>
     </tr>
 </table>`
 
 let insanelyLongArray = ["", zain, mango, aMSa, iBDW, hungrybox, jmook, leffen, plup, 
-9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 
+slug, axe, llod, kodorin, moky, fiction, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 
 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 
 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 
 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 
