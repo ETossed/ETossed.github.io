@@ -451,7 +451,7 @@ let alex = `
 let hundredgrand = `
 <table class="result-table">
     <tr>
-        <td>rr</td>
+        <td>r</td>
         <td>Invincible VI <span class="place">1st</span></td>
     </tr>
     <tr>
