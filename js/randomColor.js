@@ -1,6 +1,7 @@
-let colorArr = ["#D50000", "#C51162", "#AA00FF", "#6200EA", "#304FFE", "#2962FF", "#0091EA", "#00B8D4", "#00BFA5",
-"#00C853", "#64DD17", "#41C300", "#AEEA00", "#FFD600", "#FF6D00", "#DD2C00"];
-const highlightColor = colorArr[((new Date()) % 16)];
+let colorArr = ["#EF9A9A", "#F48FB1", "#CE93D8", "#B39DDB", "#9FA8DA", "#90CAF9", "#81D4FA", "#80CBC4",
+"#A5D6A7", "#C5E1A5", "#E6EE9C", "#FFF59D", "#FFE082", "#FFCC80", "#FFAB91"];
+console.log(colorArr.length)
+const highlightColor = colorArr[((new Date()) % 15)];
 
 document.documentElement.style.setProperty("--highlight-color", highlightColor);
 

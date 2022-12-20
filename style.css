@@ -1,5 +1,6 @@
 /* THIS IS FOR EVERY PAGE */
 
+
 /* Variables */
 
 @font-face {
@@ -32,6 +33,7 @@ body {
     font-weight: 600;
     background-color: #424242;
     text-align: center;
+    color: #FFFFFF;
 }
 
 a {

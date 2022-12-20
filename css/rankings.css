@@ -1,3 +1,19 @@
+/* Header */
+
+#header-text {
+    color: var(--highlight-color);
+    text-align: center;
+    font-size:4em;
+    margin-top: -40px;
+    margin-bottom: -10px;
+}
+
+.bh {
+    margin: -10px;
+}
+
+/* Body */
+
 .layout-container {
     display: flex;
     flex-direction: column;
@@ -22,8 +38,10 @@
 
     outline-style: solid;
     outline-width: 0px;
-    outline-color: #BDBDBD;
+    outline-color: #424242;
     margin: 5px;
+
+    transition: height .5s;
 }
 
 .u-player {
@@ -105,7 +123,17 @@
 
 .real-name {
     font-weight: 400;
-    color: #9E9E9E;
+    color: #757575;
+}
+
+/* Blurbs */
+
+.blurb-container {
+    width: 50%;
+    text-align: left;
+    margin-left: 10px;
+    color: #FFFFFF;
+    font-size: 1.25em;
 }
 
 /* Tables */
@@ -142,5 +170,22 @@
 }
 
 .place {
-    color: #EF5350;
+    color: var(--highlight-color);
+}
+
+/* Footer */
+
+footer {
+    margin: 25px;
+    font-size: 1.25em;
+}
+
+footer a {
+    color: var(--highlight-color);
+    margin: 10px;
+}
+
+footer a:hover {
+    color: #9E9E9E;
+    color: #5a72fa
 }

@@ -28,6 +28,17 @@ playerBoxes.forEach(element => {
             resetBox(currentlyActive);
             currentlyActive = rName;
             document.getElementById(rName).innerHTML = insanelyLongArray[element.id];
+            if (!currentMode) {
+                element.style.backgroundColor = "#E0E0E0"
+                let resultTables = document.querySelectorAll(".result-table tr");
+                resultTables.forEach(element => {
+                    element.style.backgroundColor = "#F5F5F5";
+                    element.style.outlineWidth = "2px";
+                })
+            }
+            else {
+                element.style.backgroundColor = "#212121";
+            }
         }
         else {
             resetBox(rName);
@@ -107,7 +118,7 @@ let mango = `
     </tr>
     <tr>
         <td>s</td>
-        <td>Ludwig Smash Invitaional <span class="place">7th</span></td>
+        <td>Ludwig Smash Invitational <span class="place">7th</span></td>
     </tr>
     <tr>
         <td>s</td>
@@ -374,10 +385,89 @@ let plup = `
         <td>Scuffed World Tour <span class="place">9th</span></td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
+        <td>r</td>
+        <td>CEO 2022 <span class="place">1st</span></td>
     </tr>
 </table>`
 
-let insanelyLongArray = ["", zain, mango, aMSa, iBDW, hungrybox, jmook, leffen, plup, "this array is long as fuck", "this array is long as fuck"];
+let nicki = `
+<table class="result-table">
+    <tbody>
+    <tr>
+        <td>r</td>
+        <td>Pixelpokal x DreamHack <span class="place">1st</span></td>
+    </tr>
+    <tr>
+        <td>r</td>
+        <td>RCADIA SMASH 3 <span class="place">1st</span></td>
+    </tr>
+    </tbody>
+</table>`
+
+let inngenn = `
+<table class="result-table">
+    <tr>
+        <td>m</td>
+        <td>Scuffed World Tour <span class="place">13th</span></td>
+    </tr>
+    <tr>
+        <td>r</td>
+        <td>Battle GateWay 37 <span class="place">1st</span></td>
+    </tr>
+    <tr>
+        <td>r</td>
+        <td>Battle GateWay 34 <span class="place">2nd</span></td>
+    </tr>
+</table>`
+
+let akir = `
+<table class="result-table">
+    <tr>
+        <td>r</td>
+        <td>Fall GatorLAN <span class="place">3rd</span></td>
+    </tr>
+    <tr>
+        <td>r</td>
+        <td>CEO 2022 <span class="place">7th</span></td>
+    </tr>
+</table>`
+
+let alex = `
+<table class="result-table">
+    <tr>
+        <td>m</td>
+        <td>Double Down 2022 <span class="place">17th</span></td>
+    </tr>
+    <tr>
+        <td>r</td>
+        <td>Comomo: Outta Thin Nair <span class="place">1st</span></td>
+    </tr>
+    <tr>
+        <td>r</td>
+        <td>Sunshined 2 <span class="place">4th</span></td>
+    </tr>
+</table>`
+
+let hundredgrand = `
+<table class="result-table">
+    <tr>
+        <td>rr</td>
+        <td>Invincible VI <span class="place">1st</span></td>
+    </tr>
+    <tr>
+        <td>r</td>
+        <td>4M: Mega Minnesota Melee Monthly <span class="place">4th</span></td>
+    </tr>
+    <tr>
+        <td>r</td>
+        <td>Minnesota Monthly #5 <span class="place">7th</span></td>
+    </tr>
+</table>`
+
+let insanelyLongArray = ["", zain, mango, aMSa, iBDW, hungrybox, jmook, leffen, plup, 
+9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 
+31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 
+53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 
+75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 
+97, 98, 99, 100, 101, 102, 103, 104, 105, nicki, inngenn, akir, alex, hundredgrand];
 
