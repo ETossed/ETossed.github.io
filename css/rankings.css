@@ -20,7 +20,7 @@ h1 {
 
 .layout-container {
     display: flex;
-    flex-direction: column;
+    flex-direction: column; /* Set to reverse for pictures */
     flex-wrap: nowrap;
     justify-content: flex-start;
     align-items: center;
