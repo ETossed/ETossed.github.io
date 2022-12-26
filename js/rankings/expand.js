@@ -1226,7 +1226,7 @@ let lucky = `
     </tr>
     <tr>
         <td>&#9650;</td>
-        <td>Phantom 2022 <span class="place">49th</span></td>
+        <td>Phantom 2022 <span class="place">4th</span></td>
     </tr>
 </table>`
 
@@ -4446,11 +4446,11 @@ let sharp = `
         <td>Ludwig Smash Invitational <span class="place">N/A</span></td>
     </tr>
     <tr>
-        <td>&#9632;</td>
+        <td>&#9724;</td>
         <td>Riptide 2022 <span class="place">17th</span></td>
     </tr>
     <tr>
-        <td>&#9632;</td>
+        <td>&#9724;</td>
         <td>Shine 2022 <span class="place">33rd</span></td>
     </tr>
     <tr>
