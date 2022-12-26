@@ -8,6 +8,9 @@ const blurbs = document.querySelectorAll(".blurb-container");
 const headings = document.querySelectorAll(".heading");
 const intro = document.getElementById("intro");
 const button = document.getElementById("button");
+const chudatimg = document.getElementById("chudatimg");
+const leffenimg = document.getElementById("leffenimg");
+const hboximg = document.getElementById("hboximg");
 
 function modeChange() {
     if (document.body.style.backgroundColor == "rgb(238, 238, 238)") {
@@ -43,6 +46,10 @@ function modeChange() {
         intro.style.color = "#FFFFFF";
         button.style.backgroundColor = "#212121";
         button.style.outlineWidth = "0px"
+
+        chudatimg.src = "resources/Sponsors/LiquidWhite.png";
+        leffenimg.src = "resources/Sponsors/TSMWhite.png";
+        hboximg.src = "resources/Sponsors/LiquidWhite.png";
     }
     else {
         currentMode = 0;
@@ -77,6 +84,10 @@ function modeChange() {
         intro.style.color = "#212121";
         button.style.backgroundColor = "#E0E0E0";
         button.style.outlineWidth = "2px"
+
+        chudatimg.src = "resources/Sponsors/Liquid.png";
+        leffenimg.src = "resources/Sponsors/TSM.png";
+        hboximg.src = "resources/Sponsors/Liquid.png";
     }
 }
 
