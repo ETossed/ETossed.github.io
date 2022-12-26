@@ -133,6 +133,16 @@ h1 {
 
 /* Blurbs */
 
+#intro {
+    width: 50%;
+    text-align: left;
+    margin-left: 10px;
+    margin-top: -30px;
+    color: #FFFFFF;
+    font-size: 1.25em;
+    font-weight: 500;
+}
+
 .blurb-container {
     width: 50%;
     text-align: left;
@@ -140,6 +150,10 @@ h1 {
     color: #FFFFFF;
     font-size: 1.25em;
     font-weight: 500;
+}
+
+.blurb-container p {
+    margin-top: -2px;
 }
 
 /* Tables */
@@ -179,6 +193,52 @@ h1 {
     color: var(--highlight-color);
 }
 
+/* Change in rank */
+
+.change {
+    font-size: 2.25em;
+    position: absolute;
+    margin-top: 12px;
+}
+
+.pos {
+    left: 71.5%;
+    color: #4CAF50;
+}
+
+.neg {
+    left: 71.8%;
+    color: #F44336;
+}
+
+.no {
+    left: 72.3%;
+    color: #9E9E9E;
+}
+
+.new {
+    left: 71.8%;
+    color: #9E9E9E;
+}
+
+/* Button */
+
+#button {
+    color: var(--highlight-color);
+    background-color: #212121;
+
+    border: none;
+    padding: 20px 40px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 1em;
+    font-weight: 600;
+
+    outline-color: #424242;
+    outline-width: 0px;
+    outline-style: solid;
+}
+
 /* Footer */
 
 footer {
@@ -194,13 +254,6 @@ footer a {
 footer a:hover {
     color: #9E9E9E;
     color: #5a72fa
-}
-
-/* Shapes for Tiers */
-
-.tier {
-    height: 10%;
-    width: 10%;
 }
 
 /* Random */
