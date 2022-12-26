@@ -20,10 +20,15 @@ button.addEventListener('click', function () {
     blurbs.forEach(element => {
         console.log(element.hidden)
         if (element.hidden == false) {
+            
             element.hidden = true;
+            button.innerHTML = "Show Blurbs"
         }
         else {
             element.hidden = false;
+            button.innerHTML = "Hide Blurbs"
         }
     });
+
+    
 });

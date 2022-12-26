@@ -4475,9 +4475,9 @@ let insanelyLongArray = ["", zain, mango, aMSa, iBDW, hungrybox, jmook, leffen, 
 slug, axe, llod, kodorin, moky, fiction, s2j, n0ne, aklo, wizzrobe, joshman, pipsqueak, 
 ginger, soonsay, krudo, magi, sfop, polish, sfat, nullgs, lucky, spark, salt, swift, swooper, 
 zamu, bobby, jflex, mekk, zuppy, trif, rishi, smashdaddy, aura, toussaint, skerzo, medz, franz, 
-lunardusk, chudat, frenzy, panda, kurv, azel, colbol, fatgoku, drlobster, profpro, logan, spud, 
+lunardusk, chudat, frenzy, panda, kurv, azel, colbol, profpro, fatgoku, drlobster, logan, spud, 
 sdj, grab, ralph, chem, ben, motmoney, wally, bbatts, palpa, dawson, kalamazhu, kjh, eddymexico,
-kalvar, drephen, khryke, suf, faceroll, panko, chape, gahtzu, sirmeris, voo, madtyro, wevans, trt,
+kalvar, drephen, faceroll, suf, khryke, panko, chape, gahtzu, sirmeris, voo, madtyro, wevans, trt,
 rocket, nickemwit, khalid, essy, logos, jjm, justjoe, umarth, slowking, kevinmaples, eggy, freepalestine, 
 nut, ringler, shabo, matteo, cray, abbe, fizzwiggle, gooms, jojo, jwick, ober, reesch, reeve, sharp];
 
