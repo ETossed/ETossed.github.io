@@ -4446,11 +4446,11 @@ let sharp = `
         <td>Ludwig Smash Invitational <span class="place">N/A</span></td>
     </tr>
     <tr>
-        <td>&#9724;</td>
+        <td>&#9632;</td>
         <td>Riptide 2022 <span class="place">17th</span></td>
     </tr>
     <tr>
-        <td>&#9724;</td>
+        <td>&#9632;</td>
         <td>Shine 2022 <span class="place">33rd</span></td>
     </tr>
     <tr>
