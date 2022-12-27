@@ -134,15 +134,15 @@ let mango = `
     </tr>
     <tr>
         <td>&#9724;</td>
+        <td>Lost Tech City 2022 <span class="place">1st</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
         <td>Smash Summit 14 <span class="place">1st</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
         <td>Scuffed World Tour <span class="place">3rd</span></td>
-    </tr>
-    <tr>
-        <td>&#9724;</td>
-        <td>Get On My Level 2022 <span class="place">5th</span></td>
     </tr>
     <tr>
         <td>&#9650;</td>
@@ -1374,11 +1374,11 @@ let swooper = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Get On My Level 2022 <span class="place">17th</span></td>
+        <td>Apex 2022 <span class="place">13th</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Apex 2022 <span class="place">49th</span></td>
+        <td>Get On My Level 2022 <span class="place">17th</span></td>
     </tr>
     <tr>
         <td>&#9650;</td>
@@ -3647,7 +3647,7 @@ let jjm = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Suer Smash Con 2022 <span class="place">17th</span></td>
+        <td>Super Smash Con 2022 <span class="place">17th</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
