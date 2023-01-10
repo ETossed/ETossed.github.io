@@ -2,24 +2,25 @@
 
 <html lang="en">
     <head>
-        <title>Minnesota Melee PR</title>
+        <title>ETossed</title>
         <link type="text/css" rel="stylesheet" href="style.css">
-        <link type="text/css" rel="stylesheet" href="css/rankings.css">
+        <link type="text/css" rel="stylesheet" href="css/index.css">
 
         <!-- Meta -->
         <meta charset="UTF-8">
         <meta name="author" content="ETossed">
-        <meta name="description" content="Minnesota Melee Power Rankings">
-        <meta name="keywords" content="Minnesota Melee, Minnesota, Super Smash Brothers, Melee, SSBM">
+        <meta name="description" content="ETossed's Website">
+        <meta name="author" content="ETossed">
+        <meta name="keywords" content="ETossed, ETossed's Rankings, Melee, SSBM">
 
         <!-- Embeds -->
-        <meta property="og:site_name" content="Minnesota Melee Power Rankings">
-        <meta property="og:url" content="https://MNMelee.github.io">
-        <meta property="og:title" content="Minnesota Melee Power Rankings">
-        <meta property="og:description" content="September-December 2022">
+        <meta property="og:site_name" content="ETossed">
+        <meta property="og:url" content="https://ETossed.github.io">
+        <meta property="og:title" content="ETossed">
+        <meta property="og:description" content="ETossed's Website">
         <meta property="og:type" content="website">
-        <meta property="og:image" content="https://MNMelee.github.io/resources/MinnesotaFlag.png">
-        <meta name="theme-color" content="#EF9A9A">
+        <meta property="og:image" content="https://etossed.github.io//resources/Armada.png">
+        <meta name="theme-color" content="#81D4FA">
     </head>
     <body>
         <div id="header-container">
@@ -30,254 +31,22 @@
                 </label>
             </div>
         </div>
-        <div id="header-text">
-            MN Melee Power Rankings
+        <div id="name">
+            <span class="name-color">ETossed</span>
         </div>
-
-        <div class="layout-container">
-            <div class="heading">
-                <h1>
-                    September-December 2022
-                </h1>
-            </div>
-            <!-- <div id="intro">
-                <p>
-                    Do we want an intro?
+        <div id="link-container">
+            <div>
+                <p class="belowname" id="rankings" onclick="">
+                    <span class="page-button" id="rankings-button">Rankings
+                        <span class="underline" id="rankings-underline">
+                        </span>
+                    </span>
                 </p>
-                
-            </div> -->
-
-            <!-- <div>
-                <button id="button">Hide Blurbs</button>
-                <br>
-            </div> -->
-            
-            <div id="r0"></div> <!-- this is a dumb trick -->
-            <div class="player-container" id="1">
-                <div class="u-player">
-                    <div class="ranking-box">1</div>
-                    <div class="sponsor-box">
-                        <img src="resources/Sponsors/URWF.png" alt="University of Wisconsin: River Falls" class="s-img">
-                    </div>
-                    <div class="player-details">
-                        <div class="gamertag">Ben</div>
-                        <div class="real-name">Ben Strandmark</div>
-                    </div>
-                    <div class="stock-box">
-                        <img src="resources/Sprites/Sheik.png" alt="Sheik" class="s-img stock-top">
-                    </div>
-                    <div class="stock-box neg-margin">
-                        <img src="resources/Sprites/Luigi.png" alt="Luigi" class="s-img stock-top">
-                    </div>
-                    <div class="stock-box">
-                        <img src="resources/Flags/Lebanon.png" alt="Lebanon" class="s-img stock-top">
-                    </div>
-                    <div class="change no">--</div>
-                </div>
-                <div class="results" id="r1">
-                </div>
             </div>
-
-            <div class="player-container" id="2">
-                <div class="u-player">
-                    <div class="ranking-box">2</div>
-                    <div class="sponsor-box">
-                        <img src="resources/Sponsors/URWF.png" alt="University of Wisconsin: River Falls" class="s-img">
-                    </div>
-                    <div class="player-details">
-                        <div class="gamertag">Preeminent</div>
-                        <div class="real-name">Anthony Braun</div>
-                    </div>
-                    <div class="stock-box">
-                        <img src="resources/Sprites/Fox.png" alt="Fox" class="s-img stock-top">
-                    </div>
-                    <div class="stock-box">
-                        <img src="resources/Flags/Lebanon.png" alt="Lebanon" class="s-img stock-top">
-                    </div>
-                    <div class="change no">--</div>
-                </div>
-                <div class="results" id="r2"></div>
-            </div>
-            
-            <div class="player-container" id="3">
-                <div class="u-player">
-                    <div class="ranking-box">3</div>
-                    <div class="sponsor-box">
-                        <img src="resources/Sponsors/Pulse.png" alt="Pulse Gaming" class="s-img">
-                    </div>
-                    <div class="player-details">
-                        <div class="gamertag">Joey Donuts</div>
-                        <div class="real-name">Joey Farah</div>
-                    </div>
-                    <div class="stock-box">
-                        <img src="resources/Sprites/Falco.png" alt="Falco" class="s-img stock-top">
-                    </div>
-                    <div class="stock-box">
-                        <img src="resources/Flags/Lebanon.png" alt="Lebanon" class="s-img stock-top">
-                    </div>
-                    <div class="change no">--</div>
-                </div>
-                <div class="results" id="r3"></div>
-            </div>
-
-            <div class="player-container" id="4">
-                <div class="u-player">
-                    <div class="ranking-box">4</div>
-                    <div class="sponsor-box"></div>
-                    <div class="player-details">
-                        <div class="gamertag">lexor</div>
-                        <div class="real-name">Desmond Johnson</div>
-                    </div>
-                    <div class="stock-box">
-                        <img src="resources/Sprites/Fox.png" alt="Fox" class="s-img stock-top">
-                    </div>
-                    <div class="change pos">+2</div>
-                </div>
-                <div class="results" id="r4"></div>
-            </div>
-
-            <div class="player-container" id="5">
-                <div class="u-player">
-                    <div class="ranking-box">5</div>
-                    <div class="sponsor-box"></div>
-                    <div class="player-details">
-                        <div class="gamertag">Nakamaman</div>
-                        <div class="real-name">Ethan Xiong</div>
-                    </div>
-                    <div class="stock-box">
-                        <img src="resources/Sprites/Marth.png" alt="Marth" class="s-img stock-top">
-                    </div>
-                    <div class="change neg" style="left:72%">-1</div>
-                </div>                
-                <div class="results" id="r5"></div>
-            </div>
-
-            <div class="player-container" id="6">
-                <div class="u-player">
-                    <div class="ranking-box">6</div>
-                    <div class="sponsor-box"></div>
-                    <div class="player-details">
-                        <div class="gamertag">DendyPretendy</div>
-                        <div class="real-name">Alec Nordin</div>
-                    </div>
-                    <div class="stock-box">
-                        <img src="resources/Sprites/Jigglypuff.png" alt="Jigglypuff" class="s-img stock-top">
-                    </div>
-                    <div class="stock-box stock-neg-margin">
-                        <img src="resources/Sprites/Falco.png" alt="Falco" class="s-img stock-top">
-                    </div>
-                    <div class="stock-box stock-neg-margin">
-                        <img src="resources/Sprites/Fox.png" alt="Fox" class="s-img stock-top">
-                    </div>
-                    <div class="change pos">+2</div>
-                </div>
-                <div class="results" id="r6"></div>
-            </div>
-
-            <div class="player-container" id="7">
-                <div class="u-player">
-                    <div class="ranking-box">7</div>
-                    <div class="sponsor-box">
-                        <img src="resources/Sponsors/URWF.png" alt="University of Wisconsin: River Falls" class="s-img">
-                    </div>
-                    <div class="player-details">
-                        <div class="gamertag">Royal</div>
-                        <div class="real-name">Caleb Royal</div>
-                    </div>
-                    <div class="stock-box">
-                        <img src="resources/Sprites/Sheik.png" alt="Sheik" class="s-img stock-top">
-                    </div>
-                    <div class="change pos">+3</div>
-                </div>
-                <div class="results" id="r7"></div>
-            </div>
-
-            <div class="player-container" id="8">
-                <div class="u-player">
-                    <div class="ranking-box">8</div>
-                    <div class="sponsor-box"></div>
-                    <div class="player-details">
-                        <div class="gamertag">Thom</div>
-                        <div class="real-name">Thomas H.</div>
-                    </div>
-                    <div class="stock-box">
-                        <img src="resources/Sprites/Sheik.png" alt="Sheik" class="s-img stock-top">
-                    </div>
-                    <div class="change pos" style="left:71.7%">+1</div>
-                </div>
-                <div class="results" id="r8"></div>
-            </div>
-
-            <div class="player-container" id="9">
-                <div class="u-player">
-                    <div class="ranking-box">9</div>
-                    <div class="sponsor-box"></div>
-                    <div class="player-details">
-                        <div class="gamertag">Jim</div>
-                        <div class="real-name">Jim S.</div>
-                    </div>
-                    <div class="stock-box">
-                        <img src="resources/Sprites/Peach.png" alt="Peach" class="s-img stock-top">
-                    </div>
-                    <div class="stock-box stock-neg-margin">
-                        <img src="resources/Sprites/Kirby.png" alt="Kirby" class="s-img stock-top">
-                    </div>
-                    <div class="stock-box stock-neg-margin">
-                        <img src="resources/Sprites/Jigglypuff.png" alt="Jigglypuff" class="s-img stock-top">
-                    </div>
-                    <div class="change new">++</div>
-                </div>
-                <div class="results" id="r9"></div>
-            </div>
-
-            <div class="player-container" id="10">
-                <div class="u-player">
-                    <div class="ranking-box">10</div>
-                    <div class="sponsor-box">
-                        <img src="resources/Sponsors/URWF.png" alt="University of Wisconsin: River Falls" class="s-img">
-                    </div>
-                    <div class="player-details">
-                        <div class="gamertag">Lamonster</div>
-                        <div class="real-name">Lamont Santo</div>
-                    </div>
-                    <div class="stock-box">
-                        <img src="resources/Sprites/Fox.png" alt="Fox" class="s-img stock-top">
-                    </div>
-                    <div class="stock-box stock-neg-margin">
-                        <img src="resources/Sprites/Falco.png" alt="Falco" class="s-img stock-top">
-                    </div>
-                    <div class="change new">++</div>
-                </div>
-                <div class="results" id="r10"></div>
-            </div>
-
-            <div class="player-container" id="11">
-                <div class="u-player">
-                    <div class="ranking-box">HM</div>
-                    <div class="sponsor-box"></div>
-                    <div class="player-details">
-                        <div class="gamertag">RanD</div>
-                        <div class="real-name">Randall Clintsman</div>
-                    </div>
-                    <div class="stock-box">
-                        <img src="resources/Sprites/Luigi.png" alt="Luigi" class="s-img stock-top">
-                    </div>
-                </div>
-                <div class="change new">++</div>
-                <div class="results" id="r11"></div>
-            </div>
-
         </div>
-        <footer>
-            <p>Panelists: Ben, DendyPretendy, ETossed, HYPERS, Joey Donuts, Preeminent</p>
-            <!-- <a href="https://MNMelee.github.io/2022_tiers.html">2022 Tier Ranking</a> -->
-            <a href="https://github.com/MNSmash/MNSmash.github.io">Source Code</a>
-        </footer>
-        
+        <div id="content" hidden></div>
         <script src="js/randomColor.js"></script>
-        <script src="js/rankings/modeChange.js"></script>
-        <script src="js/rankings/expand.js"></script>
-        <script src="js/rankings/mobileChecking.js"></script>
-        <script src="js/rankings/button.js"></script>
+        <script src="js/index/modeChange.js"></script>
+        <script src="js/index/rankingRedirect.js"></script>
     </body>
 </html>
