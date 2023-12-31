@@ -1174,7 +1174,7 @@ let Frenzy = `
 <table class="result-table">
     <tr>
         <td>&#9724;</td>
-        <td>Region: <span class="place">London</span></td>
+        <td>Region: <span class="place">England</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
