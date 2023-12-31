@@ -102,7 +102,7 @@ let zain = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">63-20</span></td>
+        <td>Record vs. ballot players: <span class="place">63-18</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
