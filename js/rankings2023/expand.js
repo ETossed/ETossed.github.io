@@ -1362,7 +1362,7 @@ let MilkMan = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">12-1</span></td>
+        <td>Record vs. ballot players: <span class="place">12-11</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
