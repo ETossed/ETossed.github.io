@@ -1,0 +1,3329 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <title>2022 Melee Rankings</title>
+        <link type="text/css" rel="stylesheet" href="style.css">
+        <link type="text/css" rel="stylesheet" href="css/rankings.css">
+
+        <!-- Meta -->
+        <meta charset="UTF-8">
+        <meta name="author" content="ETossed">
+        <meta name="description" content="ETossed's Website">
+        <meta name="author" content="ETossed">
+        <meta name="keywords" content="ETossed, ETossed's Rankings, Melee, SSBM">
+
+        <!-- Embeds -->
+        <meta property="og:site_name" content="ETossed's 2023 Melee Rankings">
+        <meta property="og:url" content="https://ETossed.github.io/rankings">
+        <meta property="og:title" content="ETossed's Melee Top 100 Rankings">
+        <meta property="og:description" content="ETossed's Website">
+        <meta property="og:type" content="website">
+        <meta property="og:image" content="https://etossed.github.io/resources/Armada.png">
+        <meta name="theme-color" content="#81D4FA">
+    </head>
+    <body>
+        <div id="header-container">
+            <div>
+                <label class="switch" for="modeswitch">
+                    <input type="checkbox" id="modeswitch" checked>
+                    <span class="slider"></span>
+                </label>
+            </div>
+        </div>
+        <div id="header-text">
+            ETop 100 2022
+        </div>
+        <br>
+
+        <div class="layout-container">
+            <div class="heading">
+                <h1>
+                    Introduction
+                </h1>
+            </div>
+            <div id="intro">
+                <p>
+                    I figured I'd make my own ranking because I was gonna do a top 100 ballot whether or not I ended up 
+                    getting an ballot at the end of year, because I love ranking and tiering things. Do not take this 
+                    as a replacement for the SSBMRank, they do an amazing job over there and they have so many panelists 
+                    who I trust more than myself to rank things. Ranking the top 100 is a super hard process and any complaints people have
+                    about where certain players finish are super valid.
+                    <br><br> 
+                    Anyways, here's the methodology I tried to stick by:
+                    <ul>- Placements don't matter except for first and maybe second</ul>
+                    <ul>- H2Hs matter a lot</ul>
+                    <ul>- Consistency matters a lot</ul>
+                    <ul>- Good wins valued more than bad losses, especially in dominant H2Hs</ul>
+                    <ul>- Tried to value attendance</ul>
+                    <ul>- Using exact same eligibility list as SSBMRank 2022</ul>
+                    <ul>- Losses at locals don't matter, wins do a teeny tiny bit (Please attend your locals)</ul>
+
+                    The blurbs under each top 100 player I tried to keep somewhat "official" but also explain my reasoning for a lot of placements,
+                    some more than others. Hopefully this can limit some of the questions, but I did my best, I'm not a writer by trade.
+                    It was also very tiring and I did the blurbs for the best ranked players first, so the top 40ish are actually pretty good I think.
+                    (and ChuDat's). Big shoutout to Rochester TO legend Silo5000 for writing some blurbs, it saved me quite a bit of time.
+                    His blurbs are marked as such, all others were mine.
+                    <br><br>
+
+                    I designed and coded this website from scratch (There's even lightmode in the top right corner, which I assume 
+                    only DarkGenex will use), the <span class="rc">accent color</span> is random (refresh the page for fun), and the button 
+                    below toggles showing the blurbs below each ranking card. This is not an algorithmic ranking, this is what my ballot 
+                    would have been. The source code of this website and the H2H preadsheet I used to create this ranking are 
+                    both linked at the bottom of the page
+
+                    <br><br>
+
+                    The first section is honorable mentions for those who just barely missed the top 100, then the section after is the top 100.
+                </p>
+                
+            </div>
+            
+            <div class="heading">
+                <h1>
+                    Honorable Mentions
+                </h1>
+                <p>
+                    Click on a player's card to expand it to show their results!
+                </p>
+            </div>
+
+            <div class="player-container" id="101">
+                <div class="u-player">
+                    <div class="ranking-box">HM</div>
+                    <div class="sponsor-box"></div>
+                    <div class="player-details">
+                        <div class="gamertag">404Cray</div>
+                        <div class="real-name">Arthur Hernandez</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Falco.png" alt="Fox" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/USA.png" alt="USA" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r101"></div>
+            </div>
+            
+
+            <div class="player-container" id="102">
+                <div class="u-player">
+                    <div class="ranking-box">HM</div>
+                    <div class="sponsor-box">
+                        <img src="resources/Sponsors/MeleeStats.png" alt="Melee Stats" class="s-img">
+                    </div>
+                    <div class="player-details">
+                        <div class="gamertag">Abbe</div>
+                        <div class="real-name">Albin Arvidson</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Marth.png" alt="Marth" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/Sweden.png" alt="Sweden" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r102"></div>
+            </div>
+            
+
+            <div class="player-container" id="103">
+                <div class="u-player">
+                    <div class="ranking-box">HM</div>
+                    <div class="sponsor-box"></div>
+                    <div class="player-details">
+                        <div class="gamertag">Fizzwiggle</div>
+                        <div class="real-name">Evan Akhavan</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Sheik.png" alt="Fox" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/USA.png" alt="USA" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r103"></div>
+            </div>
+            
+
+            <div class="player-container" id="104">
+                <div class="u-player">
+                    <div class="ranking-box">HM</div>
+                    <div class="sponsor-box"></div>
+                    <div class="player-details">
+                        <div class="gamertag">Gooms</div>
+                        <div class="real-name">Samuel Curreri</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Fox.png" alt="Fox" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/USA.png" alt="USA" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r104"></div>
+            </div>
+            
+
+            <div class="player-container" id="105">
+                <div class="u-player">
+                    <div class="ranking-box">HM</div>
+                    <div class="sponsor-box"></div>
+                    <div class="player-details">
+                        <div class="gamertag">JoJo</div>
+                        <div class="real-name">Josh Alvarez</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Falcon.png" alt="Captain Falcon" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/USA.png" alt="USA" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r105"></div>
+            </div>
+            
+
+            <div class="player-container" id="106">
+                <div class="u-player">
+                    <div class="ranking-box">HM</div>
+                    <div class="sponsor-box"></div>
+                    <div class="player-details">
+                        <div class="gamertag">JWick</div>
+                        <div class="real-name">John Uriarte</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Marth.png" alt="Marth" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/USA.png" alt="USA" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r106"></div>
+            </div>
+            
+
+            <div class="player-container" id="107">
+                <div class="u-player">
+                    <div class="ranking-box">HM</div>
+                    <div class="sponsor-box"></div>
+                    <div class="player-details">
+                        <div class="gamertag">Ober</div>
+                        <div class="real-name">Christopher Rodbourne</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Falco.png" alt="Falco" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/USA.png" alt="USA" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r107"></div>
+            </div>
+            
+
+            <div class="player-container" id="108">
+                <div class="u-player">
+                    <div class="ranking-box">HM</div>
+                    <div class="sponsor-box"></div>
+                    <div class="player-details">
+                        <div class="gamertag">Reesch</div>
+                        <div class="real-name">Caleb Schweer</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Falcon.png" alt="Captain Falcon" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/USA.png" alt="USA" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r108"></div>
+            </div>
+            
+
+            <div class="player-container" id="109">
+                <div class="u-player">
+                    <div class="ranking-box">HM</div>
+                    <div class="sponsor-box"></div>
+                    <div class="player-details">
+                        <div class="gamertag">Reeve</div>
+                        <div class="real-name">Austin Reed</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Marth.png" alt="Marth" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/USA.png" alt="USA" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r109"></div>
+            </div>
+            
+
+            <div class="player-container" id="110">
+                <div class="u-player">
+                    <div class="ranking-box">HM</div>
+                    <div class="sponsor-box">
+                        <img src="resources/Sponsors/MeleeStats.png" alt="Melee Stats" class="s-img">
+                    </div>
+                    <div class="player-details">
+                        <div class="gamertag">Sharp</div>
+                        <div class="real-name">Ember Larsson</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Peach.png" alt="Peach" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/Sweden.png" alt="Sweden" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r110"></div>
+            </div>
+            <br><br>
+
+            <div>
+                <button id="button">Hide Blurbs</button>
+                <br>
+            </div>
+
+            <div class="heading">
+                <h1>
+                    Top 100
+                </h1>
+                <p>
+                    Click on the button above to turn off/on the player blurbs!<br>
+                    Click on a player's card to expand it to show their results!
+                </p>
+            </div>
+
+            <div class="player-container" id="100">
+                <div class="u-player">
+                    <div class="ranking-box">100</div>
+                    <div class="sponsor-box"></div>
+                    <div class="player-details">
+                        <div class="gamertag">Matteo</div>
+                        <div class="real-name">Matteo Caglioti</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Falcon.png" alt="Captain Falcon" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box stock-neg-margin">
+                        <img src="resources/Sprites/Ganon.png" alt="Ganondorf" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/Canada.png" alt="Canada" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r100"></div>
+            </div>
+            <div class="blurb-container">
+                <p style="font-size:.65em;">Blurb by Silo5000</p>
+                <p style="margin-top: -7.5px;">
+                    Matteo is a longtime Captain Falcon player from Ontario, Canada who had a string of 
+                    impressive tournament runs this summer. Most notably, An incredible 13th place finish 
+                    at Super Smash Con. After getting DQd in round 1 pools, Matteo would win an astounding 
+                    11 sets in a row, including set wins on Darktooth, Ringler, Lunar Dusk and JJM. Not 
+                    just a one run wonder, Matteo would also accrue wins over Wally, Pleeba and Kuyashi 
+                    at other events this year.
+                    <br><br>
+                </p>
+            </div>
+
+            <div class="player-container" id="99">
+                <div class="u-player">
+                    <div class="ranking-box">99</div>
+                    <div class="sponsor-box"></div>
+                    <div class="player-details">
+                        <div class="gamertag">shabo</div>
+                        <div class="real-name">Lucas Pena</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Fox.png" alt="Fox" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/USA.png" alt="USA" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r99"></div>
+            </div>
+            <div class="blurb-container">
+                <p>
+                    The Champaign, Illinois fox main was a regional grinder this year, picking up 
+                    wins on essy (2-0), Q?, Pleeba, Preeminent, Reesch, and Ringler. He ended the 
+                    year super strong, winning BOPME 22 without dropping a set, over players like 
+                    Michael, Blue, and Preeminent. Looking forward to seeing more of him next year.
+                    <br><br>
+                </p>
+            </div>
+
+            <div class="player-container" id="98">
+                <div class="u-player">
+                    <div class="ranking-box">98</div>
+                    <div class="sponsor-box"></div>
+                    <div class="player-details">
+                        <div class="gamertag">Ringler</div>
+                        <div class="real-name"></div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/DonkeyKong.png" alt="Donkey Kong" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/USA.png" alt="USA" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r98"></div>
+            </div>
+            <div class="blurb-container">
+                <p style="font-size:.65em;">Blurb by Silo5000</p>
+                <p style="margin-top: -7.5px;">
+                    If you think the Donkey Kong revolution isn't here, then you haven't been paying 
+                    attention. For a while Ringler has been quietly improving their craft, and it all 
+                    came to a head at Wavedash, when Ringler would score back to back set wins against 
+                    Nickemwit and KJH, finishing 17th overall. A week later Ringler would also take a set 
+                    win over Bobby Big Ballz at Super Smash Con. Ringler's Donkey Kong might be a mainstay 
+                    in 2023's top 64 brackets to come.
+                    <br><br>
+                </p>
+            </div>
+
+            <div class="player-container" id="97">
+                <div class="u-player">
+                    <div class="ranking-box">97</div>
+                    <div class="sponsor-box"></div>
+                    <div class="player-details">
+                        <div class="gamertag">nut</div>
+                        <div class="real-name">Michael Silver</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Sheik.png" alt="Sheik" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/USA.png" alt="USA" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r97"></div>
+            </div>
+            <div class="blurb-container">
+                <p style="font-size:.65em;">Blurb by Silo5000</p>
+                <p style="margin-top: -7.5px;">
+                    For those of you who watch Verdugo and other Socal locals, you know that Nut is a 
+                    force to be reckoned with. Despite only traveling out of Socal a few times this year, 
+                    Nut would consistently earn impressive wins, including players like Mekk, Prince Abu, 
+                    Iceman and others. No slouch on the homefront either, Nut would beat Kurv at Wavedash 
+                    and Bonfire10 at Mainstage and Gooms at The New Mang over the course of the year. 
+                    <br><br>
+                </p>
+            </div>
+
+            <div class="player-container" id="96">
+                <div class="u-player">
+                    <div class="ranking-box">96</div>
+                    <div class="sponsor-box"></div>
+                    <div class="player-details">
+                        <div class="gamertag">Free Palestine</div>
+                        <div class="real-name">Anees Assaf</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Sheik.png" alt="Sheik" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box stock-neg-margin">
+                        <img src="resources/Sprites/Marth.png" alt="Marth" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/Palestine.png" alt="Palestine" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box" style="margin-left: 5px;">
+                        <img src="resources/Flags/USA.png" alt="USA" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r96"></div>
+            </div>
+            <div class="blurb-container">
+                <p style="font-size:.65em;">Blurb by Silo5000</p>
+                <p style="margin-top: -7.5px;">
+                    Despite attending a smaller number than usual of tournaments, Free Palestine still 
+                    showed that he was a tough opponent. At regionals Free Palestine would beat players 
+                    such as Slowking, Squid and Kuyashi. Free Palestine only found himself at a few 
+                    majors this year but made the time count. At Riptide he would beat Eggy and at Big 
+                    House he'd take sets over Panda, Captain G and Darkatma. Regardless of his level of 
+                    activity, Free Palestine is still a force to be reckoned with.
+                    <br><br>
+                </p>
+            </div>
+
+            <div class="player-container" id="95">
+                <div class="u-player">
+                    <div class="ranking-box">95</div>
+                    <div class="sponsor-box"></div>
+                    <div class="player-details">
+                        <div class="gamertag">Eggy</div>
+                        <div class="real-name">Ruben Morin</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Peach.png" alt="Peach" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/USA.png" alt="USA" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r95"></div>
+            </div>
+            <div class="blurb-container">
+                <p>
+                    Eggy is a Chicago peach who made a splash by beating moky at Genesis and then 
+                    was pretty quiet in terms of top 100 wins after that. They did pick up a Wally 
+                    win at Shine, as well as Q? and JoJo wins this year, both players who were on the 
+                    ballot. If eggy can replicate that success he had against moky, he could be scary going forward.
+                    <br><br>
+                </p>
+            </div>
+
+            <div class="player-container" id="94">
+                <div class="u-player">
+                    <div class="ranking-box">94</div>
+                    <div class="sponsor-box">
+                        <img src="resources/Sponsors/Slyfox.png" alt="SlyFox Gaming" class="s-img">
+                    </div>
+                    <div class="player-details">
+                        <div class="gamertag">Kevin Maples</div>
+                        <div class="real-name">Kevin Maples</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Fox.png" alt="Fox" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/USA.png" alt="USA" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r94"></div>
+            </div>
+            <div class="blurb-container">
+                <p style="font-size:.65em;">Blurb by Silo5000</p>
+                <p style="margin-top: -7.5px;">
+                    Kevin Maples was one of the fastest rising young players prior to the pandemic, and 
+                    halfway through the year, he returned to competition at LAN events. He won sets 
+                    against variety of players including Jflex, Juicebox, Dawson (x2), Warmmer and Reeve. 
+                    If he continues this trend it's clear that Kevin Maples can surpass his previous peaks 
+                    and become much higher ranked by next year.
+                    <br><br>
+                </p>
+            </div>
+
+            <div class="player-container" id="93">
+                <div class="u-player">
+                    <div class="ranking-box">93</div>
+                    <div class="sponsor-box">
+                        <img src="resources/Sponsors/Slyfox.png" alt="SlyFox Gaming" class="s-img">
+                    </div>
+                    <div class="player-details">
+                        <div class="gamertag">Slowking</div>
+                        <div class="real-name">David Fuentes</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Falco.png" alt="Falco" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/USA.png" alt="USA" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r93"></div>
+            </div>
+            <div class="blurb-container">
+                <p>
+                    One of the midwest's best Falcos, Iowa TO and #1 player David Fuentes had an up and 
+                    down year. After making a name for himself online during the height of the pandemic, 
+                    Slowking returned to action this year, attending too many regionals to count. 
+                    He also attended majors like Riptide and Mainstage, picking up top 100 wins at both tournaments.
+                    <br><br>
+                </p>
+            </div>
+
+            <div class="player-container" id="92">
+                <div class="u-player">
+                    <div class="ranking-box">92</div>
+                    <div class="sponsor-box"></div>
+                    <div class="player-details">
+                        <div class="gamertag">Umarth</div>
+                        <div class="real-name">Umar Sohi</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Marth.png" alt="Marth" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/USA.png" alt="USA" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r92"></div>
+            </div>
+            <div class="blurb-container">
+                <p>
+                    Yes, his name is Umar. That's why his tag is Umarth. A hot start to the first 
+                    half of the year which culminated in a 13th at Double Down saw Umarth cool 
+                    off in the second half of the year, only picking up one top 100 win in nut at 
+                    Smash Camp: New Lands. Can he return to his first half of the year form in 2023?
+                    <br><br>
+                </p>
+            </div>
+
+            <div class="player-container" id="91">
+                <div class="u-player">
+                    <div class="ranking-box">91</div>
+                    <div class="sponsor-box"></div>
+                    <div class="player-details">
+                        <div class="gamertag">JustJoe</div>
+                        <div class="real-name">Joe D.</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Fox.png" alt="Fox" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box stock-neg-margin">
+                        <img src="resources/Sprites/Falco.png" alt="Fox" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/USA.png" alt="USA" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r91"></div>
+            </div>
+            <div class="blurb-container">
+                <p>
+                    The first time I saw JustJoe play, my first reaction was, “wow, he's so fast”. This 
+                    ultra technical fox had a breakout second half of the year, with wins over Ben, Eggy, essy, 
+                    Free Palestine, and more. He's taken games from players like Jmook and Fiction, so we 
+                    know he can do it. Look out for one of Chicago's best in 2023.
+                    <br><br>
+                </p>
+            </div>
+
+            <div class="player-container" id="90">
+                <div class="u-player">
+                    <div class="ranking-box">90</div>
+                    <div class="sponsor-box"></div>
+                    <div class="player-details">
+                        <div class="gamertag">JJM</div>
+                        <div class="real-name">John McCarthy</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/ICs.png" alt="Ice Climbers" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Peach.png" alt="Peach" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/USA.png" alt="USA" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r90"></div>
+            </div>
+            <div class="blurb-container">
+                <p>
+                    JJM had the sickest combo of the year on Dawson at No Jawns 2. Seriously, 
+                    if you didn't see it, please go look it up. Oh, he also won that event. The 
+                    towering Ice Climbers main with a peach secondary is on the come up, with wins 
+                    over null, 2saint, Ben, and more. His second half of the year was better than 
+                    his first, watch out for him in 2023.
+                    <br><br>
+                </p>
+            </div>
+
+            <div class="player-container" id="89">
+                <div class="u-player">
+                    <div class="ranking-box">89</div>
+                    <div class="sponsor-box"></div>
+                    <div class="player-details">
+                        <div class="gamertag">Logos</div>
+                        <div class="real-name">Micah Weight</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Falco.png" alt="Falco" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/USA.png" alt="USA" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r89"></div>
+            </div>
+            <div class="blurb-container">
+                <p>
+                    Logos didn't attend much, but when he did, he made his presence felt. The Utah 
+                    Falco's best performance was at Edgeguard II: Fight II Fright where he double 
+                    eliminated Spark to win after losing to him earlier in bracket. He was also able 
+                    to pick up a null win at Mainstage a month later. If he keeps traveling and carries 
+                    his momentum into 2023, he'll be scary to fight in bracket.
+                    <br><br>
+                </p>
+            </div>
+
+            <div class="player-container" id="88">
+                <div class="u-player">
+                    <div class="ranking-box">88</div>
+                    <div class="sponsor-box"></div>
+                    <div class="player-details">
+                        <div class="gamertag">essy</div>
+                        <div class="real-name">Claire Miri</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Sheik.png" alt="Sheik" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box stock-neg-margin">
+                        <img src="resources/Sprites/Fox.png" alt="Fox" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box stock-neg-margin">
+                        <img src="resources/Sprites/Marth.png" alt="Marth" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box stock-neg-margin">
+                        <img src="resources/Sprites/ICs.png" alt="Ice Climbers" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/USA.png" alt="USA" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r88"></div>
+            </div>
+            <div class="blurb-container">
+                <p>
+                    Essy was incredibly well traveled this year. If there was a large regional near Ohio, 
+                    she probably attended it. The Sheik/Fox main, who also has secondaries of ICs and 
+                    Marth (who have both been used in tournaments a lot this year), picked up a lot of 
+                    wins on players like Ben, Drephen, Mad Tyro, and KJH. But, she's also missing a 
+                    signature win in the top 30 range that some players around her have. However, her 
+                    resume with such amazing attendance is definitely still enough to land her a spot 
+                    on the top 100.
+                    <br><br>
+                </p>
+            </div>
+
+            <div class="player-container" id="87">
+                <div class="u-player">
+                    <div class="ranking-box">87</div>
+                    <div class="sponsor-box"></div>
+                    <div class="player-details">
+                        <div class="gamertag">Khalid</div>
+                        <div class="real-name">Khalid Serdah</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Jigglypuff.png" alt="Jigglypuff" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/USA.png" alt="USA" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r87"></div>
+            </div>
+            <div class="blurb-container">
+                <p>
+                    I hope Khalid doesn't threaten to sue me for his ranking position. #1 in San 
+                    Diego's year was one filled with a lot of results. He's got good wins over players 
+                    like Suf, Eddy Mexico, Ben, and Faceroll. He's only got one loss to a player not on 
+                    the ballot, MegaXmas, but he's lacking a super signature top 30 win that many players 
+                    above him have.
+                    <br><br>
+                </p>
+            </div>
+
+            <div class="player-container" id="86">
+                <div class="u-player">
+                    <div class="ranking-box">86</div>
+                    <div class="sponsor-box"></div>
+                    <div class="player-details">
+                        <div class="gamertag">Nickemwit</div>
+                        <div class="real-name">Nicholas Whittier</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Falcon.png" alt="Falcon" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/USA.png" alt="USA" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r86"></div>
+            </div>
+            <div class="blurb-container">
+                <p>
+                    Formerly known as NMW, Nickemwit's falcon play has been mostly confined to west 
+                    coast events (besides Sunshined 2, which was in Missouri lol). Wins on TheSWOOPER, 
+                    Kalamazhu, and Aura show that he can definitely still hang with top level players after 
+                    almost playing for 10 years, he's gotta clean up some losses to players like Zbert and 
+                    Zeo if he wants to be higher next year, but it wouldn't be that surprising, we know he's 
+                    capable of it.
+                    <br><br>
+                </p>
+            </div>
+
+            <div class="player-container" id="85">
+                <div class="u-player">
+                    <div class="ranking-box">85</div>
+                    <div class="sponsor-box"></div>
+                    <div class="player-details">
+                        <div class="gamertag">Rocket</div>
+                        <div class="real-name">Mauricio Araneda</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/YoungLink.png" alt="YoungLink" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/Chile.png" alt="Chile" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r85"></div>
+            </div>
+            <div class="blurb-container">
+                <p>
+                    A Young Link from Chile made it onto the top 100. Imagine telling someone that even 
+                    two years ago. His highlight of the year was double eliminating Spark to win SPC: Rehab 
+                    2.0 while he was staying in Arizona. On top of that, pretty good performances at majors 
+                    have led to Rocket being the first Young Link and only the 2nd/3rd Chilean to ever make 
+                    the top 100.
+                    <br><br>
+                </p>
+            </div>
+
+            <div class="player-container" id="84">
+                <div class="u-player">
+                    <div class="ranking-box">84</div>
+                    <div class="sponsor-box"></div>
+                    <div class="player-details">
+                        <div class="gamertag">TheRealThing</div>
+                        <div class="real-name">Jonathan Clinton</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Falco.png" alt="Falco" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/USA.png" alt="USA" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r84"></div>
+            </div>
+            <div class="blurb-container">
+                <p style="font-size:.65em;">Blurb by Silo5000</p>
+                <p style="margin-top: -7.5px;">
+                    TheRealThing has quietly proven himself to be one of the best midwest falcos. 
+                    Though he only left his native state of Ohio twice, he would earn wins against Lunar Dusk, 
+                    Q?, Smashdaddy and Preeminent while staying remarkably consistent. In his home state, he 
+                    kept up with the the best, and if he gets more chances to prove himself I can see him 
+                    moving quite far up the rankings.
+                    <br><br>
+                </p>
+            </div>
+
+            <div class="player-container" id="83">
+                <div class="u-player">
+                    <div class="ranking-box">83</div>
+                    <div class="sponsor-box">
+                        <img src="resources/Sponsors/Slyfox.png" alt="SlyFox Gaming" class="s-img">
+                    </div>
+                    <div class="player-details">
+                        <div class="gamertag">Wevans</div>
+                        <div class="real-name">William Evans</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Samus.png" alt="Samus" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/USA.png" alt="USA" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r83"></div>
+            </div>
+            <div class="blurb-container">
+                <p>
+                    One of two samus players on the list (Sorry Morsecode762, you didn't meet attendance requirements), 
+                    Wevans has been a force in the south this year. Wins over Smashdaddy, Panda, Panko and SDJ are 
+                    all great. He doesn't have any losses to players ranked below him at all, but he just didn't 
+                    attend enough or have any top 40 wins, so it was very hard to accurately assess his skill.
+                    <br><br>
+                </p>
+            </div>
+
+            <div class="player-container" id="82">
+                <div class="u-player">
+                    <div class="ranking-box">82</div>
+                    <div class="sponsor-box"></div>
+                    <div class="player-details">
+                        <div class="gamertag">Mad Tyro</div>
+                        <div class="real-name">Kaleo Chase</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Luigi.png" alt="Luigi" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/USA.png" alt="USA" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r82"></div>
+            </div>
+            <div class="blurb-container">
+                <p>
+                    I remember seeing a tweet in the first half of the year from Edwin Budding asking: 
+                    “Which Luigi's resume is better?” and it was Eddy Mexico vs Mad Tyro, anonymously. 
+                    Mad Tyro handily won. However, he didn't attend enough to be put on the ballot. His first 
+                    half of the year was incredibly strong, with wins over Pipsqueak, Skerzo, Grab, 2-0 on Zamu, 
+                    and more. However, his second half of the year didn't live up to the first, which is why he 
+                    finds himself in the 80s and not in the 40s.
+                    <br><br>
+                </p>
+            </div>
+
+            <div class="player-container" id="81">
+                <div class="u-player">
+                    <div class="ranking-box">81</div>
+                    <div class="sponsor-box">
+                        <img src="resources/Sponsors/Slyfox.png" alt="SlyFox Gaming" class="s-img">
+                    </div>
+                    <div class="player-details">
+                        <div class="gamertag">Voo</div>
+                        <div class="real-name">Vaughn Brown</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Falco.png" alt="Falco" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/USA.png" alt="USA" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r81"></div>
+            </div>
+            <div class="blurb-container">
+                <p style="font-size:.65em;">Blurb by Silo5000</p>
+                <p style="margin-top: -7.5px;">
+                    Voo has proven themselves to be a strong and consistent falco hailing from South Florida. 
+                    Attending only a handful of majors, they made their mark every time. Beating players like 
+                    Chem, Khryke and Kuya they also made a major upset at Low Tide City, beating Magi in a 2-1 set.
+                    <br><br>
+                </p>
+            </div>
+
+            <div class="player-container" id="80">
+                <div class="u-player">
+                    <div class="ranking-box">80</div>
+                    <div class="sponsor-box"></div>
+                    <div class="player-details">
+                        <div class="gamertag">Sirmeris</div>
+                        <div class="real-name">Daniel Dolin</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Peach.png" alt="Peach" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box stock-neg-margin">
+                        <img src="resources/Sprites/Fox.png" alt="Fox" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/USA.png" alt="USA" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r80"></div>
+            </div>
+            <div class="blurb-container">
+                <p>
+                    Siremeris is a player I didn't even have on my radar this year. You're telling me there 
+                    are melee players in West Virginia? Apparently, his peach is NASTY. Picking up wins 
+                    on Magi, Lunar Dusk, essy, and more, his only losses to players around his Caliber is an 
+                    0-4 record against Drephen at regionals. He's a player I'd definitely look out for in 2023.
+                    <br><br>
+                </p>
+            </div>
+
+            <div class="player-container" id="79">
+                <div class="u-player">
+                    <div class="ranking-box">79</div>
+                    <div class="sponsor-box"></div>
+                    <div class="player-details">
+                        <div class="gamertag">Gahtzu</div>
+                        <div class="real-name">Jason Diehl</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Falcon.png" alt="Captain Falcon" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/USA.png" alt="USA" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r79"></div>
+            </div>
+            <div class="blurb-container">
+                <p style="font-size:.65em;">Blurb by Silo5000</p>
+                <p style="margin-top: -7.5px;">
+                    For a long while Gahtzu was a constant in the top 32 brackets of any given major. 
+                    And while it appears he's taken a step back on the sheer number of Majors he's chosen 
+                    to attend, it's clear that the poise and discipline to remain a top level threat never went 
+                    away. At Big House alone he beat Ginger, Salt, Duck and Ringler, which on it's own 
+                    would be enough to be considered for this list. But Gahtzu was also able to add SDJ 
+                    (x2) Free Palestine, Wevans and Kuya before the end of the year. Anything can happen in 
+                    the future of Melee, but I wouldn't be surprised at all if Gahtzu is able to keep winning 
+                    big sets in 2023 and remind everyone who he is.
+                    <br><br>
+                </p>
+            </div>
+
+            <div class="player-container" id="78">
+                <div class="u-player">
+                    <div class="ranking-box">78</div>
+                    <div class="sponsor-box">
+                        <img src="resources/Sponsors/MeleeStats.png" alt="Melee Stats" class="s-img">
+                    </div>
+                    <div class="player-details">
+                        <div class="gamertag">Chape</div>
+                        <div class="real-name">Vicente Sánchez</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Fox.png" alt="Fox" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/Chile.png" alt="Chile" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r78"></div>
+            </div>
+            <div class="blurb-container">
+                <p>
+                    Soy homero. Todos somos homeros. Red Bull enthusiast Chape finds himself as the highest 
+                    ranked South American player. Thanks to Melee Stats, he's been able to attend a bunch of 
+                    events this year, picking up wins like Mekk, Aura, and Eddy Mexico. He's really prolific 
+                    at the sheik matchup, so don't be surprised to see him making a deep run the next time 
+                    he's in the US if he gets the right bracket. I'm praying for a bunch of Yoshis and Dr Marios 
+                    for him (that's not a joke).
+                    <br><br>
+                </p>
+            </div>
+
+            <div class="player-container" id="77">
+                <div class="u-player">
+                    <div class="ranking-box">77</div>
+                    <div class="sponsor-box"></div>
+                    <div class="player-details">
+                        <div class="gamertag">Panko</div>
+                        <div class="real-name">Jordan Kiser</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Jigglypuff.png" alt="Jigglypuff" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/USA.png" alt="USA" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r77"></div>
+            </div>
+            <div class="blurb-container">
+                <p style="font-size:.65em;">Blurb by Silo5000</p>
+                <p style="margin-top: -7.5px;">
+                    I won't speak for anyone else, but prior to Shine 2022 I was unfamiliar with Panko's game. 
+                    Beating Magi, Eggy and KoDoRiN all in a row to make it to winners quarters as a unranked 
+                    player is nothing short of an incredible feat. Before the end of the year, Panko would add 
+                    a few wins against Pleeba and Voo, along with a Logan win that was actually a month prior 
+                    to the incredible Shine run.
+                    <br><br>
+                </p>
+            </div>
+
+            <div class="player-container" id="76">
+                <div class="u-player">
+                    <div class="ranking-box">76</div>
+                    <div class="sponsor-box"></div>
+                    <div class="player-details">
+                        <div class="gamertag">Khryke</div>
+                        <div class="real-name">Jacob Gilbert</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Marth.png" alt="Marth" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box stock-neg-margin">
+                        <img src="resources/Sprites/Mewtwo.png" alt="Mewtwo" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/USA.png" alt="USA" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r76"></div>
+            </div>
+            <div class="blurb-container">
+                <p>
+                    The PGH Marth and Mewtwo main had somewhat of a breakout year, especially with his performance 
+                    at Super Smash Con. Wins over Ryobeat, moky, and BBatts netted him a 9th place finish at the 
+                    second most entered major of the year, only losing to the brothers Rishi and lloD. Hopefully 
+                    we'll see him attend more stuff next year and he should be higher.
+                    <br><br>
+                </p>
+            </div>
+
+            <div class="player-container" id="75">
+                <div class="u-player">
+                    <div class="ranking-box">75</div>
+                    <div class="sponsor-box"></div>
+                    <div class="player-details">
+                        <div class="gamertag">Suf</div>
+                        <div class="real-name">Sufyan Hassan</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Falcon.png" alt="Falcon" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box stock-neg-margin">
+                        <img src="resources/Sprites/Marth.png" alt="Marth" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/USA.png" alt="USA" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r75"></div>
+            </div>
+            <div class="blurb-container">
+                <p style="font-size:.65em;">Blurb by Silo5000</p>
+                <p style="margin-top: -7.5px;">
+                    Suf is a Captain Falcon who's been steadily rising as one of Socal's premier players. 
+                    He's been accruing an assortment of wins on the likes of Free Palestine, FatGoku, Shabo, 
+                    Solobattle and Bimbo. When it comes to his Socal Peers, hes keeping up very well, beating 
+                    players like Gooms, Franz, null and a huge win on Fiction at Smash Camp. I can't wait to see 
+                    Suf's next major.
+                    <br><br>
+                </p>
+            </div>
+
+            <div class="player-container" id="74">
+                <div class="u-player">
+                    <div class="ranking-box">74</div>
+                    <div class="sponsor-box"></div>
+                    <div class="player-details">
+                        <div class="gamertag">Faceroll</div>
+                        <div class="real-name">Griffin Williams</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Sheik.png" alt="Sheik" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/USA.png" alt="USA" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r74"></div>
+            </div>
+            <div class="blurb-container">
+                <p style="font-size:.65em;">Blurb by Silo5000</p>
+                <p style="margin-top: -7.5px;">
+                    Socal Sheik legend Faceroll only chose to attend one major this year, but was able to 
+                    earn a ranking with a slew of strong regional performances. Most notably at Smash Camp, 
+                    Faceroll would beat Logan, Azel and Zamu on the way to a 5th place finish. Faceroll's only 
+                    major of the year was Big House 10, where he'd beat Null to place 33rd. His other wins at 
+                    regionals include Typhoon, Casper, Franz, nut and Reesch.
+                    <br><br>
+                </p>
+            </div>
+
+            <div class="player-container" id="73">
+                <div class="u-player">
+                    <div class="ranking-box">73</div>
+                    <div class="sponsor-box"></div>
+                    <div class="player-details">
+                        <div class="gamertag">Drephen</div>
+                        <div class="real-name">Drew Scoles</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Sheik.png" alt="Sheik" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box stock-neg-margin">
+                        <img src="resources/Sprites/Zelda.png" alt="Zelda" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/USA.png" alt="USA" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r73"></div>
+            </div>
+            <div class="blurb-container">
+                <p>
+                    How long has Drephen been playing for? And he's still this good? Wow. Drephen mostly 
+                    traveled around the midwest this year, with strong performances including 1st at The 
+                    Homie Round, 2nd at Show Me Your Moves, 3rd at THREEVO, and 7th at We Need Some Space. 
+                    Not to mention, he got a n0ne win at Super Smash Con! I know he's got a kid on the way 
+                    (or had one recently) so hopefully we'll still see him in 2023.
+                    <br><br>
+                </p>
+            </div>
+
+            <div class="player-container" id="72">
+                <div class="u-player">
+                    <div class="ranking-box">72</div>
+                    <div class="sponsor-box">
+                        <img src="resources/Sponsors/Mazer.png" alt="Mazer Gaming" class="s-img">
+                    </div>
+                    <div class="player-details">
+                        <div class="gamertag">Kalvar</div>
+                        <div class="real-name">David Coyne</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Marth.png" alt="Marth" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/USA.png" alt="USA" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r72"></div>
+            </div>
+            <div class="blurb-container">
+                <p style="font-size:.65em;">Blurb by Silo5000</p>
+                <p style="margin-top: -7.5px;">
+                    Kalvar was an exceptionally well traveled player this year, attending 8 
+                    different majors and a slew of New England regionals. At these regionals 
+                    Kalvar would win sets against players like Bonfire10, Warmmer and bobby big ballz. 
+                    At majors Kalvar would bring a good deal of heat as well, winning sets against Dawson, 
+                    Younger, JoJo and a few big name Spacies; Lucky and Skerzo. I wouldn't be surprised if 
+                    this trend continues and we see Kalvar continue to take bigger names leading into 
+                    2023 while grinding tournaments of all sizes.
+                    <br><br>
+                </p>
+            </div>
+
+            <div class="player-container" id="71">
+                <div class="u-player">
+                    <div class="ranking-box">71</div>
+                    <div class="sponsor-box">
+                        <img src="resources/Sponsors/Conduit.png" alt="Conduit Gaming" class="s-img">
+                    </div>
+                    <div class="player-details">
+                        <div class="gamertag">Eddy Mexico</div>
+                        <div class="real-name">Eduardo Lucatero Rincon</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Luigi.png" alt="Luigi" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/Mexico.png" alt="Mexico" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r71"></div>
+            </div>
+            <div class="blurb-container">
+                <p>
+                    The nicest guy in the community. I've never heard anyone say anything bad about 
+                    Eddy Mexico, and he plays A MID TIER. A really strong first half of the year led 
+                    to a 49th on the MPGR, but his second half of the year left more to be desired. At 
+                    this point though, the most important thing is that he's almost undoubtedly the 
+                    best Luigi of all time, and we couldn't have a better representative for a character.
+                    <br><br>
+                </p>
+            </div>
+
+            <div class="player-container" id="70">
+                <div class="u-player">
+                    <div class="ranking-box">70</div>
+                    <div class="sponsor-box"></div>
+                    <div class="player-details">
+                        <div class="gamertag">KJH</div>
+                        <div class="real-name">Kalindi Henderson</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Fox.png" alt="Fox" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box stock-neg-margin">
+                        <img src="resources/Sprites/Falco.png" alt="Falco" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/USA.png" alt="USA" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r70"></div>
+            </div>
+            <div class="blurb-container">
+                <p>
+                    Another player who's super hard to evaluate, he had a pretty good first half of 
+                    the year, with the best point coming at CEO when he beat Hbox. After his two 
+                    tournaments in the second half of the year, SSC and Wavedash, Kalindi has been 
+                    going all Falco in practice, and it's been improving a lot, so don't be surprised 
+                    to see his bird flying next year.
+                    <br><br>
+                </p>
+            </div>
+
+            <div class="player-container" id="69">
+                <div class="u-player">
+                    <div class="ranking-box">69</div>
+                    <div class="sponsor-box"></div>
+                    <div class="player-details">
+                        <div class="gamertag">Kalamazhu</div>
+                        <div class="real-name">Kyle Zhu</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Peach.png" alt="Peach" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/USA.png" alt="USA" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r69"></div>
+            </div>
+            <div class="blurb-container">
+                <p>
+                    Nice.
+                    <br><br>
+                    Kzhu was pretty inactive this year, but his year started off great with a 7th at 
+                    Genesis… and then he didn't attend anything until August. However, his second half 
+                    of the year wasn't as good, with losses to Eddy Mexico, Nickemwit, and then a pair 
+                    of two inactive sheiks (Duck and Shroomed, neither of which are that bad). He's 
+                    been in the game for so long though that I wouldn't doubt to see him return to 
+                    another major top 8 next year.
+                    <br><br>
+                </p>
+            </div>
+
+            <div class="player-container" id="68">
+                <div class="u-player">
+                    <div class="ranking-box">68</div>
+                    <div class="sponsor-box"></div>
+                    <div class="player-details">
+                        <div class="gamertag">Dawson</div>
+                        <div class="real-name">Dylan Dougherty</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Jigglypuff.png" alt="Jigglypuff" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/USA.png" alt="USA" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r68"></div>
+            </div>
+            <div class="blurb-container">
+                <p>
+                    The philly puff is #2 on the power rankings there only behind SluG, which is nothing 
+                    to scoff at. He's been very consistent this year. It seems like every major he went 
+                    to beat one really good player and lost to a player around his caliber. He's 
+                    gotta clean up his regional performances if he wants to find himself higher next 
+                    year, but he can definitely do it. Never forget when some redditor asked “Who are 
+                    all of these panelists?” for the MPGR in an attack piece, and included Dawson, a 
+                    literal top 100 player.
+                    <br><br>
+                </p>
+            </div>
+
+            <div class="player-container" id="67">
+                <div class="u-player">
+                    <div class="ranking-box">67</div>
+                    <div class="sponsor-box"></div>
+                    <div class="player-details">
+                        <div class="gamertag">Palpa</div>
+                        <div class="real-name">Davis Scherer</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Jigglypuff.png" alt="Jigglypuff" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box stock-neg-margin">
+                        <img src="resources/Sprites/Fox.png" alt="Fox" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/USA.png" alt="USA" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r67"></div>
+            </div>
+            <div class="blurb-container">
+                <p>
+                    If you know me, you know I LOVE Palpa. A North American puff who does all the EU puff 
+                    tech? RTC rest extraordinaire? PLAYS FOX FOR THE DITTO AND BEAT HBOX ONLINE? yeah, 
+                    that's Palpa. The problem is one thing: He's never left Texas. I don't doubt he'll 
+                    shoot up on the rankings when he does. One last thing: Oh, he's also a popoff king 
+                    just like HGod himself too. He jumped off stage when he beat SDJ at Low Tide City and 
+                    got so much air he might have been able to dunk (probably not).
+                    <br><br>
+                </p>
+            </div>
+
+            <div class="player-container" id="66">
+                <div class="u-player">
+                    <div class="ranking-box">66</div>
+                    <div class="sponsor-box"></div>
+                    <div class="player-details">
+                        <div class="gamertag">BBatts</div>
+                        <div class="real-name">William Batista</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Peach.png" alt="Peach" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/USA.png" alt="USA" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r66"></div>
+            </div>
+            <div class="blurb-container">
+                <p>
+                    The highlight of Billy's year has to be Fete 2, where he beat Jah Ridin, Fat Tino, and 
+                    Spark, en route to a 4th place finish at an overseas major, an amazing showing for an 
+                    American who's probably jetlagged as hell. However, the second half of the year wasn't 
+                    as good for him and he didn't attend any of the three supermajors this year, so it's 
+                    really hard to judge his skill against a lot of the other top 100. Can straight batts 
+                    harness some of his heterosexual energy and improve even more next year?
+                    <br><br>
+                </p>
+            </div>
+
+            <div class="player-container" id="65">
+                <div class="u-player">
+                    <div class="ranking-box">65</div>
+                    <div class="sponsor-box"></div>
+                    <div class="player-details">
+                        <div class="gamertag">Wally</div>
+                        <div class="real-name">Ryan M.</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Peach.png" alt="Peach" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/USA.png" alt="USA" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r65"></div>
+            </div>
+            <div class="blurb-container">
+                <p>
+                    Wally was impossible to rank. How do you rank a guy whose metrics are all over the 
+                    place… but he's got a Zain win? I don't know. Wally has shown us the ability to beat 
+                    literally anyone (and I mean anyone) but he seems to be in a bit of a slump right now. 
+                    Don't be surprised to see him shoot up the rankings next year.
+                    <br><br>
+                </p>
+            </div>
+
+            <div class="player-container" id="64">
+                <div class="u-player">
+                    <div class="ranking-box">64</div>
+                    <div class="sponsor-box"></div>
+                    <div class="player-details">
+                        <div class="gamertag">Mot$</div>
+                        <div class="real-name">Matt Gaydos</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Fox.png" alt="Fox" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/USA.png" alt="USA" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r64"></div>
+            </div>
+            <div class="blurb-container">
+                <p>
+                    Yes, this is the third New Jersey player in a row. No, I did not rig it. No, I do not 
+                    know their PR and I refuse to look it up because that would seem like a bad idea to 
+                    order them in that direction. Anyways, Mot$ did decently well at majors this year, but 
+                    he shined at regionals, getting 1st at The Flying Knee 3, 1st at Failsafe 2022, and 1st 
+                    at Starstruck. Can he make those regional performances translate to majors?
+                    <br><br>
+                </p>
+            </div>
+
+            <div class="player-container" id="63">
+                <div class="u-player">
+                    <div class="ranking-box">63</div>
+                    <div class="sponsor-box"></div>
+                    <div class="player-details">
+                        <div class="gamertag">Ben</div>
+                        <div class="real-name">Ben Strandmark</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Sheik.png" alt="Sheik" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box stock-neg-margin">
+                        <img src="resources/Sprites/Luigi.png" alt="Luigi" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/USA.png" alt="USA" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r63"></div>
+            </div>
+            <div class="blurb-container">
+                <p>
+                    It personally hurts me to put Ben this low as a Minnesotan, but after a decent first 
+                    half of the year, he couldn't get it going in the second half of the year. He may have 
+                    had the worst controller luck of all time, worse than Leffen, so that's definitely a 
+                    factor. After a massive 1st at HTL #7, he couldn't follow that up with any regional 
+                    wins, placing 2nd at Run, Don't Walk and Honeypot 4. I have no doubt he can be back 
+                    in the top 40 if not higher next year.
+                    <br><br>
+                </p>
+            </div>
+
+            <div class="player-container" id="62">
+                <div class="u-player">
+                    <div class="ranking-box">62</div>
+                    <div class="sponsor-box"></div>
+                    <div class="player-details">
+                        <div class="gamertag">Chem</div>
+                        <div class="real-name">Andrew Khalili</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Fox.png" alt="Fox" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/USA.png" alt="USA" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r62"></div>
+            </div>
+            <div class="blurb-container">
+                <p>
+                    Chem had a great first half of the year, coming in 3rd at CEO, qualifying him for a 
+                    cup we don't talk about anymore. During that run he had wins over SDJ, Krudo, and KJH, 
+                    but he couldn't continue that momentum for the rest of the year. He only went to Apex, 
+                    SSC, and Shine in the second half of the year and his best win at all of those combined 
+                    was Eggy, someone who we saw earlier in the top 100. Hopefully we can see him return to 
+                    that killer CEO form.
+                    <br><br>
+                </p>
+            </div>
+
+            <div class="player-container" id="61">
+                <div class="u-player">
+                    <div class="ranking-box">61</div>
+                    <div class="sponsor-box">
+                        <img src="resources/Sponsors/Mazer.png" alt="Mazer Gaming" class="s-img">
+                    </div>
+                    <div class="player-details">
+                        <div class="gamertag">Ralph</div>
+                        <div class="real-name">Ralph Arroyo</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Pikachu.png" alt="Pikachu" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box stock-neg-margin">
+                        <img src="resources/Sprites/Fox.png" alt="Fox" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/USA.png" alt="USA" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r61"></div>
+            </div>
+            <div class="blurb-container">
+                <p>
+                    Choosing Pikachu as his new way forward, Ralph's passion for the game has never been 
+                    higher. The man who once mained fox is now fully invested in the rat, taking sets off 
+                    of SFAT and Spark at regionals and majors, but he's lacked the attendance outside of 
+                    NorCal locals to be ranked higher. However, the good news for Ralph fans is that he's 
+                    been absolutely killing it at NorCal locals, so I wouldn't be surprised to see him jump 
+                    even 30 ranks next year.
+                    <br><br>
+                </p>
+            </div>
+
+            <div class="player-container" id="60">
+                <div class="u-player">
+                    <div class="ranking-box">60</div>
+                    <div class="sponsor-box">
+                        <img src="resources/Sponsors/MeleeStats.png" alt="Melee Stats" class="s-img">
+                    </div>
+                    <div class="player-details">
+                        <div class="gamertag">Grab</div>
+                        <div class="real-name">Dillon Draper</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Marth.png" alt="Marth" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/USA.png" alt="USA" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r60"></div>
+            </div>
+            <div class="blurb-container">
+                <p>
+                    Grab's been somewhat of a breakout star this year. Coming from a region where there's 
+                    not really notable players, this Tennessee Marth has sliced and diced his way to some 
+                    super solid performances. His most impressive performance was Shine where he beat Matteo, 
+                    DrLobster, and Polish for a 9th place finish, only losing to Jmook and Mango in the 
+                    tournament. With his new sponsorship, it seems like we'll be seeing a lot more of him.
+                    <br><br>
+                </p>
+            </div>
+
+            <div class="player-container" id="59">
+                <div class="u-player">
+                    <div class="ranking-box">59</div>
+                    <div class="sponsor-box"></div>
+                    <div class="player-details">
+                        <div class="gamertag">SDJ</div>
+                        <div class="real-name">Duncan Meara</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Jigglypuff.png" alt="Jigglypuff" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/USA.png" alt="USA" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r59"></div>
+            </div>
+            <div class="blurb-container">
+                <p>
+                    A breakout performance at the Off-Season where he beat Ginger and SFAT was great for SDJ's 
+                    resume and national name recognition. But that wasn't all, he's got wins over Salt, Skerzo, 
+                    and ChuDat as well! If he can cut out the losses to players around his rank like Ben, Gahtzu, 
+                    Chem, and more, he'll definitely be rising in the future.
+                    <br><br>
+                </p>
+            </div>
+
+            <div class="player-container" id="58">
+                <div class="u-player">
+                    <div class="ranking-box">58</div>
+                    <div class="sponsor-box"></div>
+                    <div class="player-details">
+                        <div class="gamertag">Spud</div>
+                        <div class="real-name">Te Tuhi Kelly</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Marth.png" alt="Marth" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/NewZealand.png" alt="New Zealand" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r58"></div>
+            </div>
+            <div class="blurb-container">
+                <p>
+                    He's back. He's finally back after over a year and a half hiatus due to COVID. The Kiwi 
+                    Marth didn't lose to anyone outside of the top 30 besides 2Saint and SDJ, two Puffs. He's got 
+                    great wins on n0ne, Soonsay, and Frenzy, but he just doesn't have the attendance for me to 
+                    really evaluate his results hard. He told me he'll be coming back hopefully a lot next year, 
+                    and I can't wait to see that.
+                    <br><br>
+                </p>
+            </div>
+
+            <div class="player-container" id="57">
+                <div class="u-player">
+                    <div class="ranking-box">57</div>
+                    <div class="sponsor-box"></div>
+                    <div class="player-details">
+                        <div class="gamertag">Logan</div>
+                        <div class="real-name">Logan Dunn</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Marth.png" alt="Marth" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/USA.png" alt="USA" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r57"></div>
+            </div>
+            <div class="blurb-container">
+                <p>
+                    South Carolina's most notable player, Logan has a great win over Pipsqueak, and then a 
+                    bunch of good wins at Warehouse War 2 on his way to a second place: Grab, Panko, and Mad 
+                    Tyro. The rest of the year, however? Panda, Ralph, and JJM are good wins too that they picked 
+                    up along the way, he's got some losses to Gooms and JustJason.
+                    <br><br>
+                </p>
+            </div>
+
+            <div class="player-container" id="56">
+                <div class="u-player">
+                    <div class="ranking-box">56</div>
+                    <div class="sponsor-box"></div>
+                    <div class="player-details">
+                        <div class="gamertag">DrLobster</div>
+                        <div class="real-name">Taylor Baldwin</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Sheik.png" alt="Sheik" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box stock-neg-margin">
+                        <img src="resources/Sprites/Peach.png" alt="Peach" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/USA.png" alt="USA" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r56"></div>
+            </div>
+            <div class="blurb-container">
+                <p>
+                    A regional monster in the Northeast this year, DocLob seems to be the sheik ditto 
+                    master. In Fact, I think he's only lost one to bonfire10 all year and that's it. Wins over 
+                    Jflex, Bbatts, Chem, and Ben are all good, and he's only lost to 2Saint, Franz, Grab, and JoJo.
+                    <br><br>
+                </p>
+            </div>
+
+            <div class="player-container" id="55">
+                <div class="u-player">
+                    <div class="ranking-box">55</div>
+                    <div class="sponsor-box">
+                        <img src="resources/Sponsors/LevelOne.png" alt="Level1" class="s-img">
+                    </div>
+                    <div class="player-details">
+                        <div class="gamertag">FatGoku</div>
+                        <div class="real-name">Steven Callopy</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Fox.png" alt="Fox" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/USA.png" alt="USA" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r55"></div>
+            </div>
+            <div class="blurb-container">
+                <p>
+                    The man who owns one shirt (or many of the same shirt) has been doing what he 
+                    always does: Taking names in the PNW. He's got wins on Fiction, Zuppy, and Aura, 
+                    while only losing to Medz, Suf, Franz, and a non-ballot loss to Iceman. He's another 
+                    person where it's very hard to judge with the lack of attendance to big tournaments.
+                    <br><br>
+                </p>
+            </div>
+
+            <div class="player-container" id="54">
+                <div class="u-player">
+                    <div class="ranking-box">54</div>
+                    <div class="sponsor-box"></div>
+                    <div class="player-details">
+                        <div class="gamertag">Professor Pro</div>
+                        <div class="real-name">Aaron Thomas</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Fox.png" alt="Fox" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/UK.png" alt="United Kingdom" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r54"></div>
+            </div>
+            <div class="blurb-container">
+                <p>
+                    Our second fox in a row, Aaron Thomas may be the love of so many people's lives, but damn is he hard to evaluate. 
+                    He's got NO losses to players ranked below him besides a single game 5 last stock loss 
+                    to Ben at GOML. But his best win is Trif, who's been relatively inactive this year so 
+                    he's even harder to judge! Ugh, what a tough player to rank.
+                    <br><br> 
+                </p>
+            </div>
+
+            <div class="player-container" id="53">
+                <div class="u-player">
+                    <div class="ranking-box">53</div>
+                    <div class="sponsor-box">
+                        <img src="resources/Sponsors/SmashStudios.png" alt="Smash Studios" class="s-img">
+                    </div>
+                    <div class="player-details">
+                        <div class="gamertag">Colbol</div>
+                        <div class="real-name">Colin Green</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Fox.png" alt="Fox" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/USA.png" alt="USA" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r53"></div>
+            </div>
+            <div class="blurb-container">
+                <p>
+                    Our third fox in a row, Colin is another one of those players that barely met the activity requirement, 
+                    so he was REALLY hard to rank. However, he's got wins on Krudo, Skerzo, Logan, and 
+                    he's 2-0 on Grab while only having losses to Panda and Komodo at regionals, and 
+                    that resume seems good enough to me for a top 60 spot.
+                    <br><br>
+                </p>
+            </div>
+
+            <div class="player-container" id="52">
+                <div class="u-player">
+                    <div class="ranking-box">52</div>
+                    <div class="sponsor-box"></div>
+                    <div class="player-details">
+                        <div class="gamertag">Azel</div>
+                        <div class="real-name">Joseph Resplandor</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Fox.png" alt="Fox" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box stock-neg-margin">
+                        <img src="resources/Sprites/Sheik.png" alt="Sheik" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/USA.png" alt="USA" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r52"></div>
+            </div>
+            <div class="blurb-container">
+                <p>
+                    Our fourth fox in a row, Azel's been trading sets with a lot of California's best 
+                    recently. He's 1-1 Franz, Ralph, and Umarth, but has wins on Lucky, but a losing 
+                    record to Kurv. It's an interesting proposition to figure out, and I can't wait to 
+                    see him travel more.
+                    <br><br>
+                </p>
+            </div>
+
+            <div class="player-container" id="51">
+                <div class="u-player">
+                    <div class="ranking-box">51</div>
+                    <div class="sponsor-box"></div>
+                    <div class="player-details">
+                        <div class="gamertag">Kürv</div>
+                        <div class="real-name">Christian Melendez</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Fox.png" alt="Fox" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/USA.png" alt="USA" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r51"></div>
+            </div>
+            <div class="blurb-container">
+                <p>
+                    Our fifth fox in a row, long time Luigi main gradually switches to fox and almost makes top 50 in his 
+                    first full year with him. That bodes well for the future. 2-0 on SFAT, a Ginger 
+                    win, and really good regional wins leads to a good placement for the man with the 
+                    umlaut in his name.
+                    <br><br>
+                </p>
+            </div>
+
+            <div class="player-container" id="50">
+                <div class="u-player">
+                    <div class="ranking-box">50</div>
+                    <div class="sponsor-box"></div>
+                    <div class="player-details">
+                        <div class="gamertag">Panda</div>
+                        <div class="real-name">Brandon Orooji</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Fox.png" alt="Fox" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/USA.png" alt="USA" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r50"></div>
+            </div>
+            <div class="blurb-container">
+                <p>
+                    Finally, our sixth fox in a row, he's of the best foxes vs Sheik in the world. Panda's been attending a lot of 
+                    southern regionals and a few majors. He's picked up wins like Krudo, Skerzo, and 
+                    Colbol along the way. However, he's just got to attend more majors and show more 
+                    consistency on the loss to move him up even higher.
+                    <br><br>
+                </p>
+            </div>
+
+            <div class="player-container" id="49">
+                <div class="u-player">
+                    <div class="ranking-box">49</div>
+                    <div class="sponsor-box">
+                        <img src="resources/Sponsors/Reason.png" alt="Reason Gaming" class="s-img">
+                    </div>
+                    <div class="player-details">
+                        <div class="gamertag">Frenzy</div>
+                        <div class="real-name">Elliot Grossman</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Falco.png" alt="Falco" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/UK.png" alt="United Kingdom" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r49"></div>
+            </div>
+            <div class="blurb-container">
+                <p>
+                    *Michael Buffer impersonation* Standing on the left side of the CSS screen, at 6 '6”, 
+                    out of the United Kingdom, ELLLLLIOOTTTT GROSSSSMANNNNN!!!! Frenzy's North American 
+                    tournament experiences have been more fruitful than many of his other European 
+                    counterparts. He's been consistently beating top 40 players at every major he's been 
+                    to this year, but his lackluster performances have been in Europe where he's lost to 
+                    players like Lil Chief and Kingu. Traveling across to America and still doing this well 
+                    is impressive nonetheless, but I'm sure he's not satisfied and we'll see him climb the ladder.
+                    <br><br>
+                </p>
+            </div>
+
+            <div class="player-container" id="48">
+                <div class="u-player">
+                    <div class="ranking-box">48</div>
+                    <div class="sponsor-box">
+                        <img id="chudatimg" src="resources/Sponsors/LiquidWhite.png" alt="Team Liquid" class="s-img">
+                    </div>
+                    <div class="player-details">
+                        <div class="gamertag">ChuDat</div>
+                        <div class="real-name">Daniel Rodriguez</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/ICs.png" alt="Ice Climbers" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box stock-neg-margin">
+                        <img src="resources/Sprites/Mario.png" alt="Mario" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/USA.png" alt="USA" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r48"></div>
+            </div>
+            <div class="blurb-container">
+                <p>
+                    YEEEEEEEEEEEEEEEEEEEEEEEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYUUUUUUUUUU
+                    UUHHHHHHHHHHHHHHHHHHHHHHHZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
+                    <br><br>
+                    He has a Mario? that he beat a Top 100 player with? Huh.
+                    <br><br>
+                    In all seriousness, Chu has a lot of great wins this year, beating Ben, Chem, Jflex, SluG, Wally,
+                    he just didn't attend enough to be ranked higher. 
+                </p>
+            </div>
+
+            <div class="player-container" id="47">
+                <div class="u-player">
+                    <div class="ranking-box">47</div>
+                    <div class="sponsor-box">
+                        <img src="resources/Sponsors/MeleeStats.png" alt="Melee Stats" class="s-img">
+                    </div>
+                    <div class="player-details">
+                        <div class="gamertag">Lunar Dusk</div>
+                        <div class="real-name">Jean-Christophe Léger-Héroux</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/ICs.png" alt="Ice Climbers" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box stock-neg-margin">
+                        <img src="resources/Sprites/Jigglypuff.png" alt="Jigglypuff" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/Canada.png" alt="Canada" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r47"></div>
+            </div>
+            <div class="blurb-container">
+                <p>
+                    Fun Fact: Lunar Dusk doesn't have an accent despite the fact he grew up in Quebec 
+                    because he watched so many gaming youtube videos as a young teenager. One of the 
+                    nicest guys in the melee scene, Jean-Christophe Léger-Héroux (one of the best names 
+                    in the scene as well), picked up some great wins on Joshman, Magi, Rishi, and more. 
+                    Melee Stats has done a great job sponsoring him so we'll definitely be seeing more 
+                    of him at events soon.
+                    <br><br>
+                </p>
+            </div>
+
+            <div class="player-container" id="46">
+                <div class="u-player">
+                    <div class="ranking-box">46</div>
+                    <div class="sponsor-box"></div>
+                    <div class="player-details">
+                        <div class="gamertag">Franz</div>
+                        <div class="real-name">Aljon Apilado</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Doc.png" alt="Dr. Mario" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/USA.png" alt="USA" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r46"></div>
+            </div>
+            <div class="blurb-container">
+                <p>
+                    A Doctor Mario in Top 50? Is this 2014? Franz has had an incredible breakout year 
+                    where he's beaten many great players like KoDoRiN, Polish, and FatGoku, while not 
+                    having many losses. He started traveling at the end of this year, so I'm hoping to 
+                    see even more of him. Shoutout to his reverse mains set vs Xela at a local where
+                    Xela double caped a stitch face.
+                    <br><br>
+                </p>
+            </div>
+
+            <div class="player-container" id="45">
+                <div class="u-player">
+                    <div class="ranking-box">45</div>
+                    <div class="sponsor-box">
+                        <img src="resources/Sponsors/Conduit.png" alt="Conduit Gaming" class="s-img">
+                    </div>
+                    <div class="player-details">
+                        <div class="gamertag">Medz</div>
+                        <div class="real-name">Juan Garcia</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Fox.png" alt="Fox" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box stock-neg-margin">
+                        <img src="resources/Sprites/Marth.png" alt="Marth" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/USA.png" alt="USA" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r45"></div>
+            </div>
+            <div class="blurb-container">
+                <p>
+                    Basically inactive throughout the first half of the year, we saw Medz's first 
+                    outing at Smash Factor 9 where he beat the entire field, including Wizzrobe, before 
+                    getting beaten in Grands and the reset by Wizzrobe for 2nd. The rest of the year he 
+                    picked up good wins like bobby big ballz and Zamu, but really didn't attend that much.
+                    <br><br>
+                </p>
+            </div>
+
+            <div class="player-container" id="44">
+                <div class="u-player">
+                    <div class="ranking-box">44</div>
+                    <div class="sponsor-box">
+                        <img src="resources/Sponsors/Slyfox.png" alt="SlyFox Gaming" class="s-img">
+                    </div>
+                    <div class="player-details">
+                        <div class="gamertag">Skerzo</div>
+                        <div class="real-name">Adrian Chavez</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Fox.png" alt="Fox" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/USA.png" alt="USA" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r44"></div>
+            </div>
+            <div class="blurb-container">
+                <p>
+                    Another player who traveled a lot is Skerzo. It felt like if you saw a tournament 
+                    this year, Skerzo probably made top 32. His first half of the year was definitely 
+                    really strong, but the second half had some bumps in it like a 65th at Big House 
+                    with no notable wins or a 33rd at shine with a loss to Louis. However, he still finds himself 
+                    high on this list, with wins like Ginger, Joshman, and Spark that are hard to ignore. 
+                    Don't get it twisted, Chicago's #1 is going to keep grinding and be back with a vengeance.
+                    <br><br>
+                </p>
+            </div>
+
+            <div class="player-container" id="43">
+                <div class="u-player">
+                    <div class="ranking-box">43</div>
+                    <div class="sponsor-box">
+                        <img src="resources/Sponsors/AllChat.png" alt="AllChat Esports" class="s-img">
+                    </div>
+                    <div class="player-details">
+                        <div class="gamertag">2Saint</div>
+                        <div class="real-name">Toussaint Turnier</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Jigglypuff.png" alt="Fox" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/USA.png" alt="USA" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r43"></div>
+            </div>
+            <div class="blurb-container">
+                <p>
+                    One of New York's most prolific local attenders, 2Saint was a regional legend 
+                    this year. He attended 6 different regionals, with his best wins being TheSwooper 
+                    and Lucky, but he just couldn't make that deep run and pick up some wins at a major 
+                    that he needed to move him up the rankings.
+                    <br><br>
+                </p>
+            </div>
+
+            <div class="player-container" id="42">
+                <div class="u-player">
+                    <div class="ranking-box">42</div>
+                    <div class="sponsor-box"></div>
+                    <div class="player-details">
+                        <div class="gamertag">Aura</div>
+                        <div class="real-name">Derek Olsen</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Peach.png" alt="Peach" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box stock-neg-margin">
+                        <img src="resources/Sprites/Sheik.png" alt="Sheik" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/USA.png" alt="USA" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r42"></div>
+            </div>
+            <div class="blurb-container">
+                <p>
+                    The most interesting thing to me about Aura this year is that he picked up a 
+                    Sheik for some matchups. On top of a secondary, Aura has had a very consistent 
+                    year with not many losses to players outside the top 60 besides Nickemwit. 
+                    He's got a great moky win and a great Soonsay win, let's see if he can put more 
+                    foxes in the blender in 2023.
+                    <br><br>
+                </p>
+            </div>
+
+            <div class="player-container" id="41">
+                <div class="u-player">
+                    <div class="ranking-box">41</div>
+                    <div class="sponsor-box">
+                        <img src="resources/Sponsors/Conduit.png" alt="Conduit Gaming" class="s-img">
+                    </div>
+                    <div class="player-details">
+                        <div class="gamertag">Smashdaddy</div>
+                        <div class="real-name">Luis Rangel</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Fox.png" alt="Fox" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/USA.png" alt="USA" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r41"></div>
+            </div>
+            <div class="blurb-container">
+                <p>
+                    Finishing in the top 30 of the Summer MPGR, Smashdaddy went MIA in the second 
+                    half of the year besides his Smash Factor 9 appearance. His wins in the first
+                     half were great and have aged well, especially the Soonsay and Lunar Dusk wins. 
+                     Hopefully he returns to active competitive play soon.
+                     <br><br>
+                </p>
+            </div>
+
+            <div class="player-container" id="40">
+                <div class="u-player">
+                    <div class="ranking-box">40</div>
+                    <div class="sponsor-box"></div>
+                    <div class="player-details">
+                        <div class="gamertag">Rishi</div>
+                        <div class="real-name">Rishi Malhotra</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Marth.png" alt="Marth" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box stock-neg-margin">
+                        <img src="resources/Sprites/DonkeyKong.png" alt="Donkey Kong" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/USA.png" alt="USA" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r40"></div>
+            </div>
+            <div class="blurb-container">
+                <p>
+                    Rishi's a player who didn't show up to events outside of random locals and the 
+                    Summit VIP bracket until Super Smash Con 2022, where he went on a run to 7th 
+                    beating Khryke, Zuppy, and Magi, before finally bowing out to he fellow swordsman 
+                    Zain. He continued to do well at Ludwig Smash Invitational and Apex before ending 
+                    out the year with some more Nightclub victories, like normal.
+                    <br><br>
+                </p>
+            </div>
+
+            <div class="player-container" id="39">
+                <div class="u-player">
+                    <div class="ranking-box">39</div>
+                    <div class="sponsor-box"></div>
+                    <div class="player-details">
+                        <div class="gamertag">Trif</div>
+                        <div class="real-name">Alvaro Garcia Moral</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Peach.png" alt="Peach" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box stock-neg-margin">
+                        <img src="resources/Sprites/Falco.png" alt="Falco" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/Spain.png" alt="Spain" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r39"></div>
+            </div>
+            <div class="blurb-container">
+                <p>
+                    Only using their falco secondary until October, Trif was a hard one to rank. 
+                    We know how good they are, but they didn't attend much. However, they finally did 
+                    it: They beat Leffen. After all these torturous years, Trif finally was able to 
+                    beat the Swede at Dreamhack Rotterdam 2022. They followed a 3rd place up there with 
+                    a 1st at HFLAN and a 1st at Tech Republic VI, a French regional.
+                    <br><br>
+                </p>
+            </div>
+
+            <div class="player-container" id="38">
+                <div class="u-player">
+                    <div class="ranking-box">38</div>
+                    <div class="sponsor-box"></div>
+                    <div class="player-details">
+                        <div class="gamertag">Zuppy</div>
+                        <div class="real-name">Blake Burnham</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Fox.png" alt="Fox" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/Canada.png" alt="Canada" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r38"></div>
+            </div>
+            <div class="blurb-container">
+                <p>
+                    The third best fox in Canada is known for his trademark aerial double shine and 
+                    his TAS play, and he converted some of that to tournaments. While dominating the 
+                    salt mine all year, he had great wins like Aklo, Spark, and TheSWOOPER while not 
+                    really losing to many players. Only losing to two players off the ballot, one of 
+                    them being 100 Grand who would suicide dair him in game 5 last stock on Dreamland 
+                    64 in winners quarters of 4M: Minnesota Melee Monthly where the entire crowd popped 
+                    off and Zuppy hates that moment and refuses to talk about it. He still won that 
+                    tournament anyways, reverse 3-0ing 100 Grand later in bracket and winning 6 sets over 
+                    top 100 players in a crazy losers run.
+                    <br><br>
+                </p>
+            </div>
+
+            <div class="player-container" id="37">
+                <div class="u-player">
+                    <div class="ranking-box">37</div>
+                    <div class="sponsor-box"></div>
+                    <div class="player-details">
+                        <div class="gamertag">Mekk</div>
+                        <div class="real-name">Yasin Mekki</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Falcon.png" alt="Falcon" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box stock-neg-margin">
+                        <img src="resources/Sprites/Ganon.png" alt="Ganondorf" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/USA.png" alt="USA" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r37"></div>
+            </div>
+            <div class="blurb-container">
+                <p>
+                    Recently announcing his switch to being a Ganon main, Mekk played this entire 
+                    year as a Falcon main, and he did not stop… attending events. Hell, he took Greyhound 
+                    buses twice up to Minnesota just to attend the monthlies. Having two great wins in 
+                    Axe and SluG on top of others is really nice to go with some amazing performances 
+                    like Shine.
+                    <br><br>
+                </p>
+            </div>
+
+            <div class="player-container" id="36">
+                <div class="u-player">
+                    <div class="ranking-box">36</div>
+                    <div class="sponsor-box"></div>
+                    <div class="player-details">
+                        <div class="gamertag">Jflex</div>
+                        <div class="real-name">Jacob Pinto</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Sheik.png" alt="Sheik" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/USA.png" alt="USA" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r36"></div>
+            </div>
+            <div class="blurb-container">
+                <p>
+                    Jflex was a hard one for me to rank. He beat aMSa… but it's at a local. I'm gonna 
+                    count the win, but much less than I would if it were a regional or major, but I'm 
+                    not counting it against aMSa for losing at all. Other than that, he had a great 
+                    Function 2 beating moky, but he's had some other lackluster regional performances, 
+                    but he's really shined at majors.
+                    <br><br>
+                </p>
+            </div>
+
+            <div class="player-container" id="35">
+                <div class="u-player">
+                    <div class="ranking-box">35</div>
+                    <div class="sponsor-box"></div>
+                    <div class="player-details">
+                        <div class="gamertag">bobby big ballz</div>
+                        <div class="real-name"></div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Falco.png" alt="Falco" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/USA.png" alt="USA" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r35"></div>
+            </div>
+            <div class="blurb-container">
+                <p>
+                    Robert Large Testicles was back on his grind again this year. The man with the 
+                    most sets played on startgg for 2 years running (can he make it a third this year?) 
+                    took some names like n0ne, Krudo, and Magi. However, he also fell to players like 
+                    Palpa, Ringler, and DMT. He's all over the place, just like his stream. Let's see 
+                    if his 2023 is just as crazy.
+                    <br><br>
+                </p>
+            </div>
+
+            <div class="player-container" id="34">
+                <div class="u-player">
+                    <div class="ranking-box">34</div>
+                    <div class="sponsor-box">
+                        <img src="resources/Sponsors/Slyfox.png" alt="SlyFox Gaming" class="s-img">
+                    </div>
+                    <div class="player-details">
+                        <div class="gamertag">Zamu</div>
+                        <div class="real-name">Daniel Bernstein</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Fox.png" alt="Fox" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/USA.png" alt="USA" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r34"></div>
+            </div>
+            <div class="blurb-container">
+                <p>
+                    Man, was Zamu everywhere. Zamu attended 16 different Majors/Regionals while making 
+                    most of his locals, despite those tournaments mostly being in different states. His 
+                    list of ballot wins is 23 long, one of the longest of people outside the top 8 (if 
+                    not the longest). All this traveling comes with a lot of losses too, but man do I 
+                    have to reward the attendance.
+                    <br><br>
+                </p>
+            </div>
+
+            <div class="player-container" id="33">
+                <div class="u-player">
+                    <div class="ranking-box">33</div>
+                    <div class="sponsor-box"></div>
+                    <div class="player-details">
+                        <div class="gamertag">TheSWOOPER</div>
+                        <div class="real-name">Luis Olivo</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Samus.png" alt="Samus" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/USA.png" alt="USA" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r33"></div>
+            </div>
+            <div class="blurb-container">
+                <p>
+                    The highest mid-tier main not named Pikachu on this list, TheSWOOPER's first half 
+                    of the year was stellar. A win on iBDW and SluG? Amazing. Second half of the year, 
+                    they lacked consistency needed to be higher on this list with losses to players like 
+                    dansdaman, Tommy, Blue, and GodTouch.
+                    <br><br>
+                </p>
+            </div>
+
+            <div class="player-container" id="32">
+                <div class="u-player">
+                    <div class="ranking-box">32</div>
+                    <div class="sponsor-box">
+                        <img src="resources/Sponsors/Pulse.png" alt="Pulse" class="s-img">
+                    </div>
+                    <div class="player-details">
+                        <div class="gamertag">Swift</div>
+                        <div class="real-name">Dan Petruso</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Pikachu.png" alt="Pikachu" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box stock-neg-margin">
+                        <img src="resources/Sprites/Fox.png" alt="Fox" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/USA.png" alt="USA" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r32"></div>
+            </div>
+            <div class="blurb-container">
+                <p>
+                    Mostly inactive for the second half of the year, ZIP ZIP extraordinaire Swift took a 
+                    lot of names in 2022. Aklo, Magi, and Zuppy are their biggest wins, with their only 
+                    losses being TheSWOOPER and BBatts, but the thing hurting their placement on this 
+                    list the most is the lack of attendance and lack of top 15 wins, which I'm sure he's capable of.
+                    <br><br>
+                </p>
+            </div>
+
+            <div class="player-container" id="31">
+                <div class="u-player">
+                    <div class="ranking-box">31</div>
+                    <div class="sponsor-box"></div>
+                    <div class="player-details">
+                        <div class="gamertag">Salt</div>
+                        <div class="real-name">Christian Rennie</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Falcon.png" alt="Captain Falcon" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box stock-neg-margin">
+                        <img src="resources/Sprites/Falco.png" alt="Falco" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box stock-neg-margin">
+                        <img src="resources/Sprites/Fox.png" alt="Fox " class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/USA.png" alt="USA" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r31"></div>
+            </div>
+            <div class="blurb-container">
+                <p>
+                    Salt's electric playstyle has garnered them a bunch of fans since their appearance 
+                    at Smash Summit 13, where they essentially put on a combo video in their 9th place 
+                    finish. They've got great wins, but if they wanna see themselves higher on this list, 
+                    they've gotta clean up the losses to players like Gahtzu and Eve.
+                    <br><br>
+                </p>
+            </div>
+
+            <div class="player-container" id="30">
+                <div class="u-player">
+                    <div class="ranking-box">30</div>
+                    <div class="sponsor-box"></div>
+                    <div class="player-details">
+                        <div class="gamertag">Spark</div>
+                        <div class="real-name">Zaid Ali</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Sheik.png" alt="Sheik" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/Pakistan.png" alt="Pakistan" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box" style="margin-left: 5px;">
+                        <img src="resources/Flags/USA.png" alt="USA" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r30"></div>
+            </div>
+            <div class="blurb-container">
+                <p>
+                    After going to Pakistan for an extended period of time, Spark traveled all over for 
+                    regionals. He visited Seattle, London, San Diego, St. Paul, Toronto, and Vegas all 
+                    for events that weren't even majors. This dedication to attending regionals (and doing 
+                    well at them) as well as some great wins like KoDoRiN, S2J, and Joshman has landed 
+                    him in a good position.
+                    <br><br>
+                </p>
+            </div>
+
+            <div class="player-container" id="29">
+                <div class="u-player">
+                    <div class="ranking-box">29</div>
+                    <div class="sponsor-box"></div>
+                    <div class="player-details">
+                        <div class="gamertag">Lucky</div>
+                        <div class="real-name">Joey Aldama</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Fox.png" alt="Fox" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/USA.png" alt="USA" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r29"></div>
+            </div>
+            <div class="blurb-container">
+                <p>
+                    After becoming Mango's morning streamer, Joey found new life in Melee. He looks more 
+                    invigorated than ever when competing, and it shows in his play. He's beaten SluG, Ginger, 
+                    and Polish, and hasn't picked up that many bad losses along the way. I wouldn't be 
+                    surprised to see him keep up his momentum into 2023.
+                    <br><br>
+                </p>
+            </div>
+
+            <div class="player-container" id="28">
+                <div class="u-player">
+                    <div class="ranking-box">28</div>
+                    <div class="sponsor-box"></div>
+                    <div class="player-details">
+                        <div class="gamertag">null</div>
+                        <div class="real-name">Gio Rossi</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Fox.png" alt="Fox" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/USA.png" alt="USA" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r28"></div>
+            </div>
+            <div class="blurb-container">
+                <p>
+                    Gio's one of the most likable guys in the smash scene, and he's one of the most 
+                    active too. Attending a ton of majors and what feels like almost every local in SoCal, 
+                    he's picked up a laundry list of wins that includes n0ne, Ginger, Krudo, and Magi. He's 
+                    got some losses like SA Nick, Ober, and Younger that are holding him back from being 
+                    higher, but hey, when he attends that much he's bound to pick up some losses.
+                    <br><br>
+                </p>
+            </div>
+
+            <div class="player-container" id="27">
+                <div class="u-player">
+                    <div class="ranking-box">27</div>
+                    <div class="sponsor-box">
+                        <img src="resources/Sponsors/CLG.png" alt="Counter Logic Gaming" class="s-img">
+                    </div>
+                    <div class="player-details">
+                        <div class="gamertag">SFAT</div>
+                        <div class="real-name">Zac Cordoni</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Fox.png" alt="Fox" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/USA.png" alt="USA" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r27"></div>
+            </div>
+            <div class="blurb-container">
+                <p>
+                    After switching to z-jump, SFAT has a bit of a rougher time this year than in the past, 
+                    but he's still his consistent top 30 self. The biggest thing for me not putting him 
+                    higher is his lack of a major win. His best win is S2J, who's a great player, but not 
+                    near some of the wins that other players above him have. He's capable of beating anyone 
+                    though (except maybe Hungrybox), so don't be surprised to see him go even with your 
+                    favorite top player.
+                    <br><br>
+                </p>
+            </div>
+
+            <div class="player-container" id="26">
+                <div class="u-player">
+                    <div class="ranking-box">26</div>
+                    <div class="sponsor-box"></div>
+                    <div class="player-details">
+                        <div class="gamertag">Polish</div>
+                        <div class="real-name">Matt Warshaw</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Peach.png" alt="Peach" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box stock-neg-margin">
+                        <img src="resources/Sprites/Fox.png" alt="Fox" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/USA.png" alt="USA" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r26"></div>
+            </div>
+            <div class="blurb-container">
+                <p>
+                    Polish has had a weird year. They overslept twice for majors that they could have possibly 
+                    had good bracket paths for. They didn't play Peach for months on end (or sometimes even the 
+                    game). But yet, they still had a pretty great year. A win on aMSa, a win on KoDoRiN, and a win 
+                    on Fiction are three great points on their resume. Second half of the year had some low points 
+                    like losing to Franz with some of the weirdest game endings you'll ever see, but they'll do 
+                    amazing things in 2023.
+                    <br><br>
+                </p>
+            </div>
+
+            <div class="player-container" id="25">
+                <div class="u-player">
+                    <div class="ranking-box">25</div>
+                    <div class="sponsor-box">
+                        <img src="resources/Sponsors/TourneyLocator.png" alt="TourneyLocator" class="s-img">
+                    </div>
+                    <div class="player-details">
+                        <div class="gamertag">SFOP</div>
+                        <div class="real-name">Ben Duren</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Fox.png" alt="Fox" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/USA.png" alt="USA" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r25"></div>
+            </div>
+            <div class="blurb-container">
+                <p>
+                    Seemingly out of nowhere, SFOP's incredibly technical fox was incredibly consistent in a year where 
+                    not many were. Sure, it's a small sample size, which lowers his rank a bit, but when your worst loss 
+                    is Aklo and you've got wins over KoDoRiN, Joshman, Krudo, and SFAT? You're off to a great start as a 
+                    newly minted top 30 player.
+                    <br><br>
+                </p>
+            </div>
+
+            <div class="player-container" id="24">
+                <div class="u-player">
+                    <div class="ranking-box">24</div>
+                    <div class="sponsor-box">
+                        <img src="resources/Sponsors/BeastCoast.png" alt="BeastCoast" class="s-img">
+                    </div>
+                    <div class="player-details">
+                        <div class="gamertag">Magi</div>
+                        <div class="real-name">Sasha Sullivan</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Falco.png" alt="Fox" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/USA.png" alt="USA" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r24"></div>
+            </div>
+            <div class="blurb-container">
+                <p>
+                    Magi's year is one of inconsistency. On one hand, she had a lot of amazing wins in 
+                    the top 20 including Axe, moky, and Plup. On the other hand, she's got quite a few 
+                    suspect losses, including up and comers Palpa, Panko, and Siremeris. She's got a massive 
+                    army of fans, don't be surprised to see them cheering her on in 2023 as she gives the puppy the boots.
+                    <br><br>
+                </p>
+            </div>
+
+            <div class="player-container" id="23">
+                <div class="u-player">
+                    <div class="ranking-box">23</div>
+                    <div class="sponsor-box"></div>
+                    <div class="player-details">
+                        <div class="gamertag">Krudo</div>
+                        <div class="real-name">Kyle Krudo</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Sheik.png" alt="Sheik" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/USA.png" alt="USA" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r23"></div>
+            </div>
+            <div class="blurb-container">
+                <p>
+                    Krudo's year was marked by ups and downs. Wins on iBDW, KoDoRiN, and Joshman are all 
+                    amazing, but then he had some losses in the 40-80 range: Panda (who has been beating him in region 
+                    solidly), Colbol, Azel, Chem, and Akir (who isn't on the ballot, but would be with more 
+                    attendance). If he can gain consistency and get a few more big wins, the man in the Xbox 360 
+                    and Faze hoodies' stock could rise.
+                    <br><br>
+                </p>
+            </div>
+
+            <div class="player-container" id="22">
+                <div class="u-player">
+                    <div class="ranking-box">22</div>
+                    <div class="sponsor-box"></div>
+                    <div class="player-details">
+                        <div class="gamertag">Soonsay</div>
+                        <div class="real-name">Miles Foster</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Fox.png" alt="Fox" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/Canada.png" alt="Canada" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r22"></div>
+            </div>
+            <div class="blurb-container">
+                <p>
+                    After not attending much in the first half of the year, Soonsay had a breakout tournament 
+                    at Big House, where he beat Leffen, Pipsqueak, and S2J en route to a 5th place finish. 
+                    There, he qualified for Summit where he beat Leffen and Pipsqueak AGAIN as well as KoDoRiN. 
+                    He's just a major upwards trajectory for 2023, let's hope he can continue that.
+                    <br><br>
+                </p>
+            </div>
+
+            <div class="player-container" id="21">
+                <div class="u-player">
+                    <div class="ranking-box">21</div>
+                    <div class="sponsor-box">
+                        <img src="resources/Sponsors/Lumiosity.png" alt="Luminosity Gaming" class="s-img">
+                    </div>
+                    <div class="player-details">
+                        <div class="gamertag">Ginger</div>
+                        <div class="real-name">Avery Wilson</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Falco.png" alt="Falco" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/USA.png" alt="USA" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r21"></div>
+            </div>
+            <div class="blurb-container">
+                <p>
+                    Ginger had a hot start to the ranking period, immediately getting 9th at Genesis with a win 
+                    on Plup and then following it up with a 1st at Function 2 beating moky and SluG. He cooled 
+                    down in the 2nd half of the year, gaining some less than top 30 losses to Mekk, Skerzo, Kurv, 
+                    Dawson, and Gahtzu, and it felt like he needed one more major win to help move him up the ranks.
+                    <br><br>
+                </p>
+            </div>
+
+            <div class="player-container" id="20">
+                <div class="u-player">
+                    <div class="ranking-box">20</div>
+                    <div class="sponsor-box">
+                        <img src="resources/Sponsors/MeleeStats.png" alt="MeleeStats" class="s-img">
+                    </div>
+                    <div class="player-details">
+                        <div class="gamertag">Pipsqueak</div>
+                        <div class="real-name">Linus Nordin</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Fox.png" alt="Fox" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box stock-neg-margin">
+                        <img src="resources/Sprites/Falcon.png" alt="Captain Falcon" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/Sweden.png" alt="Sweden" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r20"></div>
+            </div>
+            <div class="blurb-container">
+                <p>
+                    Pipsqueak's the best player in the world (according to Low Tide City 2022), and it's not up 
+                    for debate. Everyone's favorite twitter interaction-farming swede started off with a few lower 
+                    top 100 losses like Mad Tyro, Logan, and BBatts but he's finishing inside the top 20, which was 
+                    made possible by his strong end of the year. He beat Hungrybox and Mango in back to back 
+                    tournaments! Let's see if he can continue his great form into 2023.
+                    <br><br>
+                </p>
+            </div>
+
+            <div class="player-container" id="19">
+                <div class="u-player">
+                    <div class="ranking-box">19</div>
+                    <div class="sponsor-box">
+                        <img src="resources/Sponsors/Mindfreak.png" alt="Mindfreak" class="s-img">
+                    </div>
+                    <div class="player-details">
+                        <div class="gamertag">Joshman</div>
+                        <div class="real-name">Joshua Lyras</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Fox.png" alt="Fox" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box stock-neg-margin">
+                        <img src="resources/Sprites/Sheik.png" alt="Sheik" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box stock-neg-margin">
+                        <img src="resources/Sprites/Marth.png" alt="Marth" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/Australia.png" alt="Australia" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r19"></div>
+            </div>
+            <div class="blurb-container">
+                <p>
+                    Finally changing his tag from Sora to Joshman, Australia's representative on an international 
+                    stage cemented his spot in the top 20. Beating iBDW and aMSa at GOML in route to a 4th place 
+                    finish, he picked up a bunch of other great wins like KoDoRiN, lloD, and moky throughout the 
+                    year. However, he's also got a few lower tier losses like Lunar Dusk, and especially JWick 
+                    at Genesis 8. But hey, that was the start of the year and he's looked much better in the second half.
+                    I hope he recovers fully from his arm injury very soon.
+                    <br><br>
+                </p>
+            </div>
+
+            <div class="player-container" id="18">
+                <div class="u-player">
+                    <div class="ranking-box">18</div>
+                    <div class="sponsor-box"></div>
+                    <div class="player-details">
+                        <div class="gamertag">Wizzrobe</div>
+                        <div class="real-name">Justin Hallett</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Falcon.png" alt="Captain Falcon" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/USA.png" alt="USA" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r18"></div>
+            </div>
+            <div class="blurb-container">
+                <p>
+                    Despite being absent for the first half of the year, Wizzrobe had 3 outings and they 
+                    were all super consistent. Beating aMSa, Axe, KoDoRiN, and more, he only dropped one 
+                    set to a player outside of the current top 8. That set was to Medz, at Smash Factor 9, 
+                    his first tournament back that he'd go on to win and double eliminate Medz in Grand Finals. 
+                    Who knows what 2023 holds with health issues holding him back, but I wish him a speedy recovery.
+                    <br><br>
+                </p>
+            </div>
+
+            <div class="player-container" id="17">
+                <div class="u-player">
+                    <div class="ranking-box">17</div>
+                    <div class="sponsor-box">
+                        <img src="resources/Sponsors/Nouns.png" alt="Nouns" class="s-img">
+                    </div>
+                    <div class="player-details">
+                        <div class="gamertag">Aklo</div>
+                        <div class="real-name">Dawud Rahman</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Fox.png" alt="Fox" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box stock-neg-margin">
+                        <img src="resources/Sprites/Link.png" alt="Link" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/USA.png" alt="USA" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r17"></div>
+            </div>
+            <div class="blurb-container">
+                <p>
+                    The only Link appearing on the list (as a secondary), Aklo's come out of his shell and 
+                    finally started to travel a bit more outside of the east coast. Ludwig Smash Invitational 
+                    saw him beat S2J, Fiction, and Pipsqueak (who beat him earlier). He's also got wins on 
+                    iBDW at The Nightclub VIP AND Apex 2022, and doesn't really have that bad of losses. 
+                    I'm hoping he travels even more in 2023.
+                    <br><br>
+                </p>
+            </div>
+
+            <div class="player-container" id="16">
+                <div class="u-player">
+                    <div class="ranking-box">16</div>
+                    <div class="sponsor-box">
+                        <img src="resources/Sponsors/GG.png" alt="Golden Guardians" class="s-img">
+                    </div>
+                    <div class="player-details">
+                        <div class="gamertag">n0ne</div>
+                        <div class="real-name">Edgard Sheleby</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Falcon.png" alt="Captain Falcon" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box stock-neg-margin">
+                        <img src="resources/Sprites/Ganon.png" alt="Ganondorf" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/Canada.png" alt="Canada" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r16"></div>
+            </div>
+            <div class="blurb-container">
+                <p>
+                    n0ne's first half of the year was spectacular, beating Hungrybox at Genesis with the 
+                    'Stomp Heard Round the World' and having a 1-0 record on aMSa. However, his second half 
+                    of the year wasn't as consistent, where he took some rough losses to bobby big ballz, 
+                    Drephen, and Rishi. Yet still, his wins at the top level were too good to be ignored in 
+                    favor of a few bad losses.
+                    <br><br>
+                </p>
+            </div>
+
+            <div class="player-container" id="15">
+                <div class="u-player">
+                    <div class="ranking-box">15</div>
+                    <div class="sponsor-box">
+                        <img src="resources/Sponsors/BeastCoast.png" alt="Beastcoast" class="s-img">
+                    </div>
+                    <div class="player-details">
+                        <div class="gamertag">S2J</div>
+                        <div class="real-name">Johnny Kim</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Falcon.png" alt="Captain Falcon" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/USA.png" alt="USA" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r15"></div>
+            </div>
+            <div class="blurb-container">
+                <p>
+                    Johnny's year was marked by one major accomplishment: Beating Hungrybox offline for the 
+                    first time EVER. He also was able to beat Zain for the first time offline since Battle of 
+                    BC 3. With other wins on Axe, moky, and Hungrybox, he's shown that he can beat the players 
+                    above him, but he's gotta do it consistently to make himself higher on the list.
+                    <br><br>
+                </p>
+            </div>
+
+            <div class="player-container" id="14">
+                <div class="u-player">
+                    <div class="ranking-box">14</div>
+                    <div class="sponsor-box">
+                        <img src="resources/Sponsors/69P.png" alt="69% Apparel" class="s-img">
+                    </div>
+                    <div class="player-details">
+                        <div class="gamertag">Fiction</div>
+                        <div class="real-name">Shepard Lima</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Falco.png" alt="Falco" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/USA.png" alt="USA" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r14"></div>
+            </div>
+            <div class="blurb-container">
+                <p>
+                    Fiction's won 40 Verdugos. FOURTY. Put the next major in Verdugo and he's winning it. 
+                    Shep's been super consistent all year, placing just about his seed if not better in almost all 
+                    the tournaments he's been to this year. He's got a Mango win and a Plup win, but he's gonna 
+                    need more than just consistency to end up in the top 10 next year, he's gonna need to pick 
+                    up a few more top level wins and show that he can carry his Verdugo aura into majors.
+                    <br><br>
+                </p>
+            </div>
+
+            <div class="player-container" id="13">
+                <div class="u-player">
+                    <div class="ranking-box">13</div>
+                    <div class="sponsor-box">
+                        <img src="resources/Sponsors/Moist.png" alt="Moist" class="s-img">
+                    </div>
+                    <div class="player-details">
+                        <div class="gamertag">moky</div>
+                        <div class="real-name">Kurtis Pratt</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Fox.png" alt="Fox" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/Canada.png" alt="Canada" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r13"></div>
+            </div>
+            <div class="blurb-container">
+                <p>
+                    One of the most technical players in the world, moky's had a great year with amazing peaks 
+                    like being 2-1 on aMSa and 1-0 on iBDW (he may be the best fox ditto player in the world), 
+                    but that Hungrybox LAN win has eluded him and he 
+                    hasn't shown the ability to beat his Friday stream rival Zain. He got more consistent with 
+                    his results towards the end of the year, , which is what he's going to need to keep rising up the ladder.
+                    <br><br>
+                </p>
+            </div>
+
+            <div class="player-container" id="12">
+                <div class="u-player">
+                    <div class="ranking-box">12</div>
+                    <div class="sponsor-box">
+                        <img src="resources/Sponsors/Flyquest.png" alt="Flyquest" class="s-img">
+                    </div>
+                    <div class="player-details">
+                        <div class="gamertag">KoDoRiN</div>
+                        <div class="real-name">John Ko</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Marth.png" alt="Marth" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/USA.png" alt="USA" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r12"></div>
+            </div>
+            <div class="blurb-container">
+                <p>
+                    John Ko is known for being an incredibly hard worker. He streams almost every day grinding 
+                    melee and trying to improve, and he's had a great year. Wins over Mang0, iBDW, and Hungrybox 
+                    are great, but he's missing that consistency and wins that keep him from moving up a few spots.
+                    <br><br>
+                </p>
+            </div>
+
+            <div class="player-container" id="11">
+                <div class="u-player">
+                    <div class="ranking-box">11</div>
+                    <div class="sponsor-box"></div>
+                    <div class="player-details">
+                        <div class="gamertag">lloD</div>
+                        <div class="real-name">Arjun Malhotra</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Peach.png" alt="Peach" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/USA.png" alt="USA" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r11"></div>
+            </div>
+            <div class="blurb-container">
+                <p>
+                    Everyone's favorite Doctor (not Mario) is in at #11. Starting off the year with a super 
+                    strong first half with wins over Zain and Leffen, lloD wasn't able to attend much due to, 
+                    you know, being a Doctor. He's the best Peach in the world right now, and he's pushing the 
+                    character to its limits in a meta where everyone says “Peach can't do it”. I hope he'll 
+                    be able to find some time off from his profession to play some more of everyone's favorite 
+                    children's party game.
+                    <br><br>
+                </p>
+            </div>
+
+            <div class="player-container" id="10">
+                <div class="u-player">
+                    <div class="ranking-box">10</div>
+                    <div class="sponsor-box">
+                        <img src="resources/Sponsors/Tempo.png" alt="Tempo Storm" class="s-img">
+                    </div>
+                    <div class="player-details">
+                        <div class="gamertag">Axe</div>
+                        <div class="real-name">Jeffrey Williamson</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Pikachu.png" alt="Pikachu" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box stock-neg-margin">
+                        <img src="resources/Sprites/Fox.png" alt="Fox" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box stock-neg-margin">
+                        <img src="resources/Sprites/Falco.png" alt="Falco" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/USA.png" alt="USA" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r10"></div>
+            </div>
+            <div class="blurb-container">
+                <p>
+                    Mr. 29 himself is no longer Mr. 29. Axe rose to the occasion the second half of the year, 
+                    and showed out. Reinventing his pika play and picking up a pocket fox that's taken it to 
+                    Hungrybox, Axe looks hungry. Wins on Zain, Jmook, and Leffen bodes well for his future, 
+                    but that elusive Hungrybox win is still evading him. Don't be surprised to see mango be 
+                    a roadblock either, even though many of their sets are nail biters. Truly one of the 
+                    nicest people in the community, I'd love to see him win a major again.
+                    <br><br>
+                </p>
+            </div>
+
+            <div class="player-container" id="9">
+                <div class="u-player">
+                    <div class="ranking-box">9</div>
+                    <div class="sponsor-box">
+                        <img src="resources/Sponsors/BrotherlyLove.png" alt="Brotherly Love Esports" class="s-img">
+                    </div>
+                    <div class="player-details">
+                        <div class="gamertag">SluG</div>
+                        <div class="real-name">Hugh Hegarty</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/ICs.png" alt="Ice Climbers" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/USA.png" alt="USA" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r9"></div>
+            </div>
+            <div class="blurb-container">
+                <p>
+                    When Wobbling was banned, it seemed like all the notable ICs stopped playing or dropped off 
+                    massively. Now, we've got an Ice Climbers main in the top 10. He's shown ability to go toe 
+                    to toe with almost anyone, having wins over Zain, Jmook, and Leffen, and bringing Hungrybox 
+                    to game 5. However, he's gonna need a little bit of bracket luck if he wants to win his first 
+                    major, as he needs to avoid aMSa, cody, and any really good peach.
+                    <br><br>
+                </p>
+            </div>
+
+            <div class="player-container" id="8">
+                <div class="u-player">
+                    <div class="ranking-box">8</div>
+                    <div class="sponsor-box">
+                        <img src="resources/Sponsors/RedBull.png" alt="RedBull" class="s-img">
+                    </div>
+                    <div class="player-details">
+                        <div class="gamertag">Plup</div>
+                        <div class="real-name">Justin McGrath</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Sheik.png" alt="Sheik" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box stock-neg-margin">
+                        <img src="resources/Sprites/Fox.png" alt="Fox" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/USA.png" alt="USA" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r8"></div>
+            </div>
+            <div class="blurb-container">
+                <p>
+                    Plup didn't attend much this year, but when he did he made his presence felt. He wasn't able 
+                    to win a major this year, but we all know he's capable of it. He didn't really lose to anyone 
+                    outside of the top 8 except for Fiction, Ginger, and Magi, signaling that Falco could be a 
+                    problem going forward into the future. He's also going to be a serious roadblock to aMSa's 
+                    path to #1 if he starts attending again, beating him 25-2 in an online event. When he's on, 
+                    he looks like the best player in the world, let's see if he can end there next year.
+                    <br><br>
+                </p>
+            </div>
+
+            <div class="player-container" id="7">
+                <div class="u-player">
+                    <div class="ranking-box">7</div>
+                    <div class="sponsor-box">
+                        <img id="leffenimg" src="resources/Sponsors/TSMWhite.png" alt="TSM" class="s-img">
+                    </div>
+                    <div class="player-details">
+                        <div class="gamertag">Leffen</div>
+                        <div class="real-name">William Hjelte</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Fox.png" alt="Fox" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box stock-neg-margin">
+                        <img src="resources/Sprites/Sheik.png" alt="Sheik" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/Sweden.png" alt="Sweden" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r7"></div>
+            </div>
+            <div class="blurb-container">
+                <p>
+                    Wumbo William took a break for much of the year to pursue Guilty Gear: Strive and take care of 
+                    his new puppy (please post more pictures, Leffen), but he's a top level competitor in another 
+                    game named Melee. He also showed us he's still capable of winning majors when he won Battle of 
+                    BC, but he's gotta be more consistent against the top echelon of players and pick up some more 
+                    major wins if he wants to end up higher.
+                    <br><br>
+                </p>
+            </div>
+
+            <div class="player-container" id="6">
+                <div class="u-player">
+                    <div class="ranking-box">6</div>
+                    <div class="sponsor-box">
+                        <img src="resources/Sponsors/Flyquest.png" alt="Flyquest" class="s-img">
+                    </div>
+                    <div class="player-details">
+                        <div class="gamertag">Jmook</div>
+                        <div class="real-name">Jake DiRado</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Sheik.png" alt="Sheik" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/USA.png" alt="USA" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r6"></div>
+            </div>
+            <div class="blurb-container">
+                <p>
+                    Breaking onto the scene after getting 2nd at Genesis 8, Jmook proved that run wasn't a fluke with his 
+                    performances for the rest of the year, never finishing outside of the top 8 at a major. Jmook's had 
+                    incredible consistency and has proven he's capable of beating anyone in the world, even his bracket 
+                    demon Hungrybox (who he's had so many painful 2-3 sets with this year). That major win is coming, and everyone knows it.
+                    The question is: When is he gonna do it?
+                    <br><br>
+                </p>
+            </div>
+
+            <div class="player-container" id="5">
+                <div class="u-player">
+                    <div class="ranking-box">5</div>
+                    <div class="sponsor-box">
+                        <img id="hboximg" src="resources/Sponsors/LiquidWhite.png" alt="Liquid" class="s-img">
+                    </div>
+                    <div class="player-details">
+                        <div class="gamertag">Hungrybox</div>
+                        <div class="real-name">Juan Debiedma</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Jigglypuff.png" alt="Jigglypuff" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/USA.png" alt="USA" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r5"></div>
+            </div>
+            <div class="blurb-container">
+                <p>
+                    Juan Debiedma. HGod. HChrist. HDaddy. Whatever you want to call him, Clutchbox arrives eventually. 
+                    After a super large slump online in 2021, we saw Hungrybox return to his top-5 level form in 2022. 
+                    He got his first major win in a while at GOML and followed it up with another win at Riptide a few 
+                    months later. His H2H that sticks out is his 11-1 vs Jmook, but he's gotta figure out a way to flip 
+                    the losing H2Hs against all 4 players above him if he wants to be back in pole position.
+                    <br><br>
+                </p>
+            </div>
+
+            <div class="player-container" id="4">
+                <div class="u-player">
+                    <div class="ranking-box">4</div>
+                    <div class="sponsor-box"></div>
+                    <div class="player-details">
+                        <div class="gamertag">iBDW</div>
+                        <div class="real-name">Cody Schwab</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Fox.png" alt="Fox" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/USA.png" alt="USA" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r4"></div>
+            </div>
+            <div class="blurb-container">
+                <p>
+                    iBDW entered the year as one of the favorites for #1 and he was damn well close for the entirety 
+                    of 2022. With arguably best H2Hs at the top level, his biggest reason for him not being higher on 
+                    this ranking is due to his string of losses to fox mains outside of the Top 10, as well as less 
+                    majors than the top guys. With all that being said, though, he's suffered some incredibly 
+                    unfortunate setbacks outside of the game, and I wouldn't be surprised to see him on top next year.
+                    <br><br>
+                </p>
+            </div>
+
+            <div class="player-container" id="3">
+                <div class="u-player">
+                    <div class="ranking-box">3</div>
+                    <div class="sponsor-box">
+                        <img src="resources/Sponsors/VGBCRB.png" alt="VGBootcamp | Redbull" class="s-img">
+                    </div>
+                    <div class="player-details">
+                        <div class="gamertag">aMSa</div>
+                        <div class="real-name">Masaya Chikamoto</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Yoshi.png" alt="Yoshi" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/Japan.png" alt="Japan" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r3"></div>
+            </div>
+            <div class="blurb-container">
+                <p>
+                    Many melee fans and stats nerds (including myself) thought that aMSa's chances to win a major were 
+                    less than 1/100 going into The Big House 10. He didn't care, he piloted a mid tier to win the most 
+                    stacked open-bracket tournament of all time (along with two other majors this year). With his 
+                    move to British Columbia this year, and his seeming willingness to attend locals in the area, 
+                    we'll get to see even more of him in 2023. *Bobby Scar voice* A YOSHI!!!
+                    <br><br>
+                </p>
+            </div>
+
+            <div class="player-container" id="2">
+                <div class="u-player">
+                    <div class="ranking-box">2</div>
+                    <div class="sponsor-box">
+                        <img src="resources/Sponsors/Cloud9.png" alt="Cloud9" class="s-img">
+                    </div>
+                    <div class="player-details">
+                        <div class="gamertag">Mang0</div>
+                        <div class="real-name">Joseph Marquez</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Falco.png" alt="Falco" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box stock-neg-margin">
+                        <img src="resources/Sprites/Fox.png" alt="Fox" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/USA.png" alt="USA" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r2"></div>
+            </div>
+            <div class="blurb-container">
+                <p>
+                    Funny how we got to the "Mango/Zain" tier by the end of the year, huh? After Mango finished #11 on the Summer 
+                    MPGR, TheCrimsonBlur posed a question that he was asked: "Will Mango ever win a major again?". The answer, was yes. Mango won 
+                    four majors in the second half of the year, returning to the form that we all knew he was capable of, even if 
+                    we doubted it for a tiny bit of time. 
+                    <br><br>
+                </p>
+            </div>
+        
+            <div class="player-container" id="1">
+                <div class="u-player">
+                    <div class="ranking-box">1</div>
+                    <div class="sponsor-box">
+                        <img src="resources/Sponsors/GG.png" alt="Golden Guardians" class="s-img">
+                    </div>
+                    <div class="player-details">
+                        <div class="gamertag">Zain</div>
+                        <div class="real-name">Zain Naghmi</div>
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Sprites/Marth.png" alt="Marth" class="s-img stock-top">
+                    </div>
+                    <div class="stock-box">
+                        <img src="resources/Flags/USA.png" alt="USA" class="s-img stock-top">
+                    </div>
+                </div>
+                <div class="results" id="r1">
+                </div>
+            </div>
+            <div class="blurb-container">
+                <p>
+                    The prince who was promised. We all knew it was gonna be him, didn't we? It felt like destiny. After last year's 
+                    tiering and him being the #1 online clearly for around a year, he was hunting for that #1 and he finally got it. 
+                    After a blistering start to the year, winning Genesis and Pound back to back, he was on the hunt for more, but didn't 
+                    find another major win until Shine 2022, in August. Just when people were starting to doubt if he was #1, he won the 
+                    Ludwig Smash Invitational, the most stacked event of all time, to seal his second supermajor and fourth major win of the year.
+                </p>
+            </div>
+            <div id="r0"></div> <!-- this is a dumb trick -->
+        </div>
+        <footer>
+            <a href="https://github.com/ETossed/ETossed.github.io">Source Code</a>
+            <a href="https://twitter.com/ETossed">My Twitter</a>
+            <a href="https://docs.google.com/spreadsheets/d/17gP79_CEfBOiW38_cDXe4g1-1Oq87Q4Y2admuUPZhyE/edit#gid=485844241">H2H spreadsheet</a>
+        </footer>
+        
+        <script src="js/randomColor.js"></script>
+        <script src="js/rankings2023/modeChange.js"></script>
+        <script src="js/rankings2022/expand.js"></script>
+        <script src="js/rankings/mobileChecking.js"></script>
+        <script src="js/rankings/button.js"></script>
+    </body>
+</html>

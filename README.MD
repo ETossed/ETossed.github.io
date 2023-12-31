@@ -1,4 +1,4 @@
-# ETossed's 2022 Rankings
+# ETop 100 Rankings
 
 This is the github for where my source code for the website of my rankings
 
