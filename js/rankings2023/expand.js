@@ -1214,7 +1214,7 @@ let Drephen = `
 <table class="result-table">
     <tr>
         <td>&#9724;</td>
-        <td>Region: <span class="place">Drephen</span></td>
+        <td>Region: <span class="place">Columbus</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
