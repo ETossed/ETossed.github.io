@@ -1158,7 +1158,7 @@ let Colbol = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Events Attended: <span class="place"></span></td>
+        <td>Events Attended: <span class="place">8</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
