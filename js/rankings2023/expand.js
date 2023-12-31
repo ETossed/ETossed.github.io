@@ -1231,11 +1231,11 @@ let Drephen = `
 </table>`
 
 let Eddy_Mexico = `
+<table class="result-table">
     <tr>
         <td>&#9724;</td>
         <td>Region: <span class="place">Tijuana</span></td>
     </tr>
-    <table class="result-table">
     <tr>
         <td>&#9724;</td>
         <td>Events Attended: <span class="place">8</span></td>
