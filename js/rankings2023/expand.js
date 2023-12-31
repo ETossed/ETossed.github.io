@@ -706,7 +706,7 @@ let Krudo = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place"></span></td>
+        <td>Losses to non-ballot players: <span class="place">1</span></td>
     </tr>
 </table>`
 
