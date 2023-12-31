@@ -1874,6 +1874,10 @@ let Lowercase_Hero = `
 <table class="result-table">
     <tr>
         <td>&#9724;</td>
+        <td>Region: <span class="place">Wisconsin</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
         <td>Events Attended: <span class="place">25</span></td>
     </tr>
     <tr>
