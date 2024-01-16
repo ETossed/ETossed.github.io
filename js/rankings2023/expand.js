@@ -2328,7 +2328,7 @@ let Epoodle = `
 <table class="result-table">
     <tr>
         <td>&#9724;</td>
-        <td>Region: <span class="place">Marth</span></td>
+        <td>Region: <span class="place">Tristate</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
