@@ -2500,7 +2500,7 @@ let mgmg = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Events Attended: <span class="place">mgmg</span></td>
+        <td>Events Attended: <span class="place">6</span></td>
     </tr>
 </table>`
 
@@ -2604,11 +2604,11 @@ let Fudge = `
 <table class="result-table">
     <tr>
         <td>&#9724;</td>
-        <td>Region: <span class="place">6</span></td>
+        <td>Region: <span class="place">Philadelphia</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Events Attended: <span class="place">Philadelphia</span></td>
+        <td>Events Attended: <span class="place">6</span></td>
     </tr>
 </table>`
 
