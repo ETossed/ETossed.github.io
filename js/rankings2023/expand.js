@@ -82,11 +82,11 @@ let cody = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">85-19</span></td>
+        <td>Record vs. SSBMRank ballot players: <span class="place">85-19</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place">0</span></td>
+        <td>Losses to non-ballot (SSBMRank) players: <span class="place">0</span></td>
     </tr>
 </table>`
 
@@ -102,11 +102,11 @@ let zain = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">63-18</span></td>
+        <td>Record vs. SSBMRank ballot players: <span class="place">63-18</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place">0</span></td>
+        <td>Losses to non-ballot (SSBMRank) players: <span class="place">0</span></td>
     </tr>
 </table>`
 
@@ -122,11 +122,11 @@ let jmook = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">53-21</span></td>
+        <td>Record vs. SSBMRank ballot players: <span class="place">53-21</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place">2</span></td>
+        <td>Losses to non-ballot (SSBMRank) players: <span class="place">2</span></td>
     </tr>
 </table>`
 
@@ -142,11 +142,11 @@ let moky = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">48-23</span></td>
+        <td>Record vs. SSBMRank ballot players: <span class="place">48-23</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place">0</span></td>
+        <td>Losses to non-ballot (SSBMRank) players: <span class="place">0</span></td>
     </tr>
 </table>`
 
@@ -162,11 +162,11 @@ let plup = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">23-7</span></td>
+        <td>Record vs. SSBMRank ballot players: <span class="place">23-7</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place">0</span></td>
+        <td>Losses to non-ballot (SSBMRank) players: <span class="place">0</span></td>
     </tr>
 </table>`
 
@@ -182,11 +182,11 @@ let hbox = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">47-23</span></td>
+        <td>Record vs. SSBMRank ballot players: <span class="place">47-23</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place">1</span></td>
+        <td>Losses to non-ballot (SSBMRank) players: <span class="place">1</span></td>
     </tr>
 </table>`
 
@@ -202,11 +202,11 @@ let amsa = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">64-27</span></td>
+        <td>Record vs. SSBMRank ballot players: <span class="place">64-27</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place">0</span></td>
+        <td>Losses to non-ballot (SSBMRank) players: <span class="place">0</span></td>
     </tr>
 </table>`
 
@@ -222,11 +222,11 @@ let mango = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">23-16</span></td>
+        <td>Record vs. SSBMRank ballot players: <span class="place">23-16</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place">0</span></td>
+        <td>Losses to non-ballot (SSBMRank) players: <span class="place">0</span></td>
     </tr>
 </table>`
 
@@ -242,11 +242,11 @@ let wizzy = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">16-7</span></td>
+        <td>Record vs. SSBMRank ballot players: <span class="place">16-7</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place">0</span></td>
+        <td>Losses to non-ballot (SSBMRank) players: <span class="place">0</span></td>
     </tr>
 </table>`
 
@@ -262,11 +262,11 @@ let aklo = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">58-32</span></td>
+        <td>Record vs. SSBMRank ballot players: <span class="place">58-32</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place">3</span></td>
+        <td>Losses to non-ballot (SSBMRank) players: <span class="place">3</span></td>
     </tr>
 </table>`
 
@@ -282,11 +282,11 @@ let kodorin = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">54-26</span></td>
+        <td>Record vs. SSBMRank ballot players: <span class="place">54-26</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place">1</span></td>
+        <td>Losses to non-ballot (SSBMRank) players: <span class="place">1</span></td>
     </tr>
 </table>`
 
@@ -302,11 +302,11 @@ let llod = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">26-12</span></td>
+        <td>Record vs. SSBMRank ballot players: <span class="place">26-12</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place">0</span></td>
+        <td>Losses to non-ballot (SSBMRank) players: <span class="place">0</span></td>
     </tr>
 </table>`
 
@@ -314,7 +314,7 @@ let salt = `
 <table class="result-table">
     <tr>
         <td>&#9724;</td>
-        <td>Region: <span class="place">Dallas Fort-Worth/Houston</span></td>
+        <td>Region: <span class="place">Dallas-Fort Worth/Houston</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
@@ -322,11 +322,11 @@ let salt = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">53-29</span></td>
+        <td>Record vs. SSBMRank ballot players: <span class="place">53-29</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place">0</span></td>
+        <td>Losses to non-ballot (SSBMRank) players: <span class="place">0</span></td>
     </tr>
 </table>`
 
@@ -342,11 +342,11 @@ let zuppy = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">30-24</span></td>
+        <td>Record vs. SSBMRank ballot players: <span class="place">30-24</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place">4</span></td>
+        <td>Losses to non-ballot (SSBMRank) players: <span class="place">4</span></td>
     </tr>
 </table>`
 
@@ -362,11 +362,11 @@ let trif = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">15-13</span></td>
+        <td>Record vs. SSBMRank ballot players: <span class="place">15-13</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place">0</span></td>
+        <td>Losses to non-ballot (SSBMRank) players: <span class="place">0</span></td>
     </tr>
 </table>`
 
@@ -374,7 +374,7 @@ let s2j = `
 <table class="result-table">
     <tr>
         <td>&#9724;</td>
-        <td>Region: <span class="place">NorCal</span></td>
+        <td>Region: <span class="place">Northern California</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
@@ -382,11 +382,11 @@ let s2j = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">36-21</span></td>
+        <td>Record vs. SSBMRank ballot players: <span class="place">36-21</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place">4</span></td>
+        <td>Losses to non-ballot (SSBMRank) players: <span class="place">4</span></td>
     </tr>
 </table>`
 
@@ -402,11 +402,11 @@ let magi = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">57-32</span></td>
+        <td>Record vs. SSBMRank ballot players: <span class="place">57-32</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place">0</span></td>
+        <td>Losses to non-ballot (SSBMRank) players: <span class="place">0</span></td>
     </tr>
 </table>`
 
@@ -422,11 +422,11 @@ let morsecode = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">11-14</span></td>
+        <td>Record vs. SSBMRank ballot players: <span class="place">11-14</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place">0</span></td>
+        <td>Losses to non-ballot (SSBMRank) players: <span class="place">0</span></td>
     </tr>
 </table>`
 
@@ -442,11 +442,11 @@ let polish = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">27-26</span></td>
+        <td>Record vs. SSBMRank ballot players: <span class="place">27-26</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place">0</span></td>
+        <td>Losses to non-ballot (SSBMRank) players: <span class="place">0</span></td>
     </tr>
 </table>`
 
@@ -462,11 +462,11 @@ let joshman = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">21-20</span></td>
+        <td>Record vs. SSBMRank ballot players: <span class="place">21-20</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place">4</span></td>
+        <td>Losses to non-ballot (SSBMRank) players: <span class="place">4</span></td>
     </tr>
 </table>`
 
@@ -482,11 +482,11 @@ let zamu = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">42-31</span></td>
+        <td>Record vs. SSBMRank ballot players: <span class="place">42-31</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place">2</span></td>
+        <td>Losses to non-ballot (SSBMRank) players: <span class="place">2</span></td>
     </tr>
 </table>`
 
@@ -502,11 +502,11 @@ let axe = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">38-31</span></td>
+        <td>Record vs. SSBMRank ballot players: <span class="place">38-31</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place">1</span></td>
+        <td>Losses to non-ballot (SSBMRank) players: <span class="place">1</span></td>
     </tr>
 </table>`
 
@@ -522,11 +522,11 @@ let soonsay = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">13-14</span></td>
+        <td>Record vs. SSBMRank ballot players: <span class="place">13-14</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place">0</span></td>
+        <td>Losses to non-ballot (SSBMRank) players: <span class="place">0</span></td>
     </tr>
 </table>`
 
@@ -542,11 +542,11 @@ let chem = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">31-20</span></td>
+        <td>Record vs. SSBMRank ballot players: <span class="place">31-20</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place">5</span></td>
+        <td>Losses to non-ballot (SSBMRank) players: <span class="place">5</span></td>
     </tr>
 </table>`
 
@@ -562,11 +562,11 @@ let spark = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">55-43</span></td>
+        <td>Record vs. SSBMRank ballot players: <span class="place">55-43</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place">3</span></td>
+        <td>Losses to non-ballot (SSBMRank) players: <span class="place">3</span></td>
     </tr>
 </table>`
 
@@ -582,11 +582,11 @@ let ginger = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">32-14</span></td>
+        <td>Record vs. SSBMRank ballot players: <span class="place">32-14</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place">0</span></td>
+        <td>Losses to non-ballot (SSBMRank) players: <span class="place">0</span></td>
     </tr>
 </table>`
 
@@ -602,11 +602,11 @@ let sfop = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">15-11</span></td>
+        <td>Record vs. SSBMRank ballot players: <span class="place">15-11</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place">0</span></td>
+        <td>Losses to non-ballot (SSBMRank) players: <span class="place">0</span></td>
     </tr>
 </table>`
 
@@ -622,11 +622,11 @@ let sdj = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">20-20</span></td>
+        <td>Record vs. SSBMRank ballot players: <span class="place">20-20</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place">6</span></td>
+        <td>Losses to non-ballot (SSBMRank) players: <span class="place">6</span></td>
     </tr>
 </table>`
 
@@ -642,11 +642,11 @@ let fiction = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">42-22</span></td>
+        <td>Record vs. SSBMRank ballot players: <span class="place">42-22</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place">2</span></td>
+        <td>Losses to non-ballot (SSBMRank) players: <span class="place">2</span></td>
     </tr>
 </table>`
 
@@ -662,11 +662,11 @@ let ben = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">35-42</span></td>
+        <td>Record vs. SSBMRank ballot players: <span class="place">35-42</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place">2</span></td>
+        <td>Losses to non-ballot (SSBMRank) players: <span class="place">2</span></td>
     </tr>
 </table>`
 
@@ -682,11 +682,11 @@ let Panda = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">21-19</span></td>
+        <td>Record vs. SSBMRank ballot players: <span class="place">21-19</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place">1</span></td>
+        <td>Losses to non-ballot (SSBMRank) players: <span class="place">1</span></td>
     </tr>
 </table>`
 
@@ -702,11 +702,11 @@ let Krudo = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">24-22</span></td>
+        <td>Record vs. SSBMRank ballot players: <span class="place">24-22</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place">1</span></td>
+        <td>Losses to non-ballot (SSBMRank) players: <span class="place">1</span></td>
     </tr>
 </table>`
 
@@ -722,11 +722,11 @@ let BBatts = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">24-30</span></td>
+        <td>Record vs. SSBMRank ballot players: <span class="place">24-30</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place">4</span></td>
+        <td>Losses to non-ballot (SSBMRank) players: <span class="place">4</span></td>
     </tr>
 </table>`
 
@@ -742,11 +742,11 @@ let KJH = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">29-31</span></td>
+        <td>Record vs. SSBMRank ballot players: <span class="place">29-31</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place">1</span></td>
+        <td>Losses to non-ballot (SSBMRank) players: <span class="place">1</span></td>
     </tr>
 </table>`
 
@@ -762,11 +762,11 @@ let n0ne = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">13-21</span></td>
+        <td>Record vs. SSBMRank ballot players: <span class="place">13-21</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place">1</span></td>
+        <td>Losses to non-ballot (SSBMRank) players: <span class="place">1</span></td>
     </tr>
 </table>`
 
@@ -782,11 +782,11 @@ let Ossify = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">22-14</span></td>
+        <td>Record vs. SSBMRank ballot players: <span class="place">22-14</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place">1</span></td>
+        <td>Losses to non-ballot (SSBMRank) players: <span class="place">1</span></td>
     </tr>
 </table>`
 
@@ -802,11 +802,11 @@ let Junebug = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">24-16</span></td>
+        <td>Record vs. SSBMRank ballot players: <span class="place">24-16</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place">1</span></td>
+        <td>Losses to non-ballot (SSBMRank) players: <span class="place">1</span></td>
     </tr>
 </table>`
 
@@ -822,11 +822,11 @@ let Khalid = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">18-25</span></td>
+        <td>Record vs. SSBMRank ballot players: <span class="place">18-25</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place">6</span></td>
+        <td>Losses to non-ballot (SSBMRank) players: <span class="place">6</span></td>
     </tr>
 </table>`
 
@@ -842,11 +842,11 @@ let Faust = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">7-17</span></td>
+        <td>Record vs. SSBMRank ballot players: <span class="place">7-17</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place">12</span></td>
+        <td>Losses to non-ballot (SSBMRank) players: <span class="place">12</span></td>
     </tr>
 </table>`
 
@@ -862,11 +862,11 @@ let Flash = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">7-16</span></td>
+        <td>Record vs. SSBMRank ballot players: <span class="place">7-16</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place">0</span></td>
+        <td>Losses to non-ballot (SSBMRank) players: <span class="place">0</span></td>
     </tr>
 </table>`
 
@@ -874,7 +874,7 @@ let Shroomed = `
 <table class="result-table">
     <tr>
         <td>&#9724;</td>
-        <td>Region: <span class="place">NorCal</span></td>
+        <td>Region: <span class="place">Northern California</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
@@ -882,11 +882,11 @@ let Shroomed = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">7-6</span></td>
+        <td>Record vs. SSBMRank ballot players: <span class="place">7-6</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place">2</span></td>
+        <td>Losses to non-ballot (SSBMRank) players: <span class="place">2</span></td>
     </tr>
 </table>`
 
@@ -902,11 +902,11 @@ let Skerzo = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">23-29</span></td>
+        <td>Record vs. SSBMRank ballot players: <span class="place">23-29</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place">an absurd amount</span></td>
+        <td>Losses to non-ballot (SSBMRank) players: <span class="place">an absurd amount</span></td>
     </tr>
 </table>`
 
@@ -922,11 +922,11 @@ let Sirmeris = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">16-11</span></td>
+        <td>Record vs. SSBMRank ballot players: <span class="place">16-11</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place">1</span></td>
+        <td>Losses to non-ballot (SSBMRank) players: <span class="place">1</span></td>
     </tr>
 </table>`
 
@@ -942,11 +942,11 @@ let Azel = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">8-9</span></td>
+        <td>Record vs. SSBMRank ballot players: <span class="place">8-9</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place">4</span></td>
+        <td>Losses to non-ballot (SSBMRank) players: <span class="place">4</span></td>
     </tr>
 </table>`
 
@@ -962,11 +962,11 @@ let MOF = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">10-21</span></td>
+        <td>Record vs. SSBMRank ballot players: <span class="place">10-21</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place">4</span></td>
+        <td>Losses to non-ballot (SSBMRank) players: <span class="place">4</span></td>
     </tr>
 </table>`
 
@@ -982,11 +982,11 @@ let Matteo = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">8-14</span></td>
+        <td>Record vs. SSBMRank ballot players: <span class="place">8-14</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place">1</span></td>
+        <td>Losses to non-ballot (SSBMRank) players: <span class="place">1</span></td>
     </tr>
 </table>`
 
@@ -1002,11 +1002,11 @@ let Mekk = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">25-29</span></td>
+        <td>Record vs. SSBMRank ballot players: <span class="place">25-29</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place">5</span></td>
+        <td>Losses to non-ballot (SSBMRank) players: <span class="place">5</span></td>
     </tr>
 </table>`
 
@@ -1022,11 +1022,11 @@ let Khryke = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">16-22</span></td>
+        <td>Record vs. SSBMRank ballot players: <span class="place">16-22</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place">7</span></td>
+        <td>Losses to non-ballot (SSBMRank) players: <span class="place">7</span></td>
     </tr>
 </table>`
 
@@ -1042,11 +1042,11 @@ let CPU0 = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">13-16</span></td>
+        <td>Record vs. SSBMRank ballot players: <span class="place">13-16</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place">11</span></td>
+        <td>Losses to non-ballot (SSBMRank) players: <span class="place">11</span></td>
     </tr>
 </table>`
 
@@ -1062,11 +1062,11 @@ let Gahtzu = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">11-14</span></td>
+        <td>Record vs. SSBMRank ballot players: <span class="place">11-14</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place">3</span></td>
+        <td>Losses to non-ballot (SSBMRank) players: <span class="place">3</span></td>
     </tr>
 </table>`
 
@@ -1082,11 +1082,11 @@ let Smash_Papi = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">9-13</span></td>
+        <td>Record vs. SSBMRank ballot players: <span class="place">9-13</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place">1</span></td>
+        <td>Losses to non-ballot (SSBMRank) players: <span class="place">1</span></td>
     </tr>
 </table>`
 
@@ -1102,11 +1102,11 @@ let TheRealThing = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">12-14</span></td>
+        <td>Record vs. SSBMRank ballot players: <span class="place">12-14</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place">2</span></td>
+        <td>Losses to non-ballot (SSBMRank) players: <span class="place">2</span></td>
     </tr>
 </table>`
 
@@ -1122,11 +1122,11 @@ let billybopeep = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">8-11</span></td>
+        <td>Record vs. SSBMRank ballot players: <span class="place">8-11</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place">1</span></td>
+        <td>Losses to non-ballot (SSBMRank) players: <span class="place">1</span></td>
     </tr>
 </table>`
 
@@ -1142,11 +1142,11 @@ let Jflex = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">7-9</span></td>
+        <td>Record vs. SSBMRank ballot players: <span class="place">7-9</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place">1</span></td>
+        <td>Losses to non-ballot (SSBMRank) players: <span class="place">1</span></td>
     </tr>
 </table>`
 
@@ -1162,11 +1162,11 @@ let Colbol = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">14-8</span></td>
+        <td>Record vs. SSBMRank ballot players: <span class="place">14-8</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place">9</span></td>
+        <td>Losses to non-ballot (SSBMRank) players: <span class="place">9</span></td>
     </tr>
 </table>`
 
@@ -1182,11 +1182,11 @@ let Frenzy = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">17-10</span></td>
+        <td>Record vs. SSBMRank ballot players: <span class="place">17-10</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place">9</span></td>
+        <td>Losses to non-ballot (SSBMRank) players: <span class="place">9</span></td>
     </tr>
 </table>`
 
@@ -1202,11 +1202,11 @@ let Free_Palestine = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">11-18</span></td>
+        <td>Record vs. SSBMRank ballot players: <span class="place">11-18</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place">5</span></td>
+        <td>Losses to non-ballot (SSBMRank) players: <span class="place">5</span></td>
     </tr>
 </table>`
 
@@ -1222,11 +1222,11 @@ let Drephen = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">9-17</span></td>
+        <td>Record vs. SSBMRank ballot players: <span class="place">9-17</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place">0</span></td>
+        <td>Losses to non-ballot (SSBMRank) players: <span class="place">0</span></td>
     </tr>
 </table>`
 
@@ -1242,11 +1242,11 @@ let Eddy_Mexico = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">10-11</span></td>
+        <td>Record vs. SSBMRank ballot players: <span class="place">10-11</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place">9</span></td>
+        <td>Losses to non-ballot (SSBMRank) players: <span class="place">9</span></td>
     </tr>
 </table>`
 
@@ -1262,11 +1262,11 @@ let shabo = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">12-13</span></td>
+        <td>Record vs. SSBMRank ballot players: <span class="place">12-13</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place">1</span></td>
+        <td>Losses to non-ballot (SSBMRank) players: <span class="place">1</span></td>
     </tr>
 </table>`
 
@@ -1282,11 +1282,11 @@ let Lucky = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">15-19</span></td>
+        <td>Record vs. SSBMRank ballot players: <span class="place">15-19</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place">5</span></td>
+        <td>Losses to non-ballot (SSBMRank) players: <span class="place">5</span></td>
     </tr>
 </table>`
 
@@ -1302,11 +1302,11 @@ let Lunar_Dusk = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">14-8</span></td>
+        <td>Record vs. SSBMRank ballot players: <span class="place">14-8</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place">4</span></td>
+        <td>Losses to non-ballot (SSBMRank) players: <span class="place">4</span></td>
     </tr>
 </table>`
 
@@ -1322,11 +1322,11 @@ let Kevin_Maples = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">23-10</span></td>
+        <td>Record vs. SSBMRank ballot players: <span class="place">23-10</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place">7</span></td>
+        <td>Losses to non-ballot (SSBMRank) players: <span class="place">7</span></td>
     </tr>
 </table>`
 
@@ -1342,11 +1342,11 @@ let Palpa = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">6-14</span></td>
+        <td>Record vs. SSBMRank ballot players: <span class="place">6-14</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place">5</span></td>
+        <td>Losses to non-ballot (SSBMRank) players: <span class="place">5</span></td>
     </tr>
 </table>`
 
@@ -1362,11 +1362,11 @@ let MilkMan = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">12-11</span></td>
+        <td>Record vs. SSBMRank ballot players: <span class="place">12-11</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place">3</span></td>
+        <td>Losses to non-ballot (SSBMRank) players: <span class="place">3</span></td>
     </tr>
 </table>`
 
@@ -1382,11 +1382,11 @@ let KoopaTroopa895 = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">18-16</span></td>
+        <td>Record vs. SSBMRank ballot players: <span class="place">18-16</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place">5</span></td>
+        <td>Losses to non-ballot (SSBMRank) players: <span class="place">5</span></td>
     </tr>
 </table>`
 
@@ -1402,11 +1402,11 @@ let Pipsqueak = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">9-8</span></td>
+        <td>Record vs. SSBMRank ballot players: <span class="place">9-8</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place">0</span></td>
+        <td>Losses to non-ballot (SSBMRank) players: <span class="place">0</span></td>
     </tr>
 </table>`
 
@@ -1422,11 +1422,11 @@ let Grab = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">12-22</span></td>
+        <td>Record vs. SSBMRank ballot players: <span class="place">12-22</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place">6</span></td>
+        <td>Losses to non-ballot (SSBMRank) players: <span class="place">6</span></td>
     </tr>
 </table>`
 
@@ -1442,11 +1442,11 @@ let Kurv = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">14-24</span></td>
+        <td>Record vs. SSBMRank ballot players: <span class="place">14-24</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place">3</span></td>
+        <td>Losses to non-ballot (SSBMRank) players: <span class="place">3</span></td>
     </tr>
 </table>`
 
@@ -1462,11 +1462,11 @@ let TheSWOOPER = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">5-14</span></td>
+        <td>Record vs. SSBMRank ballot players: <span class="place">5-14</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place">4</span></td>
+        <td>Losses to non-ballot (SSBMRank) players: <span class="place">4</span></td>
     </tr>
 </table>`
 
@@ -1482,11 +1482,11 @@ let Voo = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">11-10</span></td>
+        <td>Record vs. SSBMRank ballot players: <span class="place">11-10</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place">2</span></td>
+        <td>Losses to non-ballot (SSBMRank) players: <span class="place">2</span></td>
     </tr>
 </table>`
 
@@ -1502,11 +1502,11 @@ let Mvlvchi = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">12-23</span></td>
+        <td>Record vs. SSBMRank ballot players: <span class="place">12-23</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place">2</span></td>
+        <td>Losses to non-ballot (SSBMRank) players: <span class="place">2</span></td>
     </tr>
 </table>`
 
@@ -1522,11 +1522,11 @@ let Professor_Pro = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">9-16</span></td>
+        <td>Record vs. SSBMRank ballot players: <span class="place">9-16</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place">3</span></td>
+        <td>Losses to non-ballot (SSBMRank) players: <span class="place">3</span></td>
     </tr>
 </table>`
 
@@ -1542,11 +1542,11 @@ let null_gio = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">12-12</span></td>
+        <td>Record vs. SSBMRank ballot players: <span class="place">12-12</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place">1</span></td>
+        <td>Losses to non-ballot (SSBMRank) players: <span class="place">1</span></td>
     </tr>
 </table>`
 
@@ -1562,11 +1562,11 @@ let Kalvar = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">16-23</span></td>
+        <td>Record vs. SSBMRank ballot players: <span class="place">16-23</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place">7</span></td>
+        <td>Losses to non-ballot (SSBMRank) players: <span class="place">7</span></td>
     </tr>
 </table>`
 
@@ -1582,11 +1582,11 @@ let essy = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">23-33</span></td>
+        <td>Record vs. SSBMRank ballot players: <span class="place">23-33</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place">9</span></td>
+        <td>Losses to non-ballot (SSBMRank) players: <span class="place">9</span></td>
     </tr>
 </table>`
 
@@ -1602,11 +1602,11 @@ let Quang = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">7-11</span></td>
+        <td>Record vs. SSBMRank ballot players: <span class="place">7-11</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place">5</span></td>
+        <td>Losses to non-ballot (SSBMRank) players: <span class="place">5</span></td>
     </tr>
 </table>`
 
@@ -1622,11 +1622,11 @@ let Asashi = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">13-19</span></td>
+        <td>Record vs. SSBMRank ballot players: <span class="place">13-19</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place">1</span></td>
+        <td>Losses to non-ballot (SSBMRank) players: <span class="place">1</span></td>
     </tr>
 </table>`
 
@@ -1642,11 +1642,11 @@ let Mot$ = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">17-21</span></td>
+        <td>Record vs. SSBMRank ballot players: <span class="place">17-21</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place">7</span></td>
+        <td>Losses to non-ballot (SSBMRank) players: <span class="place">7</span></td>
     </tr>
 </table>`
 
@@ -1662,11 +1662,11 @@ let Panko = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">6-18</span></td>
+        <td>Record vs. SSBMRank ballot players: <span class="place">6-18</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place"></span></td>
+        <td>Losses to non-ballot (SSBMRank) players: <span class="place"></span></td>
     </tr>
 </table>`
 
@@ -1682,11 +1682,11 @@ let Stiv = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">10-14</span></td>
+        <td>Record vs. SSBMRank ballot players: <span class="place">10-14</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place">17</span></td>
+        <td>Losses to non-ballot (SSBMRank) players: <span class="place">17</span></td>
     </tr>
 </table>`
 
@@ -1702,11 +1702,11 @@ let Dawson = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">24-35</span></td>
+        <td>Record vs. SSBMRank ballot players: <span class="place">24-35</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place">9</span></td>
+        <td>Losses to non-ballot (SSBMRank) players: <span class="place">9</span></td>
     </tr>
 </table>`
 
@@ -1722,11 +1722,11 @@ let prof = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">9-24</span></td>
+        <td>Record vs. SSBMRank ballot players: <span class="place">9-24</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place">1</span></td>
+        <td>Losses to non-ballot (SSBMRank) players: <span class="place">1</span></td>
     </tr>
 </table>`
 
@@ -1742,11 +1742,11 @@ let Slowking = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">15-24</span></td>
+        <td>Record vs. SSBMRank ballot players: <span class="place">15-24</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place">11</span></td>
+        <td>Losses to non-ballot (SSBMRank) players: <span class="place">11</span></td>
     </tr>
 </table>`
 
@@ -1762,11 +1762,11 @@ let Preeminent = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">23-42</span></td>
+        <td>Record vs. SSBMRank ballot players: <span class="place">23-42</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place">13</span></td>
+        <td>Losses to non-ballot (SSBMRank) players: <span class="place">13</span></td>
     </tr>
 </table>`
 
@@ -1782,11 +1782,11 @@ let Franz = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">7-16</span></td>
+        <td>Record vs. SSBMRank ballot players: <span class="place">7-16</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place">2</span></td>
+        <td>Losses to non-ballot (SSBMRank) players: <span class="place">2</span></td>
     </tr>
 </table>`
 
@@ -1802,11 +1802,11 @@ let Fishbait = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">5-8</span></td>
+        <td>Record vs. SSBMRank ballot players: <span class="place">5-8</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place">4</span></td>
+        <td>Losses to non-ballot (SSBMRank) players: <span class="place">4</span></td>
     </tr>
 </table>`
 
@@ -1814,7 +1814,7 @@ let Ralph = `
 <table class="result-table">
     <tr>
         <td>&#9724;</td>
-        <td>Region: <span class="place">NorCal</span></td>
+        <td>Region: <span class="place">Northern California</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
@@ -1822,11 +1822,11 @@ let Ralph = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">9-11</span></td>
+        <td>Record vs. SSBMRank ballot players: <span class="place">9-11</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place">1</span></td>
+        <td>Losses to non-ballot (SSBMRank) players: <span class="place">1</span></td>
     </tr>
 </table>`
 
@@ -1842,11 +1842,11 @@ let Akir = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">6-10</span></td>
+        <td>Record vs. SSBMRank ballot players: <span class="place">6-10</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place">4</span></td>
+        <td>Losses to non-ballot (SSBMRank) players: <span class="place">4</span></td>
     </tr>
 </table>`
 
@@ -1862,11 +1862,11 @@ let Egg$ = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">6-8</span></td>
+        <td>Record vs. SSBMRank ballot players: <span class="place">6-8</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place">5</span></td>
+        <td>Losses to non-ballot (SSBMRank) players: <span class="place">5</span></td>
     </tr>
 </table>`
 
@@ -1882,11 +1882,11 @@ let Lowercase_Hero = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">11-21</span></td>
+        <td>Record vs. SSBMRank ballot players: <span class="place">11-21</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place">10</span></td>
+        <td>Losses to non-ballot (SSBMRank) players: <span class="place">10</span></td>
     </tr>
 </table>`
 
@@ -1902,11 +1902,11 @@ let Wevans = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">8-17</span></td>
+        <td>Record vs. SSBMRank ballot players: <span class="place">8-17</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place">8</span></td>
+        <td>Losses to non-ballot (SSBMRank) players: <span class="place">8</span></td>
     </tr>
 </table>`
 
@@ -1922,11 +1922,11 @@ let Squid = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">10-26</span></td>
+        <td>Record vs. SSBMRank ballot players: <span class="place">10-26</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place">10</span></td>
+        <td>Losses to non-ballot (SSBMRank) players: <span class="place">10</span></td>
     </tr>
 </table>`
 
@@ -1942,11 +1942,11 @@ let JoJo = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">3-8</span></td>
+        <td>Record vs. SSBMRank ballot players: <span class="place">3-8</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place">0</span></td>
+        <td>Losses to non-ballot (SSBMRank) players: <span class="place">0</span></td>
     </tr>
 </table>`
 
@@ -1962,11 +1962,11 @@ let Justus = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">4-8</span></td>
+        <td>Record vs. SSBMRank ballot players: <span class="place">4-8</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place">0</span></td>
+        <td>Losses to non-ballot (SSBMRank) players: <span class="place">0</span></td>
     </tr>
 </table>`
 
@@ -1982,11 +1982,11 @@ let K8A = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">3-8</span></td>
+        <td>Record vs. SSBMRank ballot players: <span class="place">3-8</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place">4</span></td>
+        <td>Losses to non-ballot (SSBMRank) players: <span class="place">4</span></td>
     </tr>
 </table>`
 
@@ -2002,11 +2002,11 @@ let Chango = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">9-17</span></td>
+        <td>Record vs. SSBMRank ballot players: <span class="place">9-17</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place">14</span></td>
+        <td>Losses to non-ballot (SSBMRank) players: <span class="place">14</span></td>
     </tr>
 </table>`
 
@@ -2022,11 +2022,11 @@ let Jah_Ridin = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">10-10</span></td>
+        <td>Record vs. SSBMRank ballot players: <span class="place">10-10</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place">7</span></td>
+        <td>Losses to non-ballot (SSBMRank) players: <span class="place">7</span></td>
     </tr>
 </table>`
 
@@ -2042,11 +2042,11 @@ let four_oh_four_Cray = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">6-10</span></td>
+        <td>Record vs. SSBMRank ballot players: <span class="place">6-10</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place">12</span></td>
+        <td>Losses to non-ballot (SSBMRank) players: <span class="place">12</span></td>
     </tr>
 </table>`
 
@@ -2062,13 +2062,1218 @@ let Zeo = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">8-17</span></td>
+        <td>Record vs. SSBMRank ballot players: <span class="place">8-17</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place">4</span></td>
+        <td>Losses to non-ballot (SSBMRank) players: <span class="place">4</span></td>
     </tr>
 </table>`
+
+// TOP 200
+
+let Balloon_Day = `
+<table class="result-table">
+    <tr>
+        <td>&#9724;</td>
+        <td>Region: <span class="place">Columbus</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Events Attended: <span class="place">15</span></td>
+    </tr>
+</table>`
+
+let Prometheus = `
+<table class="result-table">
+    <tr>
+        <td>&#9724;</td>
+        <td>Region: <span class="place">MDVA</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Events Attended: <span class="place">6</span></td>
+    </tr>
+</table>`
+
+let JJM = `
+<table class="result-table">
+    <tr>
+        <td>&#9724;</td>
+        <td>Region: <span class="place">Tristate</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Events Attended: <span class="place">5</span></td>
+    </tr>
+</table>`
+
+let Casper = `
+<table class="result-table">
+    <tr>
+        <td>&#9724;</td>
+        <td>Region: <span class="place">Southern California</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Events Attended: <span class="place">8</span></td>
+    </tr>
+</table>`
+
+let Umarth = `
+<table class="result-table">
+    <tr>
+        <td>&#9724;</td>
+        <td>Region: <span class="place">Northern California</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Events Attended: <span class="place"></span></td>
+    </tr>
+</table>`
+
+let DrLobster = `
+<table class="result-table">
+    <tr>
+        <td>&#9724;</td>
+        <td>Region: <span class="place">New England</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Events Attended: <span class="place"></span></td>
+    </tr>
+</table>`
+
+let Bekvin = `
+<table class="result-table">
+    <tr>
+        <td>&#9724;</td>
+        <td>Region: <span class="place">New England</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Events Attended: <span class="place"></span></td>
+    </tr>
+</table>`
+
+let Zanya = `
+<table class="result-table">
+    <tr>
+        <td>&#9724;</td>
+        <td>Region: <span class="place">Upstate New York</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Events Attended: <span class="place"></span></td>
+    </tr>
+</table>`
+
+let JSalt = `
+<table class="result-table">
+    <tr>
+        <td>&#9724;</td>
+        <td>Region: <span class="place">Louisiana</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Events Attended: <span class="place"></span></td>
+    </tr>
+</table>`
+
+let Q = `
+<table class="result-table">
+    <tr>
+        <td>&#9724;</td>
+        <td>Region: <span class="place">Chicago</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Events Attended: <span class="place"></span></td>
+    </tr>
+</table>`
+
+let salami = `
+<table class="result-table">
+    <tr>
+        <td>&#9724;</td>
+        <td>Region: <span class="place">Southern California</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Events Attended: <span class="place"></span></td>
+    </tr>
+</table>`
+
+let Juicebox = `
+<table class="result-table">
+    <tr>
+        <td>&#9724;</td>
+        <td>Region: <span class="place">MDVA</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Events Attended: <span class="place"></span></td>
+    </tr>
+</table>`
+
+let Komodo = `
+<table class="result-table">
+    <tr>
+        <td>&#9724;</td>
+        <td>Region: <span class="place">Central Florida</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Events Attended: <span class="place">7</span></td>
+    </tr>
+</table>`
+
+let Frostbyte = `
+<table class="result-table">
+    <tr>
+        <td>&#9724;</td>
+        <td>Region: <span class="place">MDVA</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Events Attended: <span class="place">5</span></td>
+    </tr>
+</table>`
+
+let nut = `
+<table class="result-table">
+    <tr>
+        <td>&#9724;</td>
+        <td>Region: <span class="place">Southern California</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Events Attended: <span class="place"></span></td>
+    </tr>
+</table>`
+
+let max = `
+<table class="result-table">
+    <tr>
+        <td>&#9724;</td>
+        <td>Region: <span class="place">United Kingdom</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Events Attended: <span class="place"></span></td>
+    </tr>
+</table>`
+
+let Jude = `
+<table class="result-table">
+    <tr>
+        <td>&#9724;</td>
+        <td>Region: <span class="place">Tristate</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Events Attended: <span class="place"></span></td>
+    </tr>
+</table>`
+
+let Aura = `
+<table class="result-table">
+    <tr>
+        <td>&#9724;</td>
+        <td>Region: <span class="place">Washington</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Events Attended: <span class="place"></span></td>
+    </tr>
+</table>`
+
+let The_Leaf = `
+<table class="result-table">
+    <tr>
+        <td>&#9724;</td>
+        <td>Region: <span class="place">Austin</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Events Attended: <span class="place">8</span></td>
+    </tr>
+</table>`
+
+let Typhoon = `
+<table class="result-table">
+    <tr>
+        <td>&#9724;</td>
+        <td>Region: <span class="place">Northern California</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Events Attended: <span class="place"></span></td>
+    </tr>
+</table>`
+
+let Reeve = `
+<table class="result-table">
+    <tr>
+        <td>&#9724;</td>
+        <td>Region: <span class="place">Kentucky</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Events Attended: <span class="place"></span></td>
+    </tr>
+</table>`
+
+let Epoodle = `
+<table class="result-table">
+    <tr>
+        <td>&#9724;</td>
+        <td>Region: <span class="place">Marth</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Events Attended: <span class="place">10</span></td>
+    </tr>
+</table>`
+
+let Moe = `
+<table class="result-table">
+    <tr>
+        <td>&#9724;</td>
+        <td>Region: <span class="place">Copenhagen</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Events Attended: <span class="place"></span></td>
+    </tr>
+</table>`
+
+let Maelstrom = `
+<table class="result-table">
+    <tr>
+        <td>&#9724;</td>
+        <td>Region: <span class="place">MDVA</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Events Attended: <span class="place"></span></td>
+    </tr>
+</table>`
+
+let bonfire10 = `
+<table class="result-table">
+    <tr>
+        <td>&#9724;</td>
+        <td>Region: <span class="place">Sheik</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Events Attended: <span class="place"></span></td>
+    </tr>
+</table>`
+
+let Captain_G = `
+<table class="result-table">
+    <tr>
+        <td>&#9724;</td>
+        <td>Region: <span class="place">Captain Falcon</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Events Attended: <span class="place"></span></td>
+    </tr>
+</table>`
+
+let rom = `
+<table class="result-table">
+    <tr>
+        <td>&#9724;</td>
+        <td>Region: <span class="place">Northern California</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Events Attended: <span class="place"></span></td>
+    </tr>
+</table>`
+
+let Fat_Tino = `
+<table class="result-table">
+    <tr>
+        <td>&#9724;</td>
+        <td>Region: <span class="place">London</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Events Attended: <span class="place">6</span></td>
+    </tr>
+</table>`
+
+let SDeems = `
+<table class="result-table">
+    <tr>
+        <td>&#9724;</td>
+        <td>Region: <span class="place">Georgia</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Events Attended: <span class="place">11</span></td>
+    </tr>
+</table>`
+
+let Louis = `
+<table class="result-table">
+    <tr>
+        <td>&#9724;</td>
+        <td>Region: <span class="place">Tristate</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Events Attended: <span class="place"></span></td>
+    </tr>
+</table>`
+
+let Fable = `
+<table class="result-table">
+    <tr>
+        <td>&#9724;</td>
+        <td>Region: <span class="place">Dallas-Fort Worth</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Events Attended: <span class="place">6</span></td>
+    </tr>
+</table>`
+
+let Anchovy = `
+<table class="result-table">
+    <tr>
+        <td>&#9724;</td>
+        <td>Region: <span class="place">Washington</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Events Attended: <span class="place">8</span></td>
+    </tr>
+</table>`
+
+let Nickemwit = `
+<table class="result-table">
+    <tr>
+        <td>&#9724;</td>
+        <td>Region: <span class="place">Washington</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Events Attended: <span class="place">7</span></td>
+    </tr>
+</table>`
+
+let cliche = `
+<table class="result-table">
+    <tr>
+        <td>&#9724;</td>
+        <td>Region: <span class="place">Southern California</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Events Attended: <span class="place">10</span></td>
+    </tr>
+</table>`
+
+let Foxy_Grandpa = `
+<table class="result-table">
+    <tr>
+        <td>&#9724;</td>
+        <td>Region: <span class="place">Tristate</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Events Attended: <span class="place">5</span></td>
+    </tr>
+</table>`
+
+let mgmg = `
+<table class="result-table">
+    <tr>
+        <td>&#9724;</td>
+        <td>Region: <span class="place">Southern Ontario</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Events Attended: <span class="place">mgmg</span></td>
+    </tr>
+</table>`
+
+let Den = `
+<table class="result-table">
+    <tr>
+        <td>&#9724;</td>
+        <td>Region: <span class="place">Tennessee</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Events Attended: <span class="place">13</span></td>
+    </tr>
+</table>`
+
+let Ober = `
+<table class="result-table">
+    <tr>
+        <td>&#9724;</td>
+        <td>Region: <span class="place">Chicago</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Events Attended: <span class="place">12</span></td>
+    </tr>
+</table>`
+
+let Goosekhan = `
+<table class="result-table">
+    <tr>
+        <td>&#9724;</td>
+        <td>Region: <span class="place">Southern Ontario</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Events Attended: <span class="place">12</span></td>
+    </tr>
+</table>`
+
+let Graves = `
+<table class="result-table">
+    <tr>
+        <td>&#9724;</td>
+        <td>Region: <span class="place">Washington</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Events Attended: <span class="place">12</span></td>
+    </tr>
+</table>`
+
+let Kero = `
+<table class="result-table">
+    <tr>
+        <td>&#9724;</td>
+        <td>Region: <span class="place">Alabama</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Events Attended: <span class="place">8</span></td>
+    </tr>
+</table>`
+
+let Stone = `
+<table class="result-table">
+    <tr>
+        <td>&#9724;</td>
+        <td>Region: <span class="place">Austin</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Events Attended: <span class="place">13</span></td>
+    </tr>
+</table>`
+
+let Freezus = `
+<table class="result-table">
+    <tr>
+        <td>&#9724;</td>
+        <td>Region: <span class="place">Tristate</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Events Attended: <span class="place">16</span></td>
+    </tr>
+</table>`
+
+let Inky = `
+<table class="result-table">
+    <tr>
+        <td>&#9724;</td>
+        <td>Region: <span class="place">Nova Scotia</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Events Attended: <span class="place">6</span></td>
+    </tr>
+</table>`
+
+let Fudge = `
+<table class="result-table">
+    <tr>
+        <td>&#9724;</td>
+        <td>Region: <span class="place">6</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Events Attended: <span class="place">Philadelphia</span></td>
+    </tr>
+</table>`
+
+let Reesch = `
+<table class="result-table">
+    <tr>
+        <td>&#9724;</td>
+        <td>Region: <span class="place">Kansas City</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Events Attended: <span class="place">9</span></td>
+    </tr>
+</table>`
+
+let DannyPhantom = `
+<table class="result-table">
+    <tr>
+        <td>&#9724;</td>
+        <td>Region: <span class="place">Wisconsin</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Events Attended: <span class="place">14</span></td>
+    </tr>
+</table>`
+
+let Seven = `
+<table class="result-table">
+    <tr>
+        <td>&#9724;</td>
+        <td>Region: <span class="place">MDVA</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Events Attended: <span class="place">7</span></td>
+    </tr>
+</table>`
+
+let Jello = `
+<table class="result-table">
+    <tr>
+        <td>&#9724;</td>
+        <td>Region: <span class="place">Washington</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Events Attended: <span class="place">5</span></td>
+    </tr>
+</table>`
+
+let JCAM = `
+<table class="result-table">
+    <tr>
+        <td>&#9724;</td>
+        <td>Region: <span class="place">Panama</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Events Attended: <span class="place">4</span></td>
+    </tr>
+</table>`
+
+let Kuya = `
+<table class="result-table">
+    <tr>
+        <td>&#9724;</td>
+        <td>Region: <span class="place">Central Florida</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Events Attended: <span class="place">8</span></td>
+    </tr>
+</table>`
+
+let Darkatma = `
+<table class="result-table">
+    <tr>
+        <td>&#9724;</td>
+        <td>Region: <span class="place">Northern California</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Events Attended: <span class="place">4</span></td>
+    </tr>
+</table>`
+
+let Trail = `
+<table class="result-table">
+    <tr>
+        <td>&#9724;</td>
+        <td>Region: <span class="place">New England</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Events Attended: <span class="place">12</span></td>
+    </tr>
+</table>`
+
+let Erik = `
+<table class="result-table">
+    <tr>
+        <td>&#9724;</td>
+        <td>Region: <span class="place">Southern Ontario</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Events Attended: <span class="place">7</span></td>
+    </tr>
+</table>`
+
+let Vorporal = `
+<table class="result-table">
+    <tr>
+        <td>&#9724;</td>
+        <td>Region: <span class="place">Michigan</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Events Attended: <span class="place">12</span></td>
+    </tr>
+</table>`
+
+let htwa = `
+<table class="result-table">
+    <tr>
+        <td>&#9724;</td>
+        <td>Region: <span class="place">Georgia</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Events Attended: <span class="place">5</span></td>
+    </tr>
+</table>`
+
+let Elliot = `
+<table class="result-table">
+    <tr>
+        <td>&#9724;</td>
+        <td>Region: <span class="place">British Columbia</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Events Attended: <span class="place">6</span></td>
+    </tr>
+</table>`
+
+let LunarySSF2 = `
+<table class="result-table">
+    <tr>
+        <td>&#9724;</td>
+        <td>Region: <span class="place">Belgium</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Events Attended: <span class="place">5</span></td>
+    </tr>
+</table>`
+
+let Fizzwiggle = `
+<table class="result-table">
+    <tr>
+        <td>&#9724;</td>
+        <td>Region: <span class="place">Colorado</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Events Attended: <span class="place">6</span></td>
+    </tr>
+</table>`
+
+let Goodie = `
+<table class="result-table">
+    <tr>
+        <td>&#9724;</td>
+        <td>Region: <span class="place">Melbourne</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Events Attended: <span class="place">6</span></td>
+    </tr>
+</table>`
+
+let Sharp = `
+<table class="result-table">
+    <tr>
+        <td>&#9724;</td>
+        <td>Region: <span class="place">Stockholm</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Events Attended: <span class="place">6</span></td>
+    </tr>
+</table>`
+
+let Negative = `
+<table class="result-table">
+    <tr>
+        <td>&#9724;</td>
+        <td>Region: <span class="place">Michigan</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Events Attended: <span class="place">12</span></td>
+    </tr>
+</table>`
+
+let CAUP = `
+<table class="result-table">
+    <tr>
+        <td>&#9724;</td>
+        <td>Region: <span class="place">Georgia</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Events Attended: <span class="place">6</span></td>
+    </tr>
+</table>`
+
+let HOBORG = `
+<table class="result-table">
+    <tr>
+        <td>&#9724;</td>
+        <td>Region: <span class="place">Tristate</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Events Attended: <span class="place">17</span></td>
+    </tr>
+</table>`
+
+let Paladin = `
+<table class="result-table">
+    <tr>
+        <td>&#9724;</td>
+        <td>Region: <span class="place">Tennessee</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Events Attended: <span class="place">5</span></td>
+    </tr>
+</table>`
+
+let Dusk = `
+<table class="result-table">
+    <tr>
+        <td>&#9724;</td>
+        <td>Region: <span class="place">Georgia</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Events Attended: <span class="place">6</span></td>
+    </tr>
+</table>`
+
+let n3zModGod = `
+<table class="result-table">
+    <tr>
+        <td>&#9724;</td>
+        <td>Region: <span class="place">Austin</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Events Attended: <span class="place">5</span></td>
+    </tr>
+</table>`
+
+let POG_Epic_Gamer = `
+<table class="result-table">
+    <tr>
+        <td>&#9724;</td>
+        <td>Region: <span class="place">Alabama</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Events Attended: <span class="place">7</span></td>
+    </tr>
+</table>`
+
+let Kingu = `
+<table class="result-table">
+    <tr>
+        <td>&#9724;</td>
+        <td>Region: <span class="place">Bristol</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Events Attended: <span class="place">15</span></td>
+    </tr>
+</table>`
+
+let Guex = `
+<table class="result-table">
+    <tr>
+        <td>&#9724;</td>
+        <td>Region: <span class="place">New England</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Events Attended: <span class="place">6</span></td>
+    </tr>
+</table>`
+
+let Bonn = `
+<table class="result-table">
+    <tr>
+        <td>&#9724;</td>
+        <td>Region: <span class="place">Tristate</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Events Attended: <span class="place">6</span></td>
+    </tr>
+</table>`
+
+let Agent = `
+<table class="result-table">
+    <tr>
+        <td>&#9724;</td>
+        <td>Region: <span class="place">Upstate New York</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Events Attended: <span class="place">7</span></td>
+    </tr>
+</table>`
+
+let Breakfast = `
+<table class="result-table">
+    <tr>
+        <td>&#9724;</td>
+        <td>Region: <span class="place">Southern California</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Events Attended: <span class="place">9</span></td>
+    </tr>
+</table>`
+
+let CakeAssault = `
+<table class="result-table">
+    <tr>
+        <td>&#9724;</td>
+        <td>Region: <span class="place">Pittsburgh</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Events Attended: <span class="place">11</span></td>
+    </tr>
+</table>`
+
+let eve = `
+<table class="result-table">
+    <tr>
+        <td>&#9724;</td>
+        <td>Region: <span class="place">MDVA</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Events Attended: <span class="place">14</span></td>
+    </tr>
+</table>`
+
+let Cilan = `
+<table class="result-table">
+    <tr>
+        <td>&#9724;</td>
+        <td>Region: <span class="place">Houston</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Events Attended: <span class="place">7</span></td>
+    </tr>
+</table>`
+
+let Eggy = `
+<table class="result-table">
+    <tr>
+        <td>&#9724;</td>
+        <td>Region: <span class="place">Chicago</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Events Attended: <span class="place">5</span></td>
+    </tr>
+</table>`
+
+let cupofwater = `
+<table class="result-table">
+    <tr>
+        <td>&#9724;</td>
+        <td>Region: <span class="place">New England</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Events Attended: <span class="place">7</span></td>
+    </tr>
+</table>`
+
+let Blargh257 = `
+<table class="result-table">
+    <tr>
+        <td>&#9724;</td>
+        <td>Region: <span class="place">Northern California</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Events Attended: <span class="place">5</span></td>
+    </tr>
+</table>`
+
+let Coin = `
+<table class="result-table">
+    <tr>
+        <td>&#9724;</td>
+        <td>Region: <span class="place">Michigan</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Events Attended: <span class="place">5</span></td>
+    </tr>
+</table>`
+
+let Young_Neil = `
+<table class="result-table">
+    <tr>
+        <td>&#9724;</td>
+        <td>Region: <span class="place">Philadelphia</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Events Attended: <span class="place">7</span></td>
+    </tr>
+</table>`
+
+let Maher = `
+<table class="result-table">
+    <tr>
+        <td>&#9724;</td>
+        <td>Region: <span class="place">Southern Ontario</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Events Attended: <span class="place">21</span></td>
+    </tr>
+</table>`
+
+let lynxwynx = `
+<table class="result-table">
+    <tr>
+        <td>&#9724;</td>
+        <td>Region: <span class="place">Philadelphia</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Events Attended: <span class="place">11</span></td>
+    </tr>
+</table>`
+
+let Nakamaman = `
+<table class="result-table">
+    <tr>
+        <td>&#9724;</td>
+        <td>Region: <span class="place">Minnesota</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Events Attended: <span class="place">8</span></td>
+    </tr>
+</table>`
+
+let fknsilver = `
+<table class="result-table">
+    <tr>
+        <td>&#9724;</td>
+        <td>Region: <span class="place">Georgia</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Events Attended: <span class="place">8</span></td>
+    </tr>
+</table>`
+
+let Vintage = `
+<table class="result-table">
+    <tr>
+        <td>&#9724;</td>
+        <td>Region: <span class="place">MDVA</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Events Attended: <span class="place">8</span></td>
+    </tr>
+</table>`
+
+let Silver = `
+<table class="result-table">
+    <tr>
+        <td>&#9724;</td>
+        <td>Region: <span class="place">New England</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Events Attended: <span class="place">8</span></td>
+    </tr>
+</table>`
+
+let Equilateral = `
+<table class="result-table">
+    <tr>
+        <td>&#9724;</td>
+        <td>Region: <span class="place">North Florida</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Events Attended: <span class="place">5</span></td>
+    </tr>
+</table>`
+
+let Cannagar = `
+<table class="result-table">
+    <tr>
+        <td>&#9724;</td>
+        <td>Region: <span class="place">Tristate</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Events Attended: <span class="place">7</span></td>
+    </tr>
+</table>`
+
+let Alberto = `
+<table class="result-table">
+    <tr>
+        <td>&#9724;</td>
+        <td>Region: <span class="place">Southern California</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Events Attended: <span class="place">8</span></td>
+    </tr>
+</table>`
+
+let rabit = `
+<table class="result-table">
+    <tr>
+        <td>&#9724;</td>
+        <td>Region: <span class="place">Louisiana</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Events Attended: <span class="place">7</span></td>
+    </tr>
+</table>`
+
+let lexor = `
+<table class="result-table">
+    <tr>
+        <td>&#9724;</td>
+        <td>Region: <span class="place">Minnesota</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Events Attended: <span class="place">15</span></td>
+    </tr>
+</table>`
+
+let Killablue = `
+<table class="result-table">
+    <tr>
+        <td>&#9724;</td>
+        <td>Region: <span class="place">Chicago</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Events Attended: <span class="place">14</span></td>
+    </tr>
+</table>`
+
+let egg = `
+<table class="result-table">
+    <tr>
+        <td>&#9724;</td>
+        <td>Region: <span class="place">MDVA</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Events Attended: <span class="place">11</span></td>
+    </tr>
+</table>`
+
+let RC = `
+<table class="result-table">
+    <tr>
+        <td>&#9724;</td>
+        <td>Region: <span class="place">Upstate New York</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Events Attended: <span class="place">6</span></td>
+    </tr>
+</table>`
+
+let Haunter = `
+<table class="result-table">
+    <tr>
+        <td>&#9724;</td>
+        <td>Region: <span class="place">Houston</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Events Attended: <span class="place">5</span></td>
+    </tr>
+</table>`
+
+let Howdy = `
+<table class="result-table">
+    <tr>
+        <td>&#9724;</td>
+        <td>Region: <span class="place">Falco</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Events Attended: <span class="place">7</span></td>
+    </tr>
+</table>`
+
+let glock_in_my_toyota = `
+<table class="result-table">
+    <tr>
+        <td>&#9724;</td>
+        <td>Region: <span class="place">New England</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Events Attended: <span class="place">11</span></td>
+    </tr>
+</table>`
+
+let Younger = `
+<table class="result-table">
+    <tr>
+        <td>&#9724;</td>
+        <td>Region: <span class="place">New England</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Events Attended: <span class="place">10</span></td>
+    </tr>
+</table>`
+
+let bbeanLI = `
+<table class="result-table">
+    <tr>
+        <td>&#9724;</td>
+        <td>Region: <span class="place">Tristate</span></td>
+    </tr>
+    <tr>
+        <td>&#9724;</td>
+        <td>Events Attended: <span class="place">6</span></td>
+    </tr>
+</table>`
+
+
+// END OF TOP 200
 
 let leffen = `
 <table class="result-table">
@@ -2082,11 +3287,11 @@ let leffen = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">14-6</span></td>
+        <td>Record vs. SSBMRank ballot players: <span class="place">14-6</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place">0</span></td>
+        <td>Losses to non-ballot (SSBMRank) players: <span class="place">0</span></td>
     </tr>
 </table>`
 
@@ -2102,11 +3307,11 @@ let twosaint = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">11-8</span></td>
+        <td>Record vs. SSBMRank ballot players: <span class="place">11-8</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place">0</span></td>
+        <td>Losses to non-ballot (SSBMRank) players: <span class="place">0</span></td>
     </tr>
 </table>`
 
@@ -2122,13 +3327,14 @@ let swift = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Record vs. ballot players: <span class="place">12-11</span></td>
+        <td>Record vs. SSBMRank ballot players: <span class="place">12-11</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Losses to non-ballot players: <span class="place">4</span></td>
+        <td>Losses to non-ballot (SSBMRank) players: <span class="place">4</span></td>
     </tr>
 </table>`
+
 
 let insanelyLongArray = ["", cody, zain, jmook, moky, plup, hbox, amsa, mango, wizzy, aklo, kodorin, llod,
 salt, zuppy, trif, s2j, magi, morsecode, polish, joshman, zamu, axe, soonsay, chem, spark, ginger, sfop, sdj,
@@ -2137,4 +3343,11 @@ Azel, MOF, Matteo, Mekk, Khryke, CPU0, Gahtzu, Smash_Papi, TheRealThing, billybo
 Drephen, Eddy_Mexico, shabo, Lucky, Lunar_Dusk, Kevin_Maples, Palpa, MilkMan, KoopaTroopa895, Pipsqueak, Grab, 
 Kurv, TheSWOOPER, Voo, Mvlvchi, Professor_Pro, null_gio, Kalvar, essy, Quang, Asashi, Mot$, Panko, Stiv, Dawson, prof, 
 Slowking, Preeminent, Franz, Fishbait, Ralph, Akir, Egg$, Lowercase_Hero, Wevans, Squid, JoJo, Justus, K8A, Chango, 
-Jah_Ridin, four_oh_four_Cray, Zeo, leffen, twosaint, swift]
+Jah_Ridin, four_oh_four_Cray, Zeo, Balloon_Day, Prometheus, JJM, Casper, Umarth, DrLobster, Bekvin, Zanya, JSalt, Q, 
+salami, Juicebox, Komodo, Frostbyte, nut, max, Jude, Aura, The_Leaf, Typhoon, Reeve, Epoodle, Moe, Maelstrom, bonfire10, 
+Captain_G, rom, Fat_Tino, SDeems, Louis, Fable, Anchovy, Nickemwit, cliche, Foxy_Grandpa, mgmg, Den, Ober, Goosekhan, 
+Graves, Kero, Stone, Freezus, Inky, Fudge, Reesch, DannyPhantom, Seven, Jello, JCAM, Kuya, Darkatma, Trail, Erik, 
+Vorporal, htwa, Elliot, LunarySSF2, Fizzwiggle, Goodie, Sharp, Negative, CAUP, HOBORG, Paladin, Dusk, n3zModGod, 
+POG_Epic_Gamer, Kingu, Guex, Bonn, Agent, Breakfast, CakeAssault, eve, Cilan, Eggy, cupofwater, Blargh257, Coin, 
+Young_Neil, Maher, lynxwynx, Nakamaman, fknsilver, Vintage, Silver, Equilateral, Cannagar, Alberto, rabit, lexor, 
+Killablue, egg, RC, Haunter, Howdy, glock_in_my_toyota, Younger, bbeanLI, leffen, twosaint, swift]
