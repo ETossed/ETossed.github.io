@@ -2364,7 +2364,7 @@ let bonfire10 = `
 <table class="result-table">
     <tr>
         <td>&#9724;</td>
-        <td>Region: <span class="place">Sheik</span></td>
+        <td>Region: <span class="place">New England</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
@@ -3344,7 +3344,7 @@ Drephen, Eddy_Mexico, shabo, Lucky, Lunar_Dusk, Kevin_Maples, Palpa, MilkMan, Ko
 Kurv, TheSWOOPER, Voo, Mvlvchi, Professor_Pro, null_gio, Kalvar, essy, Quang, Asashi, Mot$, Panko, Stiv, Dawson, prof, 
 Slowking, Preeminent, Franz, Fishbait, Ralph, Akir, Egg$, Lowercase_Hero, Wevans, Squid, JoJo, Justus, K8A, Chango, 
 Jah_Ridin, four_oh_four_Cray, Zeo, Balloon_Day, Prometheus, JJM, Casper, Umarth, DrLobster, Bekvin, Zanya, JSalt, Q, 
-salami, Juicebox, Komodo, Frostbyte, nut, max, Jude, Aura, The_Leaf, Typhoon, Reeve, Epoodle, Moe, Maelstrom, bonfire10, 
+salami, Juicebox, Komodo, Frostbyte, nut, max, Jude, Aura, The_Leaf, Typhoon, Epoodle, Reeve, Moe, Maelstrom, bonfire10, 
 Captain_G, rom, Fat_Tino, SDeems, Louis, Fable, Anchovy, Nickemwit, cliche, Foxy_Grandpa, mgmg, Den, Ober, Goosekhan, 
 Graves, Kero, Stone, Freezus, Inky, Fudge, Reesch, DannyPhantom, Seven, Jello, JCAM, Kuya, Darkatma, Trail, Erik, 
 Vorporal, htwa, Elliot, LunarySSF2, Fizzwiggle, Goodie, Sharp, Negative, CAUP, HOBORG, Paladin, Dusk, n3zModGod, 
