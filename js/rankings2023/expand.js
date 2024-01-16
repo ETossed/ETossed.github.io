@@ -2128,7 +2128,7 @@ let Umarth = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Events Attended: <span class="place"></span></td>
+        <td>Events Attended: <span class="place">13</span></td>
     </tr>
 </table>`
 
@@ -2140,7 +2140,7 @@ let DrLobster = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Events Attended: <span class="place"></span></td>
+        <td>Events Attended: <span class="place">6</span></td>
     </tr>
 </table>`
 
@@ -2152,7 +2152,7 @@ let Bekvin = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Events Attended: <span class="place"></span></td>
+        <td>Events Attended: <span class="place">10</span></td>
     </tr>
 </table>`
 
@@ -2164,7 +2164,7 @@ let Zanya = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Events Attended: <span class="place"></span></td>
+        <td>Events Attended: <span class="place">5</span></td>
     </tr>
 </table>`
 
@@ -2176,7 +2176,7 @@ let JSalt = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Events Attended: <span class="place"></span></td>
+        <td>Events Attended: <span class="place">11</span></td>
     </tr>
 </table>`
 
@@ -2188,7 +2188,7 @@ let Q = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Events Attended: <span class="place"></span></td>
+        <td>Events Attended: <span class="place">9</span></td>
     </tr>
 </table>`
 
@@ -2200,7 +2200,7 @@ let salami = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Events Attended: <span class="place"></span></td>
+        <td>Events Attended: <span class="place">11</span></td>
     </tr>
 </table>`
 
@@ -2212,7 +2212,7 @@ let Juicebox = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Events Attended: <span class="place"></span></td>
+        <td>Events Attended: <span class="place">9</span></td>
     </tr>
 </table>`
 
@@ -2248,7 +2248,7 @@ let nut = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Events Attended: <span class="place"></span></td>
+        <td>Events Attended: <span class="place">16</span></td>
     </tr>
 </table>`
 
@@ -2260,7 +2260,7 @@ let max = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Events Attended: <span class="place"></span></td>
+        <td>Events Attended: <span class="place">15</span></td>
     </tr>
 </table>`
 
@@ -2272,7 +2272,7 @@ let Jude = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Events Attended: <span class="place"></span></td>
+        <td>Events Attended: <span class="place">12</span></td>
     </tr>
 </table>`
 
@@ -2284,7 +2284,7 @@ let Aura = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Events Attended: <span class="place"></span></td>
+        <td>Events Attended: <span class="place">7</span></td>
     </tr>
 </table>`
 
@@ -2308,7 +2308,7 @@ let Typhoon = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Events Attended: <span class="place"></span></td>
+        <td>Events Attended: <span class="place">11</span></td>
     </tr>
 </table>`
 
@@ -2320,7 +2320,7 @@ let Reeve = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Events Attended: <span class="place"></span></td>
+        <td>Events Attended: <span class="place">12</span></td>
     </tr>
 </table>`
 
@@ -2344,7 +2344,7 @@ let Moe = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Events Attended: <span class="place"></span></td>
+        <td>Events Attended: <span class="place">12</span></td>
     </tr>
 </table>`
 
@@ -2356,7 +2356,7 @@ let Maelstrom = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Events Attended: <span class="place"></span></td>
+        <td>Events Attended: <span class="place">17</span></td>
     </tr>
 </table>`
 
@@ -2368,7 +2368,7 @@ let bonfire10 = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Events Attended: <span class="place"></span></td>
+        <td>Events Attended: <span class="place">probably like 45 idk man</span></td>
     </tr>
 </table>`
 
@@ -2380,7 +2380,7 @@ let Captain_G = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Events Attended: <span class="place"></span></td>
+        <td>Events Attended: <span class="place">4</span></td>
     </tr>
 </table>`
 
@@ -2392,7 +2392,7 @@ let rom = `
     </tr>
     <tr>
         <td>&#9724;</td>
-        <td>Events Attended: <span class="place"></span></td>
+        <td>Events Attended: <span class="place">11</span></td>
     </tr>
 </table>`
 
