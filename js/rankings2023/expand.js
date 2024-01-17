@@ -2376,7 +2376,7 @@ let Captain_G = `
 <table class="result-table">
     <tr>
         <td>&#9724;</td>
-        <td>Region: <span class="place">Captain Falcon</span></td>
+        <td>Region: <span class="place">Central Florida</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
@@ -3228,7 +3228,7 @@ let Howdy = `
 <table class="result-table">
     <tr>
         <td>&#9724;</td>
-        <td>Region: <span class="place">Falco</span></td>
+        <td>Region: <span class="place">Austin</span></td>
     </tr>
     <tr>
         <td>&#9724;</td>
